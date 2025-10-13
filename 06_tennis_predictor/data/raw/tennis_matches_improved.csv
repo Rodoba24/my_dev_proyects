@@ -1,0 +1,1438 @@
+table_index,row_index,scraped_at,col_0,col_1,col_2,col_3,col_4,col_5,col_6,col_7,col_8,col_9,time,player1,player2,score,tournament,round,source_url,source_page
+0,1,2025-08-25 14:58:54,00:20,Giron M.,3,6,7,4,5,6,2.01,1.80,00:20,Giron M.,,,,,https://www.tennisexplorer.com/results/,results
+0,2,2025-08-25 14:58:54,00:20,Navone M.,2,0,5,6,7,4,,,00:20,Navone M.,,,,,https://www.tennisexplorer.com/results/,results
+0,3,2025-08-25 14:58:54,01:10,Nakashima B.(30),3,6,65,2,6,7,2.01,1.80,01:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,4,2025-08-25 14:58:54,01:10,De Jong J.,2,2,7,6,2,67,,,01:10,De Jong J.,,,,,https://www.tennisexplorer.com/results/,results
+0,5,2025-08-25 14:58:54,01:20,Djokovic N.(7),3,6,7,6,,,1.14,5.74,01:20,,,,,,https://www.tennisexplorer.com/results/,results
+0,6,2025-08-25 14:58:54,01:20,Tien L.,0,1,63,2,,,,,01:20,Tien L.,,,,,https://www.tennisexplorer.com/results/,results
+0,7,2025-08-25 14:58:54,03:05,Bonzi B.,3,6,7,65,0,6,1.14,5.74,03:05,Bonzi B.,,,,,https://www.tennisexplorer.com/results/,results
+0,8,2025-08-25 14:58:54,03:05,Medvedev D.(13),2,3,5,7,6,4,,,03:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,9,2025-08-25 14:58:54,17:05,Damm M.,3,6,6,6,,,2.01,1.78,17:05,Damm M.,,,,,https://www.tennisexplorer.com/results/,results
+0,10,2025-08-25 14:58:54,17:05,Blanch D.,0,3,4,4,,,,,17:05,Blanch D.,,,,,https://www.tennisexplorer.com/results/,results
+0,11,2025-08-25 14:58:54,17:05,Harris L.,3,6,7,6,,,2.01,1.78,17:05,Harris L.,,,,,https://www.tennisexplorer.com/results/,results
+0,12,2025-08-25 14:58:54,17:05,Baez S.,0,3,5,4,,,,,17:05,Baez S.,,,,,https://www.tennisexplorer.com/results/,results
+0,13,2025-08-25 14:58:54,17:10,Bergs Z.,3,6,6,6,,,1.38,3.07,17:10,Bergs Z.,,,,,https://www.tennisexplorer.com/results/,results
+0,14,2025-08-25 14:58:54,17:10,Tseng C.,0,3,4,3,,,,,17:10,Tseng C.,,,,,https://www.tennisexplorer.com/results/,results
+0,15,2025-08-25 14:58:54,17:10,Wong C.,3,6,7,7,,,1.38,3.07,17:10,Wong C.,,,,,https://www.tennisexplorer.com/results/,results
+0,16,2025-08-25 14:58:54,17:10,Kovacevic A.,0,4,5,64,,,,,17:10,Kovacevic A.,,,,,https://www.tennisexplorer.com/results/,results
+0,17,2025-08-25 14:58:54,17:10,Walton A.,3,6,7,5,6,,2.75,1.44,17:10,Walton A.,,,,,https://www.tennisexplorer.com/results/,results
+0,18,2025-08-25 14:58:54,17:10,Humbert U.(22),1,4,64,7,1,,,,17:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,19,2025-08-25 14:58:54,17:10,Norrie C.,1,7,6,,,,2.75,1.44,17:10,Norrie C.,,,,,https://www.tennisexplorer.com/results/,results
+0,20,2025-08-25 14:58:54,17:10,Korda S.,0,5,4,,,,,,17:10,Korda S.,,,,,https://www.tennisexplorer.com/results/,results
+0,21,2025-08-25 14:58:54,18:25,Fonseca J.,3,7,7,6,,,1.53,2.48,18:25,Fonseca J.,,,,,https://www.tennisexplorer.com/results/,results
+0,22,2025-08-25 14:58:54,18:25,Kecmanovic M.,0,63,65,3,,,,,18:25,Kecmanovic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,23,2025-08-25 14:58:54,18:55,Draper J.(5),3,6,7,67,6,,1.53,2.48,18:55,,,,,,https://www.tennisexplorer.com/results/,results
+0,24,2025-08-25 14:58:54,18:55,Gomez F.,1,4,5,7,2,,,,18:55,Gomez F.,,,,,https://www.tennisexplorer.com/results/,results
+0,25,2025-08-25 14:58:54,19:20,Collignon R.,3,6,6,6,,,1.87,1.93,19:20,Collignon R.,,,,,https://www.tennisexplorer.com/results/,results
+0,26,2025-08-25 14:58:54,19:20,Galan D.,0,4,4,4,,,,,19:20,Galan D.,,,,,https://www.tennisexplorer.com/results/,results
+0,27,2025-08-25 14:58:54,19:40,Comesana F.,3,1,6,6,6,,1.87,1.93,19:40,Comesana F.,,,,,https://www.tennisexplorer.com/results/,results
+0,28,2025-08-25 14:58:54,19:40,Michelsen A.(28),1,6,3,4,4,,,,19:40,,,,,,https://www.tennisexplorer.com/results/,results
+0,29,2025-08-25 14:58:54,Como challenger,S,1,2,3,4,5,H,A,,,Como challenger,,,,,https://www.tennisexplorer.com/results/,results
+0,30,2025-08-25 14:58:54,14:00,Caniato C.,2,4,6,6,,,1.55,2.33,14:00,Caniato C.,,,,,https://www.tennisexplorer.com/results/,results
+0,31,2025-08-25 14:58:54,14:00,Rodriguez Taverna S.(5),1,6,3,1,,,,,14:00,,,,,,https://www.tennisexplorer.com/results/,results
+0,32,2025-08-25 14:58:54,14:35,Martin A.,2,6,6,,,,1.55,2.33,14:35,Martin A.,,,,,https://www.tennisexplorer.com/results/,results
+0,33,2025-08-25 14:58:54,14:35,Jianu F.,0,4,3,,,,,,14:35,Jianu F.,,,,,https://www.tennisexplorer.com/results/,results
+0,34,2025-08-25 14:58:54,15:00,Bueno G.(4),2,3,6,6,,,2.62,1.44,15:00,,,,,,https://www.tennisexplorer.com/results/,results
+0,35,2025-08-25 14:58:54,15:00,Diaz Acosta F.,1,6,3,4,,,,,15:00,Diaz Acosta F.,,,,,https://www.tennisexplorer.com/results/,results
+0,36,2025-08-25 14:58:54,16:15,Ajdukovic D.,2,6,7,,,,2.62,1.44,16:15,Ajdukovic D.,,,,,https://www.tennisexplorer.com/results/,results
+0,37,2025-08-25 14:58:54,16:15,Gakhov I.(8),0,1,65,,,,,,16:15,,,,,,https://www.tennisexplorer.com/results/,results
+0,38,2025-08-25 14:58:54,16:20,Torres J.,2,4,6,6,,,1.74,2.01,16:20,Torres J.,,,,,https://www.tennisexplorer.com/results/,results
+0,39,2025-08-25 14:58:54,16:20,Martin Tiffon P.,1,6,3,3,,,,,16:20,Martin Tiffon P.,,,,,https://www.tennisexplorer.com/results/,results
+0,40,2025-08-25 14:58:54,Porto 2 challenger,S,1,2,3,4,5,H,1.74,2.01,,,,,,,https://www.tennisexplorer.com/results/,results
+0,41,2025-08-25 14:58:54,13:10,Sanchez Izquierdo N.,2,6,6,,,,3.03,1.34,13:10,Sanchez Izquierdo N.,,,,,https://www.tennisexplorer.com/results/,results
+0,42,2025-08-25 14:58:54,13:10,Seyboth Wild T.(1),0,2,4,,,,,,13:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,43,2025-08-25 14:58:54,14:40,Bailly G.,2,6,6,,,,3.03,1.34,14:40,Bailly G.,,,,,https://www.tennisexplorer.com/results/,results
+0,44,2025-08-25 14:58:54,14:40,Mrva M.,0,1,2,,,,,,14:40,Mrva M.,,,,,https://www.tennisexplorer.com/results/,results
+0,45,2025-08-25 14:58:54,15:10,Dodig M.,2,2,6,6,,,1.50,2.44,15:10,Dodig M.,,,,,https://www.tennisexplorer.com/results/,results
+0,46,2025-08-25 14:58:54,15:10,Pereira T.,1,6,4,4,,,,,15:10,Pereira T.,,,,,https://www.tennisexplorer.com/results/,results
+0,47,2025-08-25 14:58:54,16:05,Alvarez Varona N.,2,6,6,,,,1.50,2.44,16:05,Alvarez Varona N.,,,,,https://www.tennisexplorer.com/results/,results
+0,48,2025-08-25 14:58:54,16:05,Strombachs R.,0,0,2,,,,,,16:05,Strombachs R.,,,,,https://www.tennisexplorer.com/results/,results
+0,49,2025-08-25 14:58:54,16:30,Olivieri G.(7),2,6,6,,,,1.27,3.51,16:30,,,,,,https://www.tennisexplorer.com/results/,results
+0,50,2025-08-25 14:58:54,16:30,Hernandez Serrano J.,0,4,2,,,,,,16:30,Hernandez Serrano J.,,,,,https://www.tennisexplorer.com/results/,results
+0,51,2025-08-25 14:58:54,17:15,Barrena A.(4),2,6,6,,,,1.27,3.51,17:15,,,,,,https://www.tennisexplorer.com/results/,results
+0,52,2025-08-25 14:58:54,17:15,Negritu C.,0,4,4,,,,,,17:15,Negritu C.,,,,,https://www.tennisexplorer.com/results/,results
+0,53,2025-08-25 14:58:54,17:45,Araujo P.,2,5,6,7,,,4.97,1.15,17:45,Araujo P.,,,,,https://www.tennisexplorer.com/results/,results
+0,54,2025-08-25 14:58:54,17:45,Ymer E.(5),1,7,4,5,,,,,17:45,,,,,,https://www.tennisexplorer.com/results/,results
+0,55,2025-08-25 14:58:54,Futures 2025,S,1,2,3,4,5,H,4.97,1.15,,,,,,,https://www.tennisexplorer.com/results/,results
+0,56,2025-08-25 14:58:54,13:30,De Krom M.,1,6,0,,,,1.15,4.90,13:30,De Krom M.,,,,,https://www.tennisexplorer.com/results/,results
+0,57,2025-08-25 14:58:54,13:30,Fernandez Canovas A.,0,1,0,,,,,,13:30,Fernandez Canovas A.,,,,,https://www.tennisexplorer.com/results/,results
+0,58,2025-08-25 14:58:54,14:00,Juan Mano A.,2,6,6,,,,1.15,4.90,14:00,Juan Mano A.,,,,,https://www.tennisexplorer.com/results/,results
+0,59,2025-08-25 14:58:54,14:00,Bobichon M.,0,1,1,,,,,,14:00,Bobichon M.,,,,,https://www.tennisexplorer.com/results/,results
+0,60,2025-08-25 14:58:54,14:00,Campana Lee G.,2,6,6,,,,1.05,7.74,14:00,Campana Lee G.,,,,,https://www.tennisexplorer.com/results/,results
+0,61,2025-08-25 14:58:54,14:00,Helguera Casado L.,0,1,2,,,,,,14:00,Helguera Casado L.,,,,,https://www.tennisexplorer.com/results/,results
+0,62,2025-08-25 14:58:54,16:30,Vives Marcos P.,2,3,7,6,,,1.05,7.74,16:30,Vives Marcos P.,,,,,https://www.tennisexplorer.com/results/,results
+0,63,2025-08-25 14:58:54,16:30,Perez Contri S.,1,6,68,2,,,,,16:30,Perez Contri S.,,,,,https://www.tennisexplorer.com/results/,results
+0,64,2025-08-25 14:58:54,19:00,Falabella L.,2,7,6,,,,4.48,1.17,19:00,Falabella L.,,,,,https://www.tennisexplorer.com/results/,results
+0,65,2025-08-25 14:58:54,19:00,Rodriguez L.,0,66,3,,,,,,19:00,Rodriguez L.,,,,,https://www.tennisexplorer.com/results/,results
+0,66,2025-08-25 14:58:54,21:05,La Serna J.,2,6,6,,,,4.48,1.17,21:05,La Serna J.,,,,,https://www.tennisexplorer.com/results/,results
+0,67,2025-08-25 14:58:54,21:05,Schachter N.,0,4,4,,,,,,21:05,Schachter N.,,,,,https://www.tennisexplorer.com/results/,results
+0,68,2025-08-25 14:58:54,13:00,Beraldo L.,2,6,6,,,,1.89,1.80,13:00,Beraldo L.,,,,,https://www.tennisexplorer.com/results/,results
+0,69,2025-08-25 14:58:54,13:00,Ortenzi G.,0,1,1,,,,,,13:00,Ortenzi G.,,,,,https://www.tennisexplorer.com/results/,results
+0,70,2025-08-25 14:58:54,13:00,Rapagnetta D.,2,6,6,,,,1.89,1.80,13:00,Rapagnetta D.,,,,,https://www.tennisexplorer.com/results/,results
+0,71,2025-08-25 14:58:54,13:00,De Marchi A.,0,2,2,,,,,,13:00,De Marchi A.,,,,,https://www.tennisexplorer.com/results/,results
+0,72,2025-08-25 14:58:54,13:00,Bilardo J.,2,6,1,6,,,3.81,1.22,13:00,Bilardo J.,,,,,https://www.tennisexplorer.com/results/,results
+0,73,2025-08-25 14:58:54,13:00,Martin Manzano J.,1,4,6,4,,,,,13:00,Martin Manzano J.,,,,,https://www.tennisexplorer.com/results/,results
+0,74,2025-08-25 14:58:54,13:00,Comino L.,2,7,6,,,,3.81,1.22,13:00,Comino L.,,,,,https://www.tennisexplorer.com/results/,results
+0,75,2025-08-25 14:58:54,13:00,Sciahbasi M.,0,5,1,,,,,,13:00,Sciahbasi M.,,,,,https://www.tennisexplorer.com/results/,results
+0,76,2025-08-25 14:58:54,14:30,Oradini G.,2,6,6,,,,1.54,2.34,14:30,Oradini G.,,,,,https://www.tennisexplorer.com/results/,results
+0,77,2025-08-25 14:58:54,14:30,Tabacco G.,0,3,3,,,,,,14:30,Tabacco G.,,,,,https://www.tennisexplorer.com/results/,results
+0,78,2025-08-25 14:58:54,14:30,Angelini L.,2,7,6,,,,1.54,2.34,14:30,Angelini L.,,,,,https://www.tennisexplorer.com/results/,results
+0,79,2025-08-25 14:58:54,14:30,Rossi L.,0,62,4,,,,,,14:30,Rossi L.,,,,,https://www.tennisexplorer.com/results/,results
+0,80,2025-08-25 14:58:54,14:30,Rahmani K.,2,7,6,,,,1.37,2.83,14:30,Rahmani K.,,,,,https://www.tennisexplorer.com/results/,results
+0,81,2025-08-25 14:58:54,14:30,Malgaroli L.,0,63,3,,,,,,14:30,Malgaroli L.,,,,,https://www.tennisexplorer.com/results/,results
+0,82,2025-08-25 14:58:54,14:30,Pieri S.,2,7,6,,,,1.37,2.83,14:30,Pieri S.,,,,,https://www.tennisexplorer.com/results/,results
+0,83,2025-08-25 14:58:54,14:30,Seghetti S.,0,66,0,,,,,,14:30,Seghetti S.,,,,,https://www.tennisexplorer.com/results/,results
+0,84,2025-08-25 14:58:54,UTR Pro Tennis Series,S,1,2,3,4,5,H,A,,,UTR Pro Tennis Series,,,,,https://www.tennisexplorer.com/results/,results
+0,85,2025-08-25 14:58:54,01:00,Burton M.,2,6,6,,,,1.21,3.55,01:00,Burton M.,,,,,https://www.tennisexplorer.com/results/,results
+0,86,2025-08-25 14:58:54,01:00,Papac T.,0,4,2,,,,,,01:00,Papac T.,,,,,https://www.tennisexplorer.com/results/,results
+0,87,2025-08-25 14:58:54,02:20,Jones S.,2,7,6,,,,1.21,3.55,02:20,Jones S.,,,,,https://www.tennisexplorer.com/results/,results
+0,88,2025-08-25 14:58:54,02:20,Mcleod A.,0,65,4,,,,,,02:20,Mcleod A.,,,,,https://www.tennisexplorer.com/results/,results
+0,89,2025-08-25 14:58:54,02:30,McFadzean L.,2,6,6,,,,1.55,2.20,02:30,McFadzean L.,,,,,https://www.tennisexplorer.com/results/,results
+0,90,2025-08-25 14:58:54,02:30,Staley J.,0,1,1,,,,,,02:30,Staley J.,,,,,https://www.tennisexplorer.com/results/,results
+0,91,2025-08-25 14:58:54,02:45,Zhao C.,2,6,6,,,,1.55,2.20,02:45,Zhao C.,,,,,https://www.tennisexplorer.com/results/,results
+0,92,2025-08-25 14:58:54,02:45,Ito K.,0,3,4,,,,,,02:45,Ito K.,,,,,https://www.tennisexplorer.com/results/,results
+0,93,2025-08-25 14:58:54,04:15,Hazratwala R.,2,6,6,,,,1.25,3.30,04:15,Hazratwala R.,,,,,https://www.tennisexplorer.com/results/,results
+0,94,2025-08-25 14:58:54,04:15,Shtengelov A.,0,3,2,,,,,,04:15,Shtengelov A.,,,,,https://www.tennisexplorer.com/results/,results
+0,95,2025-08-25 14:58:54,04:50,Birrell C.,2,6,6,,,,1.25,3.30,04:50,Birrell C.,,,,,https://www.tennisexplorer.com/results/,results
+0,96,2025-08-25 14:58:54,04:50,Qariaqus D.,0,2,3,,,,,,04:50,Qariaqus D.,,,,,https://www.tennisexplorer.com/results/,results
+0,97,2025-08-25 14:58:54,UTR Pro Tennis Series 3,S,1,2,3,4,5,H,A,,,,,,,,https://www.tennisexplorer.com/results/,results
+0,98,2025-08-25 14:58:54,18:00,Chin J.,2,2,6,7,,,1.35,2.73,18:00,Chin J.,,,,,https://www.tennisexplorer.com/results/,results
+0,99,2025-08-25 14:58:54,18:00,Yang V.,1,6,3,6,,,,,18:00,Yang V.,,,,,https://www.tennisexplorer.com/results/,results
+0,100,2025-08-25 14:58:54,18:00,Tallakson A.,2,6,7,,,,1.35,2.73,18:00,Tallakson A.,,,,,https://www.tennisexplorer.com/results/,results
+0,101,2025-08-25 14:58:54,18:00,Mishiro R.,0,3,6,,,,,,18:00,Mishiro R.,,,,,https://www.tennisexplorer.com/results/,results
+0,102,2025-08-25 14:58:54,18:20,Siekanowicz P.,2,6,6,,,,1.22,3.50,18:20,Siekanowicz P.,,,,,https://www.tennisexplorer.com/results/,results
+0,103,2025-08-25 14:58:54,18:20,Antunes Burckhardt M.,0,2,2,,,,,,18:20,Antunes Burckhardt M.,,,,,https://www.tennisexplorer.com/results/,results
+0,104,2025-08-25 14:58:54,UTR Pro Tennis Series 5,S,1,2,3,4,5,H,1.22,3.50,,,,,,,https://www.tennisexplorer.com/results/,results
+0,105,2025-08-25 14:58:54,09:12,Homola P.,2,6,6,,,,,,09:12,Homola P.,,,,,https://www.tennisexplorer.com/results/,results
+0,106,2025-08-25 14:58:54,09:12,Galus P.,0,2,3,,,,,,09:12,Galus P.,,,,,https://www.tennisexplorer.com/results/,results
+0,107,2025-08-25 14:58:54,10:00,Prechtel S.,2,6,6,,,,,,10:00,Prechtel S.,,,,,https://www.tennisexplorer.com/results/,results
+0,108,2025-08-25 14:58:54,10:00,Hujo O.,0,4,2,,,,,,10:00,Hujo O.,,,,,https://www.tennisexplorer.com/results/,results
+0,109,2025-08-25 14:58:54,10:55,Thornton E.,2,6,6,,,,,,10:55,Thornton E.,,,,,https://www.tennisexplorer.com/results/,results
+0,110,2025-08-25 14:58:54,10:55,Mileikowsky L.,0,1,2,,,,,,10:55,Mileikowsky L.,,,,,https://www.tennisexplorer.com/results/,results
+0,111,2025-08-25 14:58:54,12:30,Horak V.,2,6,3,6,,,,,12:30,Horak V.,,,,,https://www.tennisexplorer.com/results/,results
+0,112,2025-08-25 14:58:54,12:30,Castle M.,1,4,6,2,,,,,12:30,Castle M.,,,,,https://www.tennisexplorer.com/results/,results
+0,113,2025-08-25 14:58:54,13:35,Knesl D.,2,6,7,,,,3.00,1.30,13:35,Knesl D.,,,,,https://www.tennisexplorer.com/results/,results
+0,114,2025-08-25 14:58:54,13:35,Schwarc D.,0,3,5,,,,,,13:35,Schwarc D.,,,,,https://www.tennisexplorer.com/results/,results
+0,115,2025-08-25 14:58:54,UTR Pro Tennis Series 9,S,1,2,3,4,5,H,3.00,1.30,,,,,,,https://www.tennisexplorer.com/results/,results
+0,116,2025-08-25 14:58:54,06:35,Liu L.,2,6,6,6,,,,,06:35,Liu L.,,,,,https://www.tennisexplorer.com/results/,results
+0,117,2025-08-25 14:58:54,06:35,Storch S.,1,3,7,3,,,,,06:35,Storch S.,,,,,https://www.tennisexplorer.com/results/,results
+0,118,2025-08-25 14:58:54,06:45,Susanto A.,2,7,7,,,,,,06:45,Susanto A.,,,,,https://www.tennisexplorer.com/results/,results
+0,119,2025-08-25 14:58:54,06:45,Salim R.,0,6,5,,,,,,06:45,Salim R.,,,,,https://www.tennisexplorer.com/results/,results
+0,120,2025-08-25 14:58:54,09:30,Yadav Y.,2,6,6,,,,,,09:30,Yadav Y.,,,,,https://www.tennisexplorer.com/results/,results
+0,121,2025-08-25 14:58:54,09:30,Kesarwani M.,0,1,4,,,,,,09:30,Kesarwani M.,,,,,https://www.tennisexplorer.com/results/,results
+0,122,2025-08-25 14:58:54,10:50,Necz A.,2,6,6,,,,,,10:50,Necz A.,,,,,https://www.tennisexplorer.com/results/,results
+0,123,2025-08-25 14:58:54,10:50,Maguire C.,0,3,3,,,,,,10:50,Maguire C.,,,,,https://www.tennisexplorer.com/results/,results
+0,124,2025-08-25 14:58:54,Como challenger,S,1,2,3,4,5,H,A,,,Como challenger,,,,,https://www.tennisexplorer.com/results/,results
+0,125,2025-08-25 14:58:54,10:05,Compagnucci T.(6),2,6,6,,,,2.19,1.61,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,126,2025-08-25 14:58:54,10:05,Faurel T.,0,4,4,,,,,,10:05,Faurel T.,,,,,https://www.tennisexplorer.com/results/,results
+0,127,2025-08-25 14:58:54,10:05,Squire H.(8),2,7,64,6,,,2.19,1.61,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,128,2025-08-25 14:58:54,10:05,Molleker R.(4),1,63,7,2,,,,,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,129,2025-08-25 14:58:54,10:10,Pennaforti G.(9),2,6,4,6,,,3.69,1.25,10:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,130,2025-08-25 14:58:54,10:10,Montes-De La Torre I.(2),1,2,6,3,,,,,10:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,131,2025-08-25 14:58:54,12:05,Boitan G.(1),2,7,3,6,,,3.69,1.25,12:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,132,2025-08-25 14:58:54,12:05,Dalla Valle E.(7),1,5,6,3,,,,,12:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,133,2025-08-25 14:58:54,12:35,Fonio G.(5),2,6,6,,,,1.84,1.87,12:35,,,,,,https://www.tennisexplorer.com/results/,results
+0,134,2025-08-25 14:58:54,12:35,Vasami J.,0,4,2,,,,,,12:35,Vasami J.,,,,,https://www.tennisexplorer.com/results/,results
+0,135,2025-08-25 14:58:54,13:05,Brancaccio R.(3),2,6,6,,,,1.84,1.87,13:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,136,2025-08-25 14:58:54,13:05,Iannaccone F.(11),0,4,4,,,,,,13:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,137,2025-08-25 14:58:54,Futures 2025,S,1,2,3,4,5,H,A,,,,,,,,https://www.tennisexplorer.com/results/,results
+0,138,2025-08-25 14:58:54,--:--,Wien G.,1,,,,,,,,,Wien G.,,,,,https://www.tennisexplorer.com/results/,results
+0,139,2025-08-25 14:58:54,--:--,Ponomar O.,0,,,,,,,,,Ponomar O.,,,,,https://www.tennisexplorer.com/results/,results
+0,140,2025-08-25 14:58:54,--:--,Stino M.,1,0,6,,,,,,,Stino M.,,,,,https://www.tennisexplorer.com/results/,results
+0,141,2025-08-25 14:58:54,--:--,Froemel K.,0,6,4,,,,,,,Froemel K.,,,,,https://www.tennisexplorer.com/results/,results
+0,142,2025-08-25 14:58:54,--:--,Hrazdil J.,2,1,6,10,,,,,,Hrazdil J.,,,,,https://www.tennisexplorer.com/results/,results
+0,143,2025-08-25 14:58:54,--:--,Watzka R.,1,6,2,7,,,,,,Watzka R.,,,,,https://www.tennisexplorer.com/results/,results
+0,144,2025-08-25 14:58:54,--:--,Drayton T.,2,1,6,10,,,,,,Drayton T.,,,,,https://www.tennisexplorer.com/results/,results
+0,145,2025-08-25 14:58:54,--:--,Hornung G.,1,6,4,5,,,,,,Hornung G.,,,,,https://www.tennisexplorer.com/results/,results
+0,146,2025-08-25 14:58:54,--:--,Pedretti T.,2,2,6,10,,,,,,Pedretti T.,,,,,https://www.tennisexplorer.com/results/,results
+0,147,2025-08-25 14:58:54,--:--,Mikovic M.,1,6,3,7,,,,,,Mikovic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,148,2025-08-25 14:58:54,--:--,Nortey I.,2,2,6,13,,,,,,Nortey I.,,,,,https://www.tennisexplorer.com/results/,results
+0,149,2025-08-25 14:58:54,--:--,Gabet A.,1,6,3,11,,,,,,Gabet A.,,,,,https://www.tennisexplorer.com/results/,results
+0,150,2025-08-25 14:58:54,--:--,Vetrih M.,2,2,6,10,,,,,,Vetrih M.,,,,,https://www.tennisexplorer.com/results/,results
+0,151,2025-08-25 14:58:54,--:--,Urankar V.,1,6,4,1,,,,,,Urankar V.,,,,,https://www.tennisexplorer.com/results/,results
+0,152,2025-08-25 14:58:54,--:--,Postolka R.,2,2,7,10,,,,,,Postolka R.,,,,,https://www.tennisexplorer.com/results/,results
+0,153,2025-08-25 14:58:54,--:--,Penzlin J.,1,6,5,6,,,,,,Penzlin J.,,,,,https://www.tennisexplorer.com/results/,results
+0,154,2025-08-25 14:58:54,--:--,Avcibasi T.,1,3,,,,,,,,Avcibasi T.,,,,,https://www.tennisexplorer.com/results/,results
+0,155,2025-08-25 14:58:54,--:--,Juszczak D.,0,0,,,,,,,,Juszczak D.,,,,,https://www.tennisexplorer.com/results/,results
+0,156,2025-08-25 14:58:54,--:--,Seifert S.,2,3,6,11,,,,,,Seifert S.,,,,,https://www.tennisexplorer.com/results/,results
+0,157,2025-08-25 14:58:54,--:--,Markovits M.,1,6,3,9,,,,,,Markovits M.,,,,,https://www.tennisexplorer.com/results/,results
+0,158,2025-08-25 14:58:54,--:--,Michalik R.,2,4,7,10,,,,,,Michalik R.,,,,,https://www.tennisexplorer.com/results/,results
+0,159,2025-08-25 14:58:54,--:--,Torres R.,1,6,5,6,,,,,,Torres R.,,,,,https://www.tennisexplorer.com/results/,results
+0,160,2025-08-25 14:58:54,--:--,Kadangah Kili J.,2,4,7,10,,,,,,Kadangah Kili J.,,,,,https://www.tennisexplorer.com/results/,results
+0,161,2025-08-25 14:58:54,--:--,Bianchet S.,1,6,5,7,,,,,,Bianchet S.,,,,,https://www.tennisexplorer.com/results/,results
+0,162,2025-08-25 14:58:54,--:--,Wisniewski D.,2,5,6,10,,,,,,Wisniewski D.,,,,,https://www.tennisexplorer.com/results/,results
+0,163,2025-08-25 14:58:54,--:--,Aunion P.,1,7,4,7,,,,,,Aunion P.,,,,,https://www.tennisexplorer.com/results/,results
+0,164,2025-08-25 14:58:54,--:--,Campbell N.,2,5,7,10,,,,,,Campbell N.,,,,,https://www.tennisexplorer.com/results/,results
+0,165,2025-08-25 14:58:54,--:--,Hooper L.,1,7,6,3,,,,,,Hooper L.,,,,,https://www.tennisexplorer.com/results/,results
+0,166,2025-08-25 14:58:54,--:--,Mikovic N.,2,6,6,,,,,,,Mikovic N.,,,,,https://www.tennisexplorer.com/results/,results
+0,167,2025-08-25 14:58:54,--:--,Watts A.,0,0,0,,,,,,,Watts A.,,,,,https://www.tennisexplorer.com/results/,results
+0,168,2025-08-25 14:58:54,--:--,Yue C.,2,6,6,,,,,,,Yue C.,,,,,https://www.tennisexplorer.com/results/,results
+0,169,2025-08-25 14:58:54,--:--,Liu C.,0,0,0,,,,,,,Liu C.,,,,,https://www.tennisexplorer.com/results/,results
+0,170,2025-08-25 14:58:54,--:--,Furlanetto M.,2,6,6,,,,,,,Furlanetto M.,,,,,https://www.tennisexplorer.com/results/,results
+0,171,2025-08-25 14:58:54,--:--,Fagotti E.,0,0,1,,,,,,,Fagotti E.,,,,,https://www.tennisexplorer.com/results/,results
+0,172,2025-08-25 14:58:54,--:--,Stephens Z.,2,6,6,,,,,,,Stephens Z.,,,,,https://www.tennisexplorer.com/results/,results
+0,173,2025-08-25 14:58:54,--:--,Ichikawa S.,0,0,1,,,,,,,Ichikawa S.,,,,,https://www.tennisexplorer.com/results/,results
+0,174,2025-08-25 14:58:54,--:--,Zick S.,2,6,6,,,,,,,Zick S.,,,,,https://www.tennisexplorer.com/results/,results
+0,175,2025-08-25 14:58:54,--:--,Schlosser K.,0,0,2,,,,,,,Schlosser K.,,,,,https://www.tennisexplorer.com/results/,results
+0,176,2025-08-25 14:58:54,--:--,Reinhard B.,2,6,6,,,,,,,Reinhard B.,,,,,https://www.tennisexplorer.com/results/,results
+0,177,2025-08-25 14:58:54,--:--,Lavine A.,0,0,2,,,,,,,Lavine A.,,,,,https://www.tennisexplorer.com/results/,results
+0,178,2025-08-25 14:58:54,--:--,Bukhari A.,2,6,6,,,,,,,Bukhari A.,,,,,https://www.tennisexplorer.com/results/,results
+0,179,2025-08-25 14:58:54,--:--,Kouami F.,0,0,2,,,,,,,Kouami F.,,,,,https://www.tennisexplorer.com/results/,results
+0,180,2025-08-25 14:58:54,--:--,Bien D.,2,6,0,10,,,,,,Bien D.,,,,,https://www.tennisexplorer.com/results/,results
+0,181,2025-08-25 14:58:54,--:--,Poritskyy A.,1,1,6,7,,,,,,Poritskyy A.,,,,,https://www.tennisexplorer.com/results/,results
+0,182,2025-08-25 14:58:54,--:--,McLennaghan W.,2,6,4,10,,,,,,McLennaghan W.,,,,,https://www.tennisexplorer.com/results/,results
+0,183,2025-08-25 14:58:54,--:--,Bergen H.,1,1,6,3,,,,,,Bergen H.,,,,,https://www.tennisexplorer.com/results/,results
+0,184,2025-08-25 14:58:54,--:--,Gubi T.,2,6,4,10,,,,,,Gubi T.,,,,,https://www.tennisexplorer.com/results/,results
+0,185,2025-08-25 14:58:54,--:--,Kisantal B.,1,1,6,6,,,,,,Kisantal B.,,,,,https://www.tennisexplorer.com/results/,results
+0,186,2025-08-25 14:58:54,--:--,Loureiro J.,2,6,6,,,,,,,Loureiro J.,,,,,https://www.tennisexplorer.com/results/,results
+0,187,2025-08-25 14:58:54,--:--,Popirlan L.,0,1,0,,,,,,,Popirlan L.,,,,,https://www.tennisexplorer.com/results/,results
+0,188,2025-08-25 14:58:54,--:--,Ignatik U.,2,6,6,,,,,,,Ignatik U.,,,,,https://www.tennisexplorer.com/results/,results
+0,189,2025-08-25 14:58:54,--:--,Marchenko A.,0,1,0,,,,,,,Marchenko A.,,,,,https://www.tennisexplorer.com/results/,results
+0,190,2025-08-25 14:58:54,--:--,Bojarski A.,2,6,6,,,,,,,Bojarski A.,,,,,https://www.tennisexplorer.com/results/,results
+0,191,2025-08-25 14:58:54,--:--,Allen A.,0,1,1,,,,,,,Allen A.,,,,,https://www.tennisexplorer.com/results/,results
+0,192,2025-08-25 14:58:54,--:--,Hausberger G.,2,6,6,,,,,,,Hausberger G.,,,,,https://www.tennisexplorer.com/results/,results
+0,193,2025-08-25 14:58:54,--:--,Urban J.,0,1,1,,,,,,,Urban J.,,,,,https://www.tennisexplorer.com/results/,results
+0,194,2025-08-25 14:58:54,--:--,De Jager J.,2,6,6,,,,,,,De Jager J.,,,,,https://www.tennisexplorer.com/results/,results
+0,195,2025-08-25 14:58:54,--:--,Sy-A-Foek B.,0,1,1,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+0,196,2025-08-25 14:58:54,--:--,Kisantal B.,2,6,6,,,,,,,Kisantal B.,,,,,https://www.tennisexplorer.com/results/,results
+0,197,2025-08-25 14:58:54,--:--,Goczi E.,0,1,2,,,,,,,Goczi E.,,,,,https://www.tennisexplorer.com/results/,results
+0,198,2025-08-25 14:58:54,--:--,Hodkin S.,2,6,6,,,,,,,Hodkin S.,,,,,https://www.tennisexplorer.com/results/,results
+0,199,2025-08-25 14:58:54,--:--,Maggs A.,0,1,2,,,,,,,Maggs A.,,,,,https://www.tennisexplorer.com/results/,results
+0,200,2025-08-25 14:58:54,--:--,Ovchinnikov V.,2,6,6,,,,,,,Ovchinnikov V.,,,,,https://www.tennisexplorer.com/results/,results
+0,201,2025-08-25 14:58:54,--:--,Scharner B.,0,1,2,,,,,,,Scharner B.,,,,,https://www.tennisexplorer.com/results/,results
+0,202,2025-08-25 14:58:54,--:--,Bocci F.,2,6,6,,,,,,,Bocci F.,,,,,https://www.tennisexplorer.com/results/,results
+0,203,2025-08-25 14:58:54,--:--,Peterhans Y.,0,1,3,,,,,,,Peterhans Y.,,,,,https://www.tennisexplorer.com/results/,results
+0,204,2025-08-25 14:58:54,--:--,Eerola O.,2,6,6,,,,,,,Eerola O.,,,,,https://www.tennisexplorer.com/results/,results
+0,205,2025-08-25 14:58:54,--:--,Ibarrondo Suarez I.,0,1,3,,,,,,,Ibarrondo Suarez I.,,,,,https://www.tennisexplorer.com/results/,results
+0,206,2025-08-25 14:58:54,--:--,Basile A.,2,6,6,,,,,,,Basile A.,,,,,https://www.tennisexplorer.com/results/,results
+0,207,2025-08-25 14:58:54,--:--,Bakker S.,0,1,3,,,,,,,Bakker S.,,,,,https://www.tennisexplorer.com/results/,results
+0,208,2025-08-25 14:58:54,--:--,Domingos D.,2,6,6,,,,,,,Domingos D.,,,,,https://www.tennisexplorer.com/results/,results
+0,209,2025-08-25 14:58:54,--:--,Verma H.,0,1,4,,,,,,,Verma H.,,,,,https://www.tennisexplorer.com/results/,results
+0,210,2025-08-25 14:58:54,--:--,Robert N.,2,6,6,,,,,,,Robert N.,,,,,https://www.tennisexplorer.com/results/,results
+0,211,2025-08-25 14:58:54,--:--,Kubo T.,0,1,4,,,,,,,Kubo T.,,,,,https://www.tennisexplorer.com/results/,results
+0,212,2025-08-25 14:58:54,--:--,Marshall K.,2,6,6,,,,,,,Marshall K.,,,,,https://www.tennisexplorer.com/results/,results
+0,213,2025-08-25 14:58:54,--:--,Hoskins S.,0,2,0,,,,,,,Hoskins S.,,,,,https://www.tennisexplorer.com/results/,results
+0,214,2025-08-25 14:58:54,--:--,Schinteie G.,2,6,6,,,,,,,Schinteie G.,,,,,https://www.tennisexplorer.com/results/,results
+0,215,2025-08-25 14:58:54,--:--,Gheorghita T.,0,2,0,,,,,,,Gheorghita T.,,,,,https://www.tennisexplorer.com/results/,results
+0,216,2025-08-25 14:58:54,--:--,Apostol C.,2,6,6,,,,,,,Apostol C.,,,,,https://www.tennisexplorer.com/results/,results
+0,217,2025-08-25 14:58:54,--:--,Georgescu M.,0,2,0,,,,,,,Georgescu M.,,,,,https://www.tennisexplorer.com/results/,results
+0,218,2025-08-25 14:58:54,--:--,Molder M.,2,6,6,,,,,,,Molder M.,,,,,https://www.tennisexplorer.com/results/,results
+0,219,2025-08-25 14:58:54,--:--,Orzabal Gabrielli J.,0,2,1,,,,,,,Orzabal Gabrielli J.,,,,,https://www.tennisexplorer.com/results/,results
+0,220,2025-08-25 14:58:54,--:--,Tosetto R.,2,6,6,,,,,,,Tosetto R.,,,,,https://www.tennisexplorer.com/results/,results
+0,221,2025-08-25 14:58:54,--:--,Makarski D.,0,2,1,,,,,,,Makarski D.,,,,,https://www.tennisexplorer.com/results/,results
+0,222,2025-08-25 14:58:54,--:--,Doskocil M.,2,6,6,,,,,,,Doskocil M.,,,,,https://www.tennisexplorer.com/results/,results
+0,223,2025-08-25 14:58:54,--:--,Kohler M.,0,2,1,,,,,,,Kohler M.,,,,,https://www.tennisexplorer.com/results/,results
+0,224,2025-08-25 14:58:54,--:--,Goldsteiner P.,2,6,6,,,,,,,Goldsteiner P.,,,,,https://www.tennisexplorer.com/results/,results
+0,225,2025-08-25 14:58:54,--:--,Prammer J.,0,2,1,,,,,,,Prammer J.,,,,,https://www.tennisexplorer.com/results/,results
+0,226,2025-08-25 14:58:54,--:--,Vanta V.,2,6,6,,,,,,,Vanta V.,,,,,https://www.tennisexplorer.com/results/,results
+0,227,2025-08-25 14:58:54,--:--,Barraza J.,0,2,1,,,,,,,Barraza J.,,,,,https://www.tennisexplorer.com/results/,results
+0,228,2025-08-25 14:58:54,--:--,Collignon K.,2,6,6,,,,,,,Collignon K.,,,,,https://www.tennisexplorer.com/results/,results
+0,229,2025-08-25 14:58:54,--:--,Steudter B.,0,2,1,,,,,,,Steudter B.,,,,,https://www.tennisexplorer.com/results/,results
+0,230,2025-08-25 14:58:54,--:--,Jeran A.,2,6,6,,,,,,,Jeran A.,,,,,https://www.tennisexplorer.com/results/,results
+0,231,2025-08-25 14:58:54,--:--,Silvestri G.,0,2,2,,,,,,,Silvestri G.,,,,,https://www.tennisexplorer.com/results/,results
+0,232,2025-08-25 14:58:54,--:--,Jans J.,2,6,6,,,,,,,Jans J.,,,,,https://www.tennisexplorer.com/results/,results
+0,233,2025-08-25 14:58:54,--:--,Jux M.,0,2,2,,,,,,,Jux M.,,,,,https://www.tennisexplorer.com/results/,results
+0,234,2025-08-25 14:58:54,--:--,Guttau N.,2,6,6,,,,,,,Guttau N.,,,,,https://www.tennisexplorer.com/results/,results
+0,235,2025-08-25 14:58:54,--:--,Andrzejczak M.,0,2,2,,,,,,,Andrzejczak M.,,,,,https://www.tennisexplorer.com/results/,results
+0,236,2025-08-25 14:58:54,--:--,Biletic I.,2,6,6,,,,,,,Biletic I.,,,,,https://www.tennisexplorer.com/results/,results
+0,237,2025-08-25 14:58:54,--:--,Collins K.,0,2,2,,,,,,,Collins K.,,,,,https://www.tennisexplorer.com/results/,results
+0,238,2025-08-25 14:58:54,--:--,Breazu M.,2,6,6,,,,,,,Breazu M.,,,,,https://www.tennisexplorer.com/results/,results
+0,239,2025-08-25 14:58:54,--:--,Savin R.,0,2,3,,,,,,,Savin R.,,,,,https://www.tennisexplorer.com/results/,results
+0,240,2025-08-25 14:58:54,--:--,De Cuyper J.,2,6,6,,,,,,,De Cuyper J.,,,,,https://www.tennisexplorer.com/results/,results
+0,241,2025-08-25 14:58:54,--:--,Smejkal S.,0,2,3,,,,,,,Smejkal S.,,,,,https://www.tennisexplorer.com/results/,results
+0,242,2025-08-25 14:58:54,--:--,Paardekooper S.,2,6,6,,,,,,,Paardekooper S.,,,,,https://www.tennisexplorer.com/results/,results
+0,243,2025-08-25 14:58:54,--:--,Knippling P.,0,2,3,,,,,,,Knippling P.,,,,,https://www.tennisexplorer.com/results/,results
+0,244,2025-08-25 14:58:54,--:--,Volz M.,2,6,6,,,,,,,Volz M.,,,,,https://www.tennisexplorer.com/results/,results
+0,245,2025-08-25 14:58:54,--:--,Schaefer J.,0,2,4,,,,,,,Schaefer J.,,,,,https://www.tennisexplorer.com/results/,results
+0,246,2025-08-25 14:58:54,--:--,Ozolins K.,2,6,6,,,,,,,Ozolins K.,,,,,https://www.tennisexplorer.com/results/,results
+0,247,2025-08-25 14:58:54,--:--,Sroka M.,0,2,4,,,,,,,Sroka M.,,,,,https://www.tennisexplorer.com/results/,results
+0,248,2025-08-25 14:58:54,--:--,Belkovics A.,2,6,6,10,,,,,,Belkovics A.,,,,,https://www.tennisexplorer.com/results/,results
+0,249,2025-08-25 14:58:54,--:--,Ambarzumjan E.,1,2,7,5,,,,,,Ambarzumjan E.,,,,,https://www.tennisexplorer.com/results/,results
+0,250,2025-08-25 14:58:54,--:--,Etty E.,2,6,3,10,,,,,,Etty E.,,,,,https://www.tennisexplorer.com/results/,results
+0,251,2025-08-25 14:58:54,--:--,Schroeter M.,1,3,6,7,,,,,,Schroeter M.,,,,,https://www.tennisexplorer.com/results/,results
+0,252,2025-08-25 14:58:54,--:--,Kajin K.,2,6,4,10,,,,,,Kajin K.,,,,,https://www.tennisexplorer.com/results/,results
+0,253,2025-08-25 14:58:54,--:--,Pade L.,1,3,6,4,,,,,,Pade L.,,,,,https://www.tennisexplorer.com/results/,results
+0,254,2025-08-25 14:58:54,--:--,Froehlich M.,2,6,4,10,,,,,,Froehlich M.,,,,,https://www.tennisexplorer.com/results/,results
+0,255,2025-08-25 14:58:54,--:--,Petrov P.,1,3,6,6,,,,,,Petrov P.,,,,,https://www.tennisexplorer.com/results/,results
+0,256,2025-08-25 14:58:54,--:--,Spoolder A.,2,6,5,10,,,,,,Spoolder A.,,,,,https://www.tennisexplorer.com/results/,results
+0,257,2025-08-25 14:58:54,--:--,Roberts J.,1,3,7,5,,,,,,Roberts J.,,,,,https://www.tennisexplorer.com/results/,results
+0,258,2025-08-25 14:58:54,--:--,Villoslada E.,2,6,5,10,,,,,,Villoslada E.,,,,,https://www.tennisexplorer.com/results/,results
+0,259,2025-08-25 14:58:54,--:--,Bentzel C.,1,3,7,7,,,,,,Bentzel C.,,,,,https://www.tennisexplorer.com/results/,results
+0,260,2025-08-25 14:58:54,--:--,Dimic M.,2,6,5,10,,,,,,Dimic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,261,2025-08-25 14:58:54,--:--,Martishev V.,1,3,7,8,,,,,,Martishev V.,,,,,https://www.tennisexplorer.com/results/,results
+0,262,2025-08-25 14:58:54,--:--,Marysko V.,2,6,6,,,,,,,Marysko V.,,,,,https://www.tennisexplorer.com/results/,results
+0,263,2025-08-25 14:58:54,--:--,Meyer T.,0,3,0,,,,,,,Meyer T.,,,,,https://www.tennisexplorer.com/results/,results
+0,264,2025-08-25 14:58:54,--:--,Marysko V.,2,6,6,,,,,,,Marysko V.,,,,,https://www.tennisexplorer.com/results/,results
+0,265,2025-08-25 14:58:54,--:--,Held J.,0,3,1,,,,,,,Held J.,,,,,https://www.tennisexplorer.com/results/,results
+0,266,2025-08-25 14:58:54,--:--,Ciocanu A.,2,6,6,,,,,,,Ciocanu A.,,,,,https://www.tennisexplorer.com/results/,results
+0,267,2025-08-25 14:58:54,--:--,Kolbe M.,0,3,1,,,,,,,Kolbe M.,,,,,https://www.tennisexplorer.com/results/,results
+0,268,2025-08-25 14:58:54,--:--,Jamji A.,2,6,6,,,,,,,Jamji A.,,,,,https://www.tennisexplorer.com/results/,results
+0,269,2025-08-25 14:58:54,--:--,Andres R.,0,3,1,,,,,,,Andres R.,,,,,https://www.tennisexplorer.com/results/,results
+0,270,2025-08-25 14:58:54,--:--,Larue L.,2,6,6,,,,,,,Larue L.,,,,,https://www.tennisexplorer.com/results/,results
+0,271,2025-08-25 14:58:54,--:--,Loosen T.,0,3,2,,,,,,,Loosen T.,,,,,https://www.tennisexplorer.com/results/,results
+0,272,2025-08-25 14:58:54,--:--,Malirz K.,2,6,6,,,,,,,Malirz K.,,,,,https://www.tennisexplorer.com/results/,results
+0,273,2025-08-25 14:58:54,--:--,Kosinski F.,0,3,2,,,,,,,Kosinski F.,,,,,https://www.tennisexplorer.com/results/,results
+0,274,2025-08-25 14:58:54,--:--,Krolo F.,2,6,6,,,,,,,Krolo F.,,,,,https://www.tennisexplorer.com/results/,results
+0,275,2025-08-25 14:58:54,--:--,Yi Qing J.,0,3,2,,,,,,,Yi Qing J.,,,,,https://www.tennisexplorer.com/results/,results
+0,276,2025-08-25 14:58:54,--:--,Lazic M.,2,6,6,,,,,,,Lazic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,277,2025-08-25 14:58:54,--:--,Grasl F.,0,3,2,,,,,,,Grasl F.,,,,,https://www.tennisexplorer.com/results/,results
+0,278,2025-08-25 14:58:54,--:--,Leather J.,2,6,6,,,,,,,Leather J.,,,,,https://www.tennisexplorer.com/results/,results
+0,279,2025-08-25 14:58:54,--:--,Kachushkin I.,0,3,3,,,,,,,Kachushkin I.,,,,,https://www.tennisexplorer.com/results/,results
+0,280,2025-08-25 14:58:54,--:--,Mares V.,2,6,6,,,,,,,Mares V.,,,,,https://www.tennisexplorer.com/results/,results
+0,281,2025-08-25 14:58:54,--:--,Gutjahr L.,0,3,3,,,,,,,Gutjahr L.,,,,,https://www.tennisexplorer.com/results/,results
+0,282,2025-08-25 14:58:54,--:--,Valle F.,2,6,6,,,,,,,Valle F.,,,,,https://www.tennisexplorer.com/results/,results
+0,283,2025-08-25 14:58:54,--:--,Schipor E.,0,3,3,,,,,,,Schipor E.,,,,,https://www.tennisexplorer.com/results/,results
+0,284,2025-08-25 14:58:54,--:--,Giotis R.,2,6,6,,,,,,,Giotis R.,,,,,https://www.tennisexplorer.com/results/,results
+0,285,2025-08-25 14:58:54,--:--,Haita M.,0,3,3,,,,,,,Haita M.,,,,,https://www.tennisexplorer.com/results/,results
+0,286,2025-08-25 14:58:54,--:--,Meyer T.,2,6,6,,,,,,,Meyer T.,,,,,https://www.tennisexplorer.com/results/,results
+0,287,2025-08-25 14:58:54,--:--,Troebinger E.,0,3,4,,,,,,,Troebinger E.,,,,,https://www.tennisexplorer.com/results/,results
+0,288,2025-08-25 14:58:54,--:--,Tadic V.,2,6,6,,,,,,,Tadic V.,,,,,https://www.tennisexplorer.com/results/,results
+0,289,2025-08-25 14:58:54,--:--,Martinovic M.,0,3,4,,,,,,,Martinovic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,290,2025-08-25 14:58:54,--:--,Gannon C.,2,6,6,,,,,,,Gannon C.,,,,,https://www.tennisexplorer.com/results/,results
+0,291,2025-08-25 14:58:54,--:--,Matuszewski M.,0,3,4,,,,,,,Matuszewski M.,,,,,https://www.tennisexplorer.com/results/,results
+0,292,2025-08-25 14:58:54,--:--,Rosenkranz Koenig T.,2,6,6,,,,,,,Rosenkranz Koenig T.,,,,,https://www.tennisexplorer.com/results/,results
+0,293,2025-08-25 14:58:54,--:--,Soukal M.,0,3,4,,,,,,,Soukal M.,,,,,https://www.tennisexplorer.com/results/,results
+0,294,2025-08-25 14:58:54,--:--,Patel H.,2,6,1,11,,,,,,Patel H.,,,,,https://www.tennisexplorer.com/results/,results
+0,295,2025-08-25 14:58:54,--:--,Vojtischek D.,1,4,6,9,,,,,,Vojtischek D.,,,,,https://www.tennisexplorer.com/results/,results
+0,296,2025-08-25 14:58:54,--:--,Dancu V.,2,6,3,10,,,,,,Dancu V.,,,,,https://www.tennisexplorer.com/results/,results
+0,297,2025-08-25 14:58:54,--:--,Khuda A.,1,4,6,6,,,,,,Khuda A.,,,,,https://www.tennisexplorer.com/results/,results
+0,298,2025-08-25 14:58:54,--:--,Berenz B.,2,6,3,10,,,,,,Berenz B.,,,,,https://www.tennisexplorer.com/results/,results
+0,299,2025-08-25 14:58:54,--:--,Szerencsits B.,1,4,6,6,,,,,,Szerencsits B.,,,,,https://www.tennisexplorer.com/results/,results
+0,300,2025-08-25 14:58:54,--:--,Trondson J.,2,6,4,10,,,,,,Trondson J.,,,,,https://www.tennisexplorer.com/results/,results
+0,301,2025-08-25 14:58:54,--:--,McGary J.,1,4,6,5,,,,,,McGary J.,,,,,https://www.tennisexplorer.com/results/,results
+0,302,2025-08-25 14:58:54,--:--,Statzberger T.,2,6,6,,,,,,,Statzberger T.,,,,,https://www.tennisexplorer.com/results/,results
+0,303,2025-08-25 14:58:54,--:--,Gundacker J.,0,4,0,,,,,,,Gundacker J.,,,,,https://www.tennisexplorer.com/results/,results
+0,304,2025-08-25 14:58:54,--:--,Hartig R.,2,6,6,,,,,,,Hartig R.,,,,,https://www.tennisexplorer.com/results/,results
+0,305,2025-08-25 14:58:54,--:--,Ebner V.,0,4,1,,,,,,,Ebner V.,,,,,https://www.tennisexplorer.com/results/,results
+0,306,2025-08-25 14:58:54,--:--,Grunewald N.,2,6,6,,,,,,,Grunewald N.,,,,,https://www.tennisexplorer.com/results/,results
+0,307,2025-08-25 14:58:54,--:--,Schotanus M.,0,4,1,,,,,,,Schotanus M.,,,,,https://www.tennisexplorer.com/results/,results
+0,308,2025-08-25 14:58:54,--:--,Trklja A.,2,6,6,,,,,,,Trklja A.,,,,,https://www.tennisexplorer.com/results/,results
+0,309,2025-08-25 14:58:54,--:--,Van Sambeek F.,0,4,1,,,,,,,Van Sambeek F.,,,,,https://www.tennisexplorer.com/results/,results
+0,310,2025-08-25 14:58:54,--:--,Zanellato N.,2,6,6,,,,,,,Zanellato N.,,,,,https://www.tennisexplorer.com/results/,results
+0,311,2025-08-25 14:58:54,--:--,Cislo M.,0,4,1,,,,,,,Cislo M.,,,,,https://www.tennisexplorer.com/results/,results
+0,312,2025-08-25 14:58:54,--:--,Markovits M.,2,6,6,,,,,,,Markovits M.,,,,,https://www.tennisexplorer.com/results/,results
+0,313,2025-08-25 14:58:54,--:--,Blanchar A.,0,4,2,,,,,,,Blanchar A.,,,,,https://www.tennisexplorer.com/results/,results
+0,314,2025-08-25 14:58:54,--:--,Matuszczyk M.,2,6,6,,,,,,,Matuszczyk M.,,,,,https://www.tennisexplorer.com/results/,results
+0,315,2025-08-25 14:58:54,--:--,Kluczynski J.,0,4,2,,,,,,,Kluczynski J.,,,,,https://www.tennisexplorer.com/results/,results
+0,316,2025-08-25 14:58:54,--:--,Antoni R.,2,6,6,,,,,,,Antoni R.,,,,,https://www.tennisexplorer.com/results/,results
+0,317,2025-08-25 14:58:54,--:--,Pikkaart J.,0,4,3,,,,,,,Pikkaart J.,,,,,https://www.tennisexplorer.com/results/,results
+0,318,2025-08-25 14:58:54,--:--,Wagenaar L.,2,6,6,,,,,,,Wagenaar L.,,,,,https://www.tennisexplorer.com/results/,results
+0,319,2025-08-25 14:58:54,--:--,Roeder P.,0,4,3,,,,,,,Roeder P.,,,,,https://www.tennisexplorer.com/results/,results
+0,320,2025-08-25 14:58:54,--:--,Rast E.,2,6,6,,,,,,,Rast E.,,,,,https://www.tennisexplorer.com/results/,results
+0,321,2025-08-25 14:58:54,--:--,Froehlich J.,0,4,4,,,,,,,Froehlich J.,,,,,https://www.tennisexplorer.com/results/,results
+0,322,2025-08-25 14:58:54,--:--,Hebhang Balan A.,2,6,6,,,,,,,Hebhang Balan A.,,,,,https://www.tennisexplorer.com/results/,results
+0,323,2025-08-25 14:58:54,--:--,Stan M.,0,4,4,,,,,,,Stan M.,,,,,https://www.tennisexplorer.com/results/,results
+0,324,2025-08-25 14:58:54,--:--,Mazzeschi E.,2,6,6,,,,,,,Mazzeschi E.,,,,,https://www.tennisexplorer.com/results/,results
+0,325,2025-08-25 14:58:54,--:--,Tumbas Kajgo K.,0,4,4,,,,,,,Tumbas Kajgo K.,,,,,https://www.tennisexplorer.com/results/,results
+0,326,2025-08-25 14:58:54,--:--,Leston T.,2,6,6,,,,,,,Leston T.,,,,,https://www.tennisexplorer.com/results/,results
+0,327,2025-08-25 14:58:54,--:--,Frydrych V.,0,4,4,,,,,,,Frydrych V.,,,,,https://www.tennisexplorer.com/results/,results
+0,328,2025-08-25 14:58:54,--:--,Sterniczuk O.,2,6,6,,,,,,,Sterniczuk O.,,,,,https://www.tennisexplorer.com/results/,results
+0,329,2025-08-25 14:58:54,--:--,Glomb A.,0,4,4,,,,,,,Glomb A.,,,,,https://www.tennisexplorer.com/results/,results
+0,330,2025-08-25 14:58:54,--:--,Hrynkiewicz J.,2,6,6,10,,,,,,Hrynkiewicz J.,,,,,https://www.tennisexplorer.com/results/,results
+0,331,2025-08-25 14:58:54,--:--,Jedrzejczak J.,1,4,7,4,,,,,,Jedrzejczak J.,,,,,https://www.tennisexplorer.com/results/,results
+0,332,2025-08-25 14:58:54,--:--,Wojnar B.,2,6,7,,,,,,,Wojnar B.,,,,,https://www.tennisexplorer.com/results/,results
+0,333,2025-08-25 14:58:54,--:--,Malecki S.,0,4,5,,,,,,,Malecki S.,,,,,https://www.tennisexplorer.com/results/,results
+0,334,2025-08-25 14:58:54,--:--,Merre N.,2,6,7,10,,,,,,Merre N.,,,,,https://www.tennisexplorer.com/results/,results
+0,335,2025-08-25 14:58:54,--:--,Poels M.,1,7,5,3,,,,,,Poels M.,,,,,https://www.tennisexplorer.com/results/,results
+0,336,2025-08-25 14:58:54,--:--,Ostheimer B.,2,7,4,10,,,,,,Ostheimer B.,,,,,https://www.tennisexplorer.com/results/,results
+0,337,2025-08-25 14:58:54,--:--,Patzanovsky C.,1,5,6,5,,,,,,Patzanovsky C.,,,,,https://www.tennisexplorer.com/results/,results
+0,338,2025-08-25 14:58:54,--:--,Guinau S.,2,7,6,,,,,,,Guinau S.,,,,,https://www.tennisexplorer.com/results/,results
+0,339,2025-08-25 14:58:54,--:--,Wortelmann P.,0,5,0,,,,,,,Wortelmann P.,,,,,https://www.tennisexplorer.com/results/,results
+0,340,2025-08-25 14:58:54,--:--,Wedel C.,2,7,6,,,,,,,Wedel C.,,,,,https://www.tennisexplorer.com/results/,results
+0,341,2025-08-25 14:58:54,--:--,Lemieux-Monette N.,0,5,2,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+0,342,2025-08-25 14:58:54,--:--,Kremenchutskyi I.,2,7,6,,,,,,,Kremenchutskyi I.,,,,,https://www.tennisexplorer.com/results/,results
+0,343,2025-08-25 14:58:54,--:--,Bajzelj M.,0,5,2,,,,,,,Bajzelj M.,,,,,https://www.tennisexplorer.com/results/,results
+0,344,2025-08-25 14:58:54,--:--,Popovic S.,2,7,6,,,,,,,Popovic S.,,,,,https://www.tennisexplorer.com/results/,results
+0,345,2025-08-25 14:58:54,--:--,Boros B.,0,5,3,,,,,,,Boros B.,,,,,https://www.tennisexplorer.com/results/,results
+0,346,2025-08-25 14:58:54,--:--,Gloeckler M.,2,7,6,,,,,,,Gloeckler M.,,,,,https://www.tennisexplorer.com/results/,results
+0,347,2025-08-25 14:58:54,--:--,Trivunac N.,0,5,3,,,,,,,Trivunac N.,,,,,https://www.tennisexplorer.com/results/,results
+0,348,2025-08-25 14:58:54,--:--,Khlyvniuk M.,2,7,6,,,,,,,Khlyvniuk M.,,,,,https://www.tennisexplorer.com/results/,results
+0,349,2025-08-25 14:58:54,--:--,Casso A.,0,5,3,,,,,,,Casso A.,,,,,https://www.tennisexplorer.com/results/,results
+0,350,2025-08-25 14:58:54,--:--,Coman M.,2,7,6,,,,,,,Coman M.,,,,,https://www.tennisexplorer.com/results/,results
+0,351,2025-08-25 14:58:54,--:--,Di Vita R.,0,5,4,,,,,,,Di Vita R.,,,,,https://www.tennisexplorer.com/results/,results
+0,352,2025-08-25 14:58:54,--:--,Seifert S.,2,7,6,,,,,,,Seifert S.,,,,,https://www.tennisexplorer.com/results/,results
+0,353,2025-08-25 14:58:54,--:--,Cooper S.,0,5,4,,,,,,,Cooper S.,,,,,https://www.tennisexplorer.com/results/,results
+0,354,2025-08-25 14:58:54,--:--,Vuglar L.,2,7,6,,,,,,,Vuglar L.,,,,,https://www.tennisexplorer.com/results/,results
+0,355,2025-08-25 14:58:54,--:--,Dimitrijevic J.,0,5,4,,,,,,,Dimitrijevic J.,,,,,https://www.tennisexplorer.com/results/,results
+0,356,2025-08-25 14:58:54,--:--,Schoemacher B.,2,7,6,10,,,,,,Schoemacher B.,,,,,https://www.tennisexplorer.com/results/,results
+0,357,2025-08-25 14:58:54,--:--,Van Nunen M.,1,5,7,4,,,,,,Van Nunen M.,,,,,https://www.tennisexplorer.com/results/,results
+0,358,2025-08-25 14:58:54,--:--,Zanini A.,2,7,4,10,,,,,,Zanini A.,,,,,https://www.tennisexplorer.com/results/,results
+0,359,2025-08-25 14:58:54,--:--,Gula P.,1,6,6,7,,,,,,Gula P.,,,,,https://www.tennisexplorer.com/results/,results
+0,360,2025-08-25 14:58:54,--:--,Lauinger A.,2,7,6,,,,,,,Lauinger A.,,,,,https://www.tennisexplorer.com/results/,results
+0,361,2025-08-25 14:58:54,--:--,Hadzialijagic D.,0,6,2,,,,,,,Hadzialijagic D.,,,,,https://www.tennisexplorer.com/results/,results
+0,362,2025-08-25 14:58:54,--:--,Holder C.,2,7,6,,,,,,,Holder C.,,,,,https://www.tennisexplorer.com/results/,results
+0,363,2025-08-25 14:58:54,--:--,Ion N.,0,6,3,,,,,,,Ion N.,,,,,https://www.tennisexplorer.com/results/,results
+0,364,2025-08-25 14:58:54,--:--,Thurner D.,2,7,6,,,,,,,Thurner D.,,,,,https://www.tennisexplorer.com/results/,results
+0,365,2025-08-25 14:58:54,--:--,Formella L.,0,6,4,,,,,,,Formella L.,,,,,https://www.tennisexplorer.com/results/,results
+0,366,2025-08-25 14:58:54,--:--,Pel S.,2,7,7,,,,,,,Pel S.,,,,,https://www.tennisexplorer.com/results/,results
+0,367,2025-08-25 14:58:54,--:--,Van Donk M.,0,6,5,,,,,,,Van Donk M.,,,,,https://www.tennisexplorer.com/results/,results
+0,368,2025-08-25 14:58:54,04:00,Hoogland J.,2,6,6,,,,,,04:00,Hoogland J.,,,,,https://www.tennisexplorer.com/results/,results
+0,369,2025-08-25 14:58:54,04:00,Kothari A.,0,1,1,,,,,,04:00,Kothari A.,,,,,https://www.tennisexplorer.com/results/,results
+0,370,2025-08-25 14:58:54,04:00,Tan J.,2,6,6,,,,1.24,3.50,04:00,Tan J.,,,,,https://www.tennisexplorer.com/results/,results
+0,371,2025-08-25 14:58:54,04:00,Zhou X.,0,2,1,,,,,,04:00,Zhou X.,,,,,https://www.tennisexplorer.com/results/,results
+0,372,2025-08-25 14:58:54,04:00,Koaykul K.,2,6,6,,,,1.24,3.50,04:00,Koaykul K.,,,,,https://www.tennisexplorer.com/results/,results
+0,373,2025-08-25 14:58:54,04:00,Thadpong K.,0,3,2,,,,,,04:00,Thadpong K.,,,,,https://www.tennisexplorer.com/results/,results
+0,374,2025-08-25 14:58:54,04:00,Noikor N.,2,6,1,13,,,3.83,1.21,04:00,Noikor N.,,,,,https://www.tennisexplorer.com/results/,results
+0,375,2025-08-25 14:58:54,04:00,Congcar C.,1,4,6,11,,,,,04:00,Congcar C.,,,,,https://www.tennisexplorer.com/results/,results
+0,376,2025-08-25 14:58:54,04:00,Tomida Y.,2,6,6,,,,3.83,1.21,04:00,Tomida Y.,,,,,https://www.tennisexplorer.com/results/,results
+0,377,2025-08-25 14:58:54,04:00,Karra T.,0,4,2,,,,,,04:00,Karra T.,,,,,https://www.tennisexplorer.com/results/,results
+0,378,2025-08-25 14:58:54,04:00,Wu K.,2,6,7,,,,,,04:00,,,,,,https://www.tennisexplorer.com/results/,results
+0,379,2025-08-25 14:58:54,04:00,Huang Y.,0,4,5,,,,,,04:00,Huang Y.,,,,,https://www.tennisexplorer.com/results/,results
+0,380,2025-08-25 14:58:54,04:00,Lai C.,2,7,6,,,,,,04:00,Lai C.,,,,,https://www.tennisexplorer.com/results/,results
+0,381,2025-08-25 14:58:54,04:00,Richards L.,0,5,2,,,,,,04:00,Richards L.,,,,,https://www.tennisexplorer.com/results/,results
+0,382,2025-08-25 14:58:54,04:30,Lu C.,2,6,6,,,,,,04:30,,,,,,https://www.tennisexplorer.com/results/,results
+0,383,2025-08-25 14:58:54,04:30,Lin N.,0,2,3,,,,,,04:30,Lin N.,,,,,https://www.tennisexplorer.com/results/,results
+0,384,2025-08-25 14:58:54,05:00,Navasirisomboon J.,2,0,6,10,,,,,05:00,Navasirisomboon J.,,,,,https://www.tennisexplorer.com/results/,results
+0,385,2025-08-25 14:58:54,05:00,Mehrotra A.,1,6,4,6,,,,,05:00,Mehrotra A.,,,,,https://www.tennisexplorer.com/results/,results
+0,386,2025-08-25 14:58:54,05:00,Longwe-Smit T.,2,3,6,10,,,1.52,2.34,05:00,,,,,,https://www.tennisexplorer.com/results/,results
+0,387,2025-08-25 14:58:54,05:00,Ann S.,1,6,3,8,,,,,05:00,Ann S.,,,,,https://www.tennisexplorer.com/results/,results
+0,388,2025-08-25 14:58:54,05:00,Alhogbani A.,2,4,6,10,,,1.52,2.34,05:00,Alhogbani A.,,,,,https://www.tennisexplorer.com/results/,results
+0,389,2025-08-25 14:58:54,05:00,Kim D.,1,6,1,8,,,,,05:00,Kim D.,,,,,https://www.tennisexplorer.com/results/,results
+0,390,2025-08-25 14:58:54,05:00,Chu S.,2,6,6,,,,1.22,3.68,05:00,Chu S.,,,,,https://www.tennisexplorer.com/results/,results
+0,391,2025-08-25 14:58:54,05:00,Pantaratorn K.,0,4,3,,,,,,05:00,Pantaratorn K.,,,,,https://www.tennisexplorer.com/results/,results
+0,392,2025-08-25 14:58:54,05:00,Kodancha Srinivasan D.,2,7,4,10,,,1.22,3.68,05:00,Kodancha Srinivasan D.,,,,,https://www.tennisexplorer.com/results/,results
+0,393,2025-08-25 14:58:54,05:00,Sharma A.,1,610,6,8,,,,,05:00,Sharma A.,,,,,https://www.tennisexplorer.com/results/,results
+0,394,2025-08-25 14:58:54,05:30,Hao-Yu L.,2,6,2,10,,,2.18,1.57,05:30,,,,,,https://www.tennisexplorer.com/results/,results
+0,395,2025-08-25 14:58:54,05:30,Lu C.,1,3,6,3,,,,,05:30,,,,,,https://www.tennisexplorer.com/results/,results
+0,396,2025-08-25 14:58:54,05:30,Hung K.,2,7,6,,,,2.18,1.57,05:30,Hung K.,,,,,https://www.tennisexplorer.com/results/,results
+0,397,2025-08-25 14:58:54,05:30,Yang K.,0,6,1,,,,,,05:30,Yang K.,,,,,https://www.tennisexplorer.com/results/,results
+0,398,2025-08-25 14:58:54,05:30,Wong A.,2,7,7,,,,,,05:30,Wong A.,,,,,https://www.tennisexplorer.com/results/,results
+0,399,2025-08-25 14:58:54,05:30,Lin W.,0,6,5,,,,,,05:30,Lin W.,,,,,https://www.tennisexplorer.com/results/,results
+0,400,2025-08-25 14:58:54,10:00,Van Donselaar F.,2,2,6,13,,,,,10:00,Van Donselaar F.,,,,,https://www.tennisexplorer.com/results/,results
+0,401,2025-08-25 14:58:54,10:00,Auffray J.,1,6,2,11,,,,,10:00,Auffray J.,,,,,https://www.tennisexplorer.com/results/,results
+0,402,2025-08-25 14:58:54,10:00,Regas Luis N.,2,6,4,10,,,1.22,3.65,10:00,Regas Luis N.,,,,,https://www.tennisexplorer.com/results/,results
+0,403,2025-08-25 14:58:54,10:00,Goldberg Alviani N.,1,0,6,7,,,,,10:00,Goldberg Alviani N.,,,,,https://www.tennisexplorer.com/results/,results
+0,404,2025-08-25 14:58:54,10:00,Tanner G.,2,6,6,,,,1.22,3.65,10:00,Tanner G.,,,,,https://www.tennisexplorer.com/results/,results
+0,405,2025-08-25 14:58:54,10:00,Lara Salmeron D.,0,0,0,,,,,,10:00,Lara Salmeron D.,,,,,https://www.tennisexplorer.com/results/,results
+0,406,2025-08-25 14:58:54,10:00,Werner E.,2,6,6,,,,1.15,4.62,10:00,Werner E.,,,,,https://www.tennisexplorer.com/results/,results
+0,407,2025-08-25 14:58:54,10:00,Zaytsev I.,0,1,2,,,,,,10:00,Zaytsev I.,,,,,https://www.tennisexplorer.com/results/,results
+0,408,2025-08-25 14:58:54,10:00,Garcia Mestre J.,2,6,6,,,,1.15,4.62,10:00,Garcia Mestre J.,,,,,https://www.tennisexplorer.com/results/,results
+0,409,2025-08-25 14:58:54,10:00,Siddiqui A.,0,2,3,,,,,,10:00,Siddiqui A.,,,,,https://www.tennisexplorer.com/results/,results
+0,410,2025-08-25 14:58:54,10:00,Zanada E.,2,6,6,,,,1.27,3.35,10:00,Zanada E.,,,,,https://www.tennisexplorer.com/results/,results
+0,411,2025-08-25 14:58:54,10:00,Cocola S.,0,2,4,,,,,,10:00,Cocola S.,,,,,https://www.tennisexplorer.com/results/,results
+0,412,2025-08-25 14:58:54,10:00,Mellerio G.,1,6,2,,,,1.27,3.35,10:00,Mellerio G.,,,,,https://www.tennisexplorer.com/results/,results
+0,413,2025-08-25 14:58:54,10:00,Orlov A.,0,3,6,,,,,,10:00,Orlov A.,,,,,https://www.tennisexplorer.com/results/,results
+0,414,2025-08-25 14:58:54,10:00,Schaer J.,2,6,6,,,,1.27,3.35,10:00,Schaer J.,,,,,https://www.tennisexplorer.com/results/,results
+0,415,2025-08-25 14:58:54,10:00,Ruiz Rodriguez H.,0,3,2,,,,,,10:00,Ruiz Rodriguez H.,,,,,https://www.tennisexplorer.com/results/,results
+0,416,2025-08-25 14:58:54,10:00,Tazabekov D.,2,6,6,,,,1.27,3.35,10:00,Tazabekov D.,,,,,https://www.tennisexplorer.com/results/,results
+0,417,2025-08-25 14:58:54,10:00,Verthaimer I.,0,3,4,,,,,,10:00,Verthaimer I.,,,,,https://www.tennisexplorer.com/results/,results
+0,418,2025-08-25 14:58:54,10:00,Spiridon D.,2,6,6,,,,,,10:00,Spiridon D.,,,,,https://www.tennisexplorer.com/results/,results
+0,419,2025-08-25 14:58:54,10:00,Primucci L.,0,3,4,,,,,,10:00,Primucci L.,,,,,https://www.tennisexplorer.com/results/,results
+0,420,2025-08-25 14:58:54,10:00,Rispoli N.,2,6,3,10,,,,,10:00,Rispoli N.,,,,,https://www.tennisexplorer.com/results/,results
+0,421,2025-08-25 14:58:54,10:00,Colombo A.,1,4,6,6,,,,,10:00,Colombo A.,,,,,https://www.tennisexplorer.com/results/,results
+0,422,2025-08-25 14:58:54,10:00,Antonelli J.,2,7,7,,,,4.10,1.19,10:00,Antonelli J.,,,,,https://www.tennisexplorer.com/results/,results
+0,423,2025-08-25 14:58:54,10:00,Parenti L.,0,5,62,,,,,,10:00,Parenti L.,,,,,https://www.tennisexplorer.com/results/,results
+0,424,2025-08-25 14:58:54,11:00,Bagnolini D.,2,3,6,10,,,4.10,1.19,11:00,Bagnolini D.,,,,,https://www.tennisexplorer.com/results/,results
+0,425,2025-08-25 14:58:54,11:00,Banti C.,1,6,2,7,,,,,11:00,Banti C.,,,,,https://www.tennisexplorer.com/results/,results
+0,426,2025-08-25 14:58:54,11:00,Vaitiekunas P.,2,4,6,10,,,1.32,3.05,11:00,Vaitiekunas P.,,,,,https://www.tennisexplorer.com/results/,results
+0,427,2025-08-25 14:58:54,11:00,Taddia L.,1,6,1,7,,,,,11:00,Taddia L.,,,,,https://www.tennisexplorer.com/results/,results
+0,428,2025-08-25 14:58:54,11:00,Gil Garcia A.,2,6,5,10,,,1.32,3.05,11:00,Gil Garcia A.,,,,,https://www.tennisexplorer.com/results/,results
+0,429,2025-08-25 14:58:54,11:00,Caillat O.,1,0,7,8,,,,,11:00,Caillat O.,,,,,https://www.tennisexplorer.com/results/,results
+0,430,2025-08-25 14:58:54,11:00,Rengel Sierra T.,2,6,6,,,,1.06,7.50,11:00,Rengel Sierra T.,,,,,https://www.tennisexplorer.com/results/,results
+0,431,2025-08-25 14:58:54,11:00,Dubinin A.,0,0,2,,,,,,11:00,Dubinin A.,,,,,https://www.tennisexplorer.com/results/,results
+0,432,2025-08-25 14:58:54,11:00,Pietri B.,2,6,6,,,,1.06,7.50,11:00,Pietri B.,,,,,https://www.tennisexplorer.com/results/,results
+0,433,2025-08-25 14:58:54,11:00,Baldovinetti G.,0,1,0,,,,,,11:00,Baldovinetti G.,,,,,https://www.tennisexplorer.com/results/,results
+0,434,2025-08-25 14:58:54,11:00,Stanisavljevic M.,2,6,6,,,,1.97,1.71,11:00,Stanisavljevic M.,,,,,https://www.tennisexplorer.com/results/,results
+0,435,2025-08-25 14:58:54,11:00,Aerne L.,0,1,4,,,,,,11:00,Aerne L.,,,,,https://www.tennisexplorer.com/results/,results
+0,436,2025-08-25 14:58:54,11:00,Jimenez A.,2,6,6,,,,1.97,1.71,11:00,Jimenez A.,,,,,https://www.tennisexplorer.com/results/,results
+0,437,2025-08-25 14:58:54,11:00,Dominguez Alonso J.,0,1,4,,,,,,11:00,Dominguez Alonso J.,,,,,https://www.tennisexplorer.com/results/,results
+0,438,2025-08-25 14:58:54,11:00,Zusman R.,2,6,7,,,,1.25,3.43,11:00,Zusman R.,,,,,https://www.tennisexplorer.com/results/,results
+0,439,2025-08-25 14:58:54,11:00,Rojas C.,0,2,5,,,,,,11:00,Rojas C.,,,,,https://www.tennisexplorer.com/results/,results
+0,440,2025-08-25 14:58:54,11:00,Mazzola F.,2,6,6,,,,1.25,3.43,11:00,Mazzola F.,,,,,https://www.tennisexplorer.com/results/,results
+0,441,2025-08-25 14:58:54,11:00,Perego G.,0,3,3,,,,,,11:00,Perego G.,,,,,https://www.tennisexplorer.com/results/,results
+0,442,2025-08-25 14:58:54,11:00,Bosio G.,2,6,6,,,,1.17,4.30,11:00,Bosio G.,,,,,https://www.tennisexplorer.com/results/,results
+0,443,2025-08-25 14:58:54,11:00,Vavassori M.,0,4,3,,,,,,11:00,Vavassori M.,,,,,https://www.tennisexplorer.com/results/,results
+0,444,2025-08-25 14:58:54,11:00,Aubert E.,2,6,6,,,,1.17,4.30,11:00,Aubert E.,,,,,https://www.tennisexplorer.com/results/,results
+0,445,2025-08-25 14:58:54,11:00,Guadagno V.,0,4,4,,,,,,11:00,Guadagno V.,,,,,https://www.tennisexplorer.com/results/,results
+0,446,2025-08-25 14:58:54,11:00,Peiro Serrano A.,2,7,4,13,,,2.20,1.55,11:00,Peiro Serrano A.,,,,,https://www.tennisexplorer.com/results/,results
+0,447,2025-08-25 14:58:54,11:00,Bueno Gil A.,1,66,6,11,,,,,11:00,Bueno Gil A.,,,,,https://www.tennisexplorer.com/results/,results
+0,448,2025-08-25 14:58:54,12:30,Faure V.,2,3,6,10,,,2.20,1.55,12:30,Faure V.,,,,,https://www.tennisexplorer.com/results/,results
+0,449,2025-08-25 14:58:54,12:30,Tremblay D.,1,6,0,5,,,,,12:30,Tremblay D.,,,,,https://www.tennisexplorer.com/results/,results
+0,450,2025-08-25 14:58:54,12:30,Overmyer K.,2,4,6,11,,,1.83,1.83,12:30,Overmyer K.,,,,,https://www.tennisexplorer.com/results/,results
+0,451,2025-08-25 14:58:54,12:30,Baldisserri E.,1,6,4,9,,,,,12:30,Baldisserri E.,,,,,https://www.tennisexplorer.com/results/,results
+0,452,2025-08-25 14:58:54,12:30,Lopez Cherubino N.,2,6,6,,,,1.83,1.83,12:30,Lopez Cherubino N.,,,,,https://www.tennisexplorer.com/results/,results
+0,453,2025-08-25 14:58:54,12:30,Tarrio Ponte A.,0,0,1,,,,,,12:30,Tarrio Ponte A.,,,,,https://www.tennisexplorer.com/results/,results
+0,454,2025-08-25 14:58:54,12:30,Lhomond I.,2,6,6,,,,3.68,1.22,12:30,Lhomond I.,,,,,https://www.tennisexplorer.com/results/,results
+0,455,2025-08-25 14:58:54,12:30,Faivre P.,0,2,2,,,,,,12:30,Faivre P.,,,,,https://www.tennisexplorer.com/results/,results
+0,456,2025-08-25 14:58:54,12:30,Toffanin N.,2,6,6,,,,3.68,1.22,12:30,Toffanin N.,,,,,https://www.tennisexplorer.com/results/,results
+0,457,2025-08-25 14:58:54,12:30,Senn N.,0,4,1,,,,,,12:30,Senn N.,,,,,https://www.tennisexplorer.com/results/,results
+0,458,2025-08-25 14:58:54,13:00,Martinez M.,1,7,4,,,,3.12,1.29,13:00,Martinez M.,,,,,https://www.tennisexplorer.com/results/,results
+0,459,2025-08-25 14:58:54,13:00,Izquierdo Luque R.,0,6,0,,,,,,13:00,Izquierdo Luque R.,,,,,https://www.tennisexplorer.com/results/,results
+0,460,2025-08-25 14:58:54,13:30,Burdet A.,2,7,7,,,,3.12,1.29,13:30,Burdet A.,,,,,https://www.tennisexplorer.com/results/,results
+0,461,2025-08-25 14:58:54,13:30,Aregger L.,0,64,66,,,,,,13:30,Aregger L.,,,,,https://www.tennisexplorer.com/results/,results
+0,462,2025-08-25 14:58:54,15:00,Del Pino M.,2,6,6,,,,,,15:00,Del Pino M.,,,,,https://www.tennisexplorer.com/results/,results
+0,463,2025-08-25 14:58:54,15:00,Zamora J.,0,1,1,,,,,,15:00,Zamora J.,,,,,https://www.tennisexplorer.com/results/,results
+0,464,2025-08-25 14:58:54,15:00,Fernandez B.,2,6,6,,,,,,15:00,Fernandez B.,,,,,https://www.tennisexplorer.com/results/,results
+0,465,2025-08-25 14:58:54,15:00,Castro L.,0,3,2,,,,,,15:00,Castro L.,,,,,https://www.tennisexplorer.com/results/,results
+0,466,2025-08-25 14:58:54,15:00,Bruna N.,2,6,6,,,,,,15:00,Bruna N.,,,,,https://www.tennisexplorer.com/results/,results
+0,467,2025-08-25 14:58:54,15:00,Marini F.,0,4,2,,,,,,15:00,Marini F.,,,,,https://www.tennisexplorer.com/results/,results
+0,468,2025-08-25 14:58:54,16:00,Lima E.,2,5,6,10,,,,,16:00,Lima E.,,,,,https://www.tennisexplorer.com/results/,results
+0,469,2025-08-25 14:58:54,16:00,Schenekenberg G.,1,7,2,7,,,,,16:00,Schenekenberg G.,,,,,https://www.tennisexplorer.com/results/,results
+0,470,2025-08-25 14:58:54,16:00,Escurra Isnardi H.,2,6,7,,,,1.43,2.50,16:00,Escurra Isnardi H.,,,,,https://www.tennisexplorer.com/results/,results
+0,471,2025-08-25 14:58:54,16:00,Grippo V.,0,1,5,,,,,,16:00,Grippo V.,,,,,https://www.tennisexplorer.com/results/,results
+0,472,2025-08-25 14:58:54,16:30,Ouzilou H.,2,6,6,,,,1.43,2.50,16:30,Ouzilou H.,,,,,https://www.tennisexplorer.com/results/,results
+0,473,2025-08-25 14:58:54,16:30,Jauch J.,0,0,3,,,,,,16:30,Jauch J.,,,,,https://www.tennisexplorer.com/results/,results
+0,474,2025-08-25 14:58:54,16:47,Garcia Longo N.,2,6,6,10,,,1.34,2.92,16:47,Garcia Longo N.,,,,,https://www.tennisexplorer.com/results/,results
+0,475,2025-08-25 14:58:54,16:47,Chelia B.,1,7,0,5,,,,,16:47,Chelia B.,,,,,https://www.tennisexplorer.com/results/,results
+0,476,2025-08-25 14:58:54,18:00,Grandinetti T.,2,6,3,10,,,1.34,2.92,18:00,Grandinetti T.,,,,,https://www.tennisexplorer.com/results/,results
+0,477,2025-08-25 14:58:54,18:00,Valente R.,1,4,6,8,,,,,18:00,Valente R.,,,,,https://www.tennisexplorer.com/results/,results
+0,478,2025-08-25 14:58:54,18:00,Scramin do Lago J.,2,6,6,10,,,1.82,1.82,18:00,Scramin do Lago J.,,,,,https://www.tennisexplorer.com/results/,results
+0,479,2025-08-25 14:58:54,18:00,Dreer F.,1,7,3,6,,,,,18:00,Dreer F.,,,,,https://www.tennisexplorer.com/results/,results
+0,480,2025-08-25 14:58:54,Mallorca challenger,S,1,2,3,4,5,H,1.82,1.82,,Mallorca challenger,,,,,https://www.tennisexplorer.com/results/,results
+0,481,2025-08-25 14:58:54,10:05,Geerts M.(5),2,6,6,,,,1.06,8.20,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,482,2025-08-25 14:58:54,10:05,Qi H.,0,2,1,,,,,,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,483,2025-08-25 14:58:54,10:05,Paul J.(4),2,6,7,,,,1.06,8.20,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,484,2025-08-25 14:58:54,10:05,Milavsky D.,0,4,63,,,,,,10:05,Milavsky D.,,,,,https://www.tennisexplorer.com/results/,results
+0,485,2025-08-25 14:58:54,10:05,Langmo C.(10),2,65,7,7,,,1.95,1.77,10:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,486,2025-08-25 14:58:54,10:05,Pieczkowski O.,1,7,64,64,,,,,10:05,Pieczkowski O.,,,,,https://www.tennisexplorer.com/results/,results
+0,487,2025-08-25 14:58:54,10:30,Parker S.,2,6,6,,,,1.95,1.77,10:30,Parker S.,,,,,https://www.tennisexplorer.com/results/,results
+0,488,2025-08-25 14:58:54,10:30,Tsitsipas P.,0,2,1,,,,,,10:30,Tsitsipas P.,,,,,https://www.tennisexplorer.com/results/,results
+0,489,2025-08-25 14:58:54,11:40,Callejon Hernando S.,2,6,6,,,,1.55,2.24,11:40,Callejon Hernando S.,,,,,https://www.tennisexplorer.com/results/,results
+0,490,2025-08-25 14:58:54,11:40,Pichler D.(1),0,3,4,,,,,,11:40,,,,,,https://www.tennisexplorer.com/results/,results
+0,491,2025-08-25 14:58:54,11:45,Soriano Barrera A.(3),2,6,7,,,,1.55,2.24,11:45,,,,,,https://www.tennisexplorer.com/results/,results
+0,492,2025-08-25 14:58:54,11:45,Poljak D.,0,4,63,,,,,,11:45,Poljak D.,,,,,https://www.tennisexplorer.com/results/,results
+0,493,2025-08-25 14:58:54,12:10,Honda N.,1,2,4,,,,3.12,1.33,12:10,Honda N.,,,,,https://www.tennisexplorer.com/results/,results
+0,494,2025-08-25 14:58:54,12:10,Lokoli L.(12),0,6,5,,,,,,12:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,495,2025-08-25 14:58:54,14:10,Barroso Campos A.,2,6,4,6,,,3.12,1.33,14:10,Barroso Campos A.,,,,,https://www.tennisexplorer.com/results/,results
+0,496,2025-08-25 14:58:54,14:10,Glinka D.(7),1,4,6,4,,,,,14:10,,,,,,https://www.tennisexplorer.com/results/,results
+0,497,2025-08-25 14:58:54,14:15,Poullain L.(8),2,3,6,7,,,1.65,2.12,14:15,,,,,,https://www.tennisexplorer.com/results/,results
+0,498,2025-08-25 14:58:54,14:15,Gerasimov E.,1,6,4,65,,,,,14:15,Gerasimov E.,,,,,https://www.tennisexplorer.com/results/,results
+0,499,2025-08-25 14:58:54,14:35,Masur D.,2,7,6,,,,1.65,2.12,14:35,Masur D.,,,,,https://www.tennisexplorer.com/results/,results
+0,500,2025-08-25 14:58:54,14:35,Karol M.(9),0,67,3,,,,,,14:35,,,,,,https://www.tennisexplorer.com/results/,results
+0,501,2025-08-25 14:58:54,15:00,Stewart H.,2,6,6,,,,2.19,1.61,15:00,Stewart H.,,,,,https://www.tennisexplorer.com/results/,results
+0,502,2025-08-25 14:58:54,15:00,Escoffier A.(6),0,2,3,,,,,,15:00,,,,,,https://www.tennisexplorer.com/results/,results
+0,503,2025-08-25 14:58:54,16:40,Chidekh C.(2),2,6,6,,,,2.19,1.61,16:40,,,,,,https://www.tennisexplorer.com/results/,results
+0,504,2025-08-25 14:58:54,16:40,Wiskandt M.,0,3,3,,,,,,16:40,Wiskandt M.,,,,,https://www.tennisexplorer.com/results/,results
+0,505,2025-08-25 14:58:54,Porto 2 challenger,S,1,2,3,4,5,H,A,,,,,,,,https://www.tennisexplorer.com/results/,results
+0,506,2025-08-25 14:58:54,11:05,Alcala Gurri M.(2),2,6,6,,,,1.62,2.16,11:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,507,2025-08-25 14:58:54,11:05,Gima S.(8),0,2,3,,,,,,11:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,508,2025-08-25 14:58:54,11:05,Torres T.,2,7,6,,,,1.62,2.16,11:05,Torres T.,,,,,https://www.tennisexplorer.com/results/,results
+0,509,2025-08-25 14:58:54,11:05,Martin D.(3),0,5,3,,,,,,11:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,510,2025-08-25 14:58:54,11:05,Wallin O.(1),2,7,6,,,,1.60,2.21,11:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,511,2025-08-25 14:58:54,11:05,Martinez A.(9),0,64,4,,,,,,11:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,512,2025-08-25 14:58:54,12:45,Mckennon M.(4),2,6,6,,,,1.60,2.21,12:45,,,,,,https://www.tennisexplorer.com/results/,results
+0,513,2025-08-25 14:58:54,12:45,Kielan S.,0,3,0,,,,,,12:45,Kielan S.,,,,,https://www.tennisexplorer.com/results/,results
+0,514,2025-08-25 14:58:54,12:50,Jorda Sanchis D.(5),2,6,6,,,,1.27,3.50,12:50,,,,,,https://www.tennisexplorer.com/results/,results
+0,515,2025-08-25 14:58:54,12:50,Cacao T.,0,2,2,,,,,,12:50,Cacao T.,,,,,https://www.tennisexplorer.com/results/,results
+0,516,2025-08-25 14:58:54,14:05,Pieczonka F.,2,65,6,6,,,1.27,3.50,14:05,Pieczonka F.,,,,,https://www.tennisexplorer.com/results/,results
+0,517,2025-08-25 14:58:54,14:05,de Schepper K.(10),1,7,1,1,,,,,14:05,,,,,,https://www.tennisexplorer.com/results/,results
+0,518,2025-08-25 14:58:54,Zhangjiagang challenger,S,1,2,3,4,5,H,A,,,Zhangjiagang challenger,,,,,https://www.tennisexplorer.com/results/,results
+0,519,2025-08-25 14:58:54,13:25,Uesugi K.,2,6,6,,,,2.81,1.38,13:25,Uesugi K.,,,,,https://www.tennisexplorer.com/results/,results
+0,520,2025-08-25 14:58:54,13:25,Watt J.,0,2,3,,,,,,13:25,Watt J.,,,,,https://www.tennisexplorer.com/results/,results
+0,521,2025-08-25 14:58:54,13:25,Peliwo F.(4),2,6,6,,,,2.81,1.38,13:25,,,,,,https://www.tennisexplorer.com/results/,results
+0,522,2025-08-25 14:58:54,13:25,Liu H.,0,4,0,,,,,,13:25,Liu H.,,,,,https://www.tennisexplorer.com/results/,results
+0,523,2025-08-25 14:58:54,13:25,Uchida K.(6),2,6,6,,,,1.21,4.11,13:25,,,,,,https://www.tennisexplorer.com/results/,results
+0,524,2025-08-25 14:58:54,13:25,Yuzuki T.,0,4,2,,,,,,13:25,Yuzuki T.,,,,,https://www.tennisexplorer.com/results/,results
+0,525,2025-08-25 14:58:54,14:40,Huang T.(5),2,6,6,,,,1.21,4.11,14:40,,,,,,https://www.tennisexplorer.com/results/,results
+0,526,2025-08-25 14:58:54,14:40,Nam J.(11),0,2,4,,,,,,14:40,,,,,,https://www.tennisexplorer.com/results/,results
+0,527,2025-08-25 14:58:54,14:45,Charlton J.,2,7,5,6,,,3.62,1.26,14:45,Charlton J.,,,,,https://www.tennisexplorer.com/results/,results
+0,528,2025-08-25 14:58:54,14:45,Santillan A.(8),1,64,7,4,,,,,14:45,,,,,,https://www.tennisexplorer.com/results/,results
+0,529,2025-08-25 14:58:54,14:55,Kikuchi Y.(9),2,6,6,,,,3.62,1.26,14:55,,,,,,https://www.tennisexplorer.com/results/,results
+0,530,2025-08-25 14:58:54,14:55,Chen C.,0,4,3,,,,,,14:55,Chen C.,,,,,https://www.tennisexplorer.com/results/,results
+1,1,2025-08-25 14:58:55,14:05,Faurel T.,2,3,6,6,,,1.57,2.27,14:05,Faurel T.,,,,,https://www.tennisexplorer.com/results/,results
+1,2,2025-08-25 14:58:55,14:05,Janvier M.(12),1,6,3,4,,,,,14:05,,,,,,https://www.tennisexplorer.com/results/,results
+1,3,2025-08-25 14:58:55,14:10,Molleker R.(4),2,6,6,,,,1.57,2.27,14:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,4,2025-08-25 14:58:55,14:10,Latinovic S.,0,4,4,,,,,,14:10,Latinovic S.,,,,,https://www.tennisexplorer.com/results/,results
+1,5,2025-08-25 14:58:55,14:15,Compagnucci T.(6),2,6,7,,,,2.47,1.49,14:15,,,,,,https://www.tennisexplorer.com/results/,results
+1,6,2025-08-25 14:58:55,14:15,Basile P.,0,2,5,,,,,,14:15,Basile P.,,,,,https://www.tennisexplorer.com/results/,results
+1,7,2025-08-25 14:58:55,14:15,Fonio G.(5),2,6,6,,,,2.47,1.49,14:15,,,,,,https://www.tennisexplorer.com/results/,results
+1,8,2025-08-25 14:58:55,14:15,Piatti R.,0,3,4,,,,,,14:15,Piatti R.,,,,,https://www.tennisexplorer.com/results/,results
+1,9,2025-08-25 14:58:55,15:30,Montes-De La Torre I.(2),2,6,6,,,,1.12,5.37,15:30,,,,,,https://www.tennisexplorer.com/results/,results
+1,10,2025-08-25 14:58:55,15:30,Kravchenko G.,0,1,3,,,,,,15:30,Kravchenko G.,,,,,https://www.tennisexplorer.com/results/,results
+1,11,2025-08-25 14:58:55,16:00,Squire H.(8),2,6,6,,,,1.12,5.37,16:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,12,2025-08-25 14:58:55,16:00,Fossati A.,0,0,3,,,,,,16:00,Fossati A.,,,,,https://www.tennisexplorer.com/results/,results
+1,13,2025-08-25 14:58:55,16:10,Pennaforti G.(9),2,6,7,,,,1.15,4.87,16:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,14,2025-08-25 14:58:55,16:10,Barnat J.,0,0,63,,,,,,16:10,Barnat J.,,,,,https://www.tennisexplorer.com/results/,results
+1,15,2025-08-25 14:58:55,16:20,Vasami J.,2,64,6,6,,,1.15,4.87,16:20,Vasami J.,,,,,https://www.tennisexplorer.com/results/,results
+1,16,2025-08-25 14:58:55,16:20,Vrbensky M.(10),1,7,4,4,,,,,16:20,,,,,,https://www.tennisexplorer.com/results/,results
+1,17,2025-08-25 14:58:55,17:00,Dalla Valle E.(7),2,3,6,6,,,1.04,9.18,17:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,18,2025-08-25 14:58:55,17:00,Kalyanpur A.,1,6,1,4,,,,,17:00,Kalyanpur A.,,,,,https://www.tennisexplorer.com/results/,results
+1,19,2025-08-25 14:58:55,17:00,Iannaccone F.(11),2,7,7,,,,1.04,9.18,17:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,20,2025-08-25 14:58:55,17:00,Cukierman D.,0,66,5,,,,,,17:00,Cukierman D.,,,,,https://www.tennisexplorer.com/results/,results
+1,21,2025-08-25 14:58:55,17:55,Boitan G.(1),2,4,6,7,,,1.08,6.95,17:55,,,,,,https://www.tennisexplorer.com/results/,results
+1,22,2025-08-25 14:58:55,17:55,Duda F.,1,6,1,5,,,,,17:55,Duda F.,,,,,https://www.tennisexplorer.com/results/,results
+1,23,2025-08-25 14:58:55,19:00,Brancaccio R.(3),2,6,7,,,,1.08,6.95,19:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,24,2025-08-25 14:58:55,19:00,Somani P.,0,0,5,,,,,,19:00,Somani P.,,,,,https://www.tennisexplorer.com/results/,results
+1,25,2025-08-25 14:58:55,Futures 2025,S,1,2,3,4,5,H,A,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,26,2025-08-25 14:58:55,--:--,Zhang H.,1,,,,,,,,,Zhang H.,,,,,https://www.tennisexplorer.com/results/,results
+1,27,2025-08-25 14:58:55,--:--,Moller B.,0,,,,,,,,,Moller B.,,,,,https://www.tennisexplorer.com/results/,results
+1,28,2025-08-25 14:58:55,--:--,Yang Y.,1,,,,,,,,,Yang Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,29,2025-08-25 14:58:55,--:--,Chen X.,0,,,,,,,,,Chen X.,,,,,https://www.tennisexplorer.com/results/,results
+1,30,2025-08-25 14:58:55,--:--,Zhao B.,1,,,,,,,,,Zhao B.,,,,,https://www.tennisexplorer.com/results/,results
+1,31,2025-08-25 14:58:55,--:--,Zhang B.,0,,,,,,,,,Zhang B.,,,,,https://www.tennisexplorer.com/results/,results
+1,32,2025-08-25 14:58:55,--:--,Park M.,1,,,,,,,,,Park M.,,,,,https://www.tennisexplorer.com/results/,results
+1,33,2025-08-25 14:58:55,--:--,Ovcharenko D.,0,,,,,,,,,Ovcharenko D.,,,,,https://www.tennisexplorer.com/results/,results
+1,34,2025-08-25 14:58:55,--:--,Ziheng H.,1,,,,,,,,,Ziheng H.,,,,,https://www.tennisexplorer.com/results/,results
+1,35,2025-08-25 14:58:55,--:--,Zheng B.,0,,,,,,,,,Zheng B.,,,,,https://www.tennisexplorer.com/results/,results
+1,36,2025-08-25 14:58:55,--:--,Asylkozhaev A.,1,,,,,,,,,Asylkozhaev A.,,,,,https://www.tennisexplorer.com/results/,results
+1,37,2025-08-25 14:58:55,--:--,Pan Z.,0,,,,,,,,,Pan Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,38,2025-08-25 14:58:55,--:--,Martinovic M.,1,,,,,,,,,Martinovic M.,,,,,https://www.tennisexplorer.com/results/,results
+1,39,2025-08-25 14:58:55,--:--,Hyte C.,0,,,,,,,,,Hyte C.,,,,,https://www.tennisexplorer.com/results/,results
+1,40,2025-08-25 14:58:55,--:--,Videnovic L.,1,,,,,,,,,Videnovic L.,,,,,https://www.tennisexplorer.com/results/,results
+1,41,2025-08-25 14:58:55,--:--,Mohar V.,0,,,,,,,,,Mohar V.,,,,,https://www.tennisexplorer.com/results/,results
+1,42,2025-08-25 14:58:55,--:--,Nabokin A.,1,,,,,,,,,Nabokin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,43,2025-08-25 14:58:55,--:--,Paysse F.,0,,,,,,,,,Paysse F.,,,,,https://www.tennisexplorer.com/results/,results
+1,44,2025-08-25 14:58:55,--:--,Bianchet S.,1,,,,,,,,,Bianchet S.,,,,,https://www.tennisexplorer.com/results/,results
+1,45,2025-08-25 14:58:55,--:--,Grekul A.,0,,,,,,,,,Grekul A.,,,,,https://www.tennisexplorer.com/results/,results
+1,46,2025-08-25 14:58:55,--:--,Verma H.,1,,,,,,,,,Verma H.,,,,,https://www.tennisexplorer.com/results/,results
+1,47,2025-08-25 14:58:55,--:--,Aranda Gauto L.,0,,,,,,,,,Aranda Gauto L.,,,,,https://www.tennisexplorer.com/results/,results
+1,48,2025-08-25 14:58:55,--:--,Kouami F.,1,,,,,,,,,Kouami F.,,,,,https://www.tennisexplorer.com/results/,results
+1,49,2025-08-25 14:58:55,--:--,Radziwillowicz Z.,0,,,,,,,,,Radziwillowicz Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,50,2025-08-25 14:58:55,--:--,Kubo T.,1,,,,,,,,,Kubo T.,,,,,https://www.tennisexplorer.com/results/,results
+1,51,2025-08-25 14:58:55,--:--,Koumba C.,0,,,,,,,,,Koumba C.,,,,,https://www.tennisexplorer.com/results/,results
+1,52,2025-08-25 14:58:55,--:--,Ichikawa S.,1,,,,,,,,,Ichikawa S.,,,,,https://www.tennisexplorer.com/results/,results
+1,53,2025-08-25 14:58:55,--:--,Puello A.,0,,,,,,,,,Puello A.,,,,,https://www.tennisexplorer.com/results/,results
+1,54,2025-08-25 14:58:55,--:--,Zhao B.,1,,,,,,,,,Zhao B.,,,,,https://www.tennisexplorer.com/results/,results
+1,55,2025-08-25 14:58:55,--:--,Maffini B.,0,,,,,,,,,Maffini B.,,,,,https://www.tennisexplorer.com/results/,results
+1,56,2025-08-25 14:58:55,--:--,Song Y.,1,,,,,,,,,Song Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,57,2025-08-25 14:58:55,--:--,Nima D.,0,,,,,,,,,Nima D.,,,,,https://www.tennisexplorer.com/results/,results
+1,58,2025-08-25 14:58:55,--:--,Zeuch T.,1,,,,,,,,,Zeuch T.,,,,,https://www.tennisexplorer.com/results/,results
+1,59,2025-08-25 14:58:55,--:--,Bienkiewicz J.,0,,,,,,,,,Bienkiewicz J.,,,,,https://www.tennisexplorer.com/results/,results
+1,60,2025-08-25 14:58:55,--:--,Dai S.,1,1,,,,,,,,Dai S.,,,,,https://www.tennisexplorer.com/results/,results
+1,61,2025-08-25 14:58:55,--:--,Bai W.,0,0,,,,,,,,Bai W.,,,,,https://www.tennisexplorer.com/results/,results
+1,62,2025-08-25 14:58:55,--:--,Sy-A-Foek B.,2,1,6,10,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,63,2025-08-25 14:58:55,--:--,Schrier T.,1,6,4,5,,,,,,Schrier T.,,,,,https://www.tennisexplorer.com/results/,results
+1,64,2025-08-25 14:58:55,--:--,Venkataraman A.,2,1,6,10,,,,,,Venkataraman A.,,,,,https://www.tennisexplorer.com/results/,results
+1,65,2025-08-25 14:58:55,--:--,Abdusamadov D.,1,6,4,8,,,,,,Abdusamadov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,66,2025-08-25 14:58:55,--:--,Estephan J.,2,1,7,10,,,,,,Estephan J.,,,,,https://www.tennisexplorer.com/results/,results
+1,67,2025-08-25 14:58:55,--:--,Shibano K.,1,6,5,2,,,,,,Shibano K.,,,,,https://www.tennisexplorer.com/results/,results
+1,68,2025-08-25 14:58:55,--:--,Jux M.,2,2,6,10,,,,,,Jux M.,,,,,https://www.tennisexplorer.com/results/,results
+1,69,2025-08-25 14:58:55,--:--,Samba S.,1,6,4,3,,,,,,Samba S.,,,,,https://www.tennisexplorer.com/results/,results
+1,70,2025-08-25 14:58:55,--:--,Yang K.,2,2,6,10,,,,,,Yang K.,,,,,https://www.tennisexplorer.com/results/,results
+1,71,2025-08-25 14:58:55,--:--,Yu C.,1,6,4,4,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,72,2025-08-25 14:58:55,--:--,Wu K.,2,2,7,11,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,73,2025-08-25 14:58:55,--:--,Gibson J.,1,6,6,9,,,,,,Gibson J.,,,,,https://www.tennisexplorer.com/results/,results
+1,74,2025-08-25 14:58:55,--:--,Dimitrijevic J.,2,3,6,10,,,,,,Dimitrijevic J.,,,,,https://www.tennisexplorer.com/results/,results
+1,75,2025-08-25 14:58:55,--:--,Wierzbicki O.,1,6,1,1,,,,,,Wierzbicki O.,,,,,https://www.tennisexplorer.com/results/,results
+1,76,2025-08-25 14:58:55,--:--,Pikkaart J.,2,3,6,10,,,,,,Pikkaart J.,,,,,https://www.tennisexplorer.com/results/,results
+1,77,2025-08-25 14:58:55,--:--,Waterbolk I.,1,6,1,5,,,,,,Waterbolk I.,,,,,https://www.tennisexplorer.com/results/,results
+1,78,2025-08-25 14:58:55,--:--,Valente R.,2,3,6,10,,,,,,Valente R.,,,,,https://www.tennisexplorer.com/results/,results
+1,79,2025-08-25 14:58:55,--:--,Vertberger I.,1,6,1,8,,,,,,Vertberger I.,,,,,https://www.tennisexplorer.com/results/,results
+1,80,2025-08-25 14:58:55,--:--,Kosinski F.,2,3,6,11,,,,,,Kosinski F.,,,,,https://www.tennisexplorer.com/results/,results
+1,81,2025-08-25 14:58:55,--:--,Tarasevich U.,1,6,1,9,,,,,,Tarasevich U.,,,,,https://www.tennisexplorer.com/results/,results
+1,82,2025-08-25 14:58:55,--:--,Trklja A.,2,3,6,10,,,,,,Trklja A.,,,,,https://www.tennisexplorer.com/results/,results
+1,83,2025-08-25 14:58:55,--:--,Veldkamp Y.,1,6,2,5,,,,,,Veldkamp Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,84,2025-08-25 14:58:55,--:--,Torres R.,2,3,6,10,,,,,,Torres R.,,,,,https://www.tennisexplorer.com/results/,results
+1,85,2025-08-25 14:58:55,--:--,Wallechner D.,1,6,2,6,,,,,,Wallechner D.,,,,,https://www.tennisexplorer.com/results/,results
+1,86,2025-08-25 14:58:55,--:--,Yi Qing J.,2,3,6,10,,,,,,Yi Qing J.,,,,,https://www.tennisexplorer.com/results/,results
+1,87,2025-08-25 14:58:55,--:--,Vagner J.,1,6,2,8,,,,,,Vagner J.,,,,,https://www.tennisexplorer.com/results/,results
+1,88,2025-08-25 14:58:55,--:--,Lima E.,2,3,6,10,,,,,,Lima E.,,,,,https://www.tennisexplorer.com/results/,results
+1,89,2025-08-25 14:58:55,--:--,Fernandez Badia A.,1,6,4,1,,,,,,Fernandez Badia A.,,,,,https://www.tennisexplorer.com/results/,results
+1,90,2025-08-25 14:58:55,--:--,Kachushkin I.,2,3,7,10,,,,,,Kachushkin I.,,,,,https://www.tennisexplorer.com/results/,results
+1,91,2025-08-25 14:58:55,--:--,Kwami Stanislas Roland D.,1,6,6,5,,,,,,Kwami Stanislas Roland D.,,,,,https://www.tennisexplorer.com/results/,results
+1,92,2025-08-25 14:58:55,--:--,Ren H.,1,4,,,,,,,,Ren H.,,,,,https://www.tennisexplorer.com/results/,results
+1,93,2025-08-25 14:58:55,--:--,Huang R.,0,0,,,,,,,,Huang R.,,,,,https://www.tennisexplorer.com/results/,results
+1,94,2025-08-25 14:58:55,--:--,Schinteie G.,2,4,6,10,,,,,,Schinteie G.,,,,,https://www.tennisexplorer.com/results/,results
+1,95,2025-08-25 14:58:55,--:--,Petre S.,1,6,1,7,,,,,,Petre S.,,,,,https://www.tennisexplorer.com/results/,results
+1,96,2025-08-25 14:58:55,--:--,Schotanus M.,2,4,6,10,,,,,,Schotanus M.,,,,,https://www.tennisexplorer.com/results/,results
+1,97,2025-08-25 14:58:55,--:--,Vanhulst A.,1,6,2,2,,,,,,Vanhulst A.,,,,,https://www.tennisexplorer.com/results/,results
+1,98,2025-08-25 14:58:55,--:--,Haita M.,2,4,6,10,,,,,,Haita M.,,,,,https://www.tennisexplorer.com/results/,results
+1,99,2025-08-25 14:58:55,--:--,Nedelcovici N.,1,6,3,5,,,,,,Nedelcovici N.,,,,,https://www.tennisexplorer.com/results/,results
+1,100,2025-08-25 14:58:55,--:--,Seifert S.,2,4,6,10,,,,,,Seifert S.,,,,,https://www.tennisexplorer.com/results/,results
+1,101,2025-08-25 14:58:55,--:--,Nagy B.,1,6,3,7,,,,,,Nagy B.,,,,,https://www.tennisexplorer.com/results/,results
+1,102,2025-08-25 14:58:55,--:--,Di Vita R.,2,4,6,13,,,,,,Di Vita R.,,,,,https://www.tennisexplorer.com/results/,results
+1,103,2025-08-25 14:58:55,--:--,Antonescu V.,1,6,3,11,,,,,,Antonescu V.,,,,,https://www.tennisexplorer.com/results/,results
+1,104,2025-08-25 14:58:55,--:--,Bartram W.,2,4,6,10,,,,,,Bartram W.,,,,,https://www.tennisexplorer.com/results/,results
+1,105,2025-08-25 14:58:55,--:--,Milovanov T.,1,6,4,8,,,,,,Milovanov T.,,,,,https://www.tennisexplorer.com/results/,results
+1,106,2025-08-25 14:58:55,--:--,Idrees B.,2,4,6,11,,,,,,Idrees B.,,,,,https://www.tennisexplorer.com/results/,results
+1,107,2025-08-25 14:58:55,--:--,Ignatov I.,1,6,4,9,,,,,,Ignatov I.,,,,,https://www.tennisexplorer.com/results/,results
+1,108,2025-08-25 14:58:55,--:--,Pawar S.,1,4,7,7,,,,,,Pawar S.,,,,,https://www.tennisexplorer.com/results/,results
+1,109,2025-08-25 14:58:55,--:--,Koike R.,0,6,5,0,,,,,,Koike R.,,,,,https://www.tennisexplorer.com/results/,results
+1,110,2025-08-25 14:58:55,--:--,Poels M.,2,4,7,10,,,,,,Poels M.,,,,,https://www.tennisexplorer.com/results/,results
+1,111,2025-08-25 14:58:55,--:--,Vermeer W.,1,6,5,5,,,,,,Vermeer W.,,,,,https://www.tennisexplorer.com/results/,results
+1,112,2025-08-25 14:58:55,--:--,Dreer F.,2,4,7,10,,,,,,Dreer F.,,,,,https://www.tennisexplorer.com/results/,results
+1,113,2025-08-25 14:58:55,--:--,Esponda Z.,1,6,6,3,,,,,,Esponda Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,114,2025-08-25 14:58:55,--:--,Vavassori M.,2,4,7,11,,,,,,Vavassori M.,,,,,https://www.tennisexplorer.com/results/,results
+1,115,2025-08-25 14:58:55,--:--,Gandolfi G.,1,6,6,9,,,,,,Gandolfi G.,,,,,https://www.tennisexplorer.com/results/,results
+1,116,2025-08-25 14:58:55,--:--,Loosen T.,1,5,,,,,,,,Loosen T.,,,,,https://www.tennisexplorer.com/results/,results
+1,117,2025-08-25 14:58:55,--:--,Agarwal D.,0,1,,,,,,,,Agarwal D.,,,,,https://www.tennisexplorer.com/results/,results
+1,118,2025-08-25 14:58:55,--:--,Prammer J.,2,5,6,10,,,,,,Prammer J.,,,,,https://www.tennisexplorer.com/results/,results
+1,119,2025-08-25 14:58:55,--:--,Hesselmann L.,1,7,3,8,,,,,,Hesselmann L.,,,,,https://www.tennisexplorer.com/results/,results
+1,120,2025-08-25 14:58:55,--:--,Kohler M.,2,5,6,12,,,,,,Kohler M.,,,,,https://www.tennisexplorer.com/results/,results
+1,121,2025-08-25 14:58:55,--:--,Stolarik S.,1,7,3,10,,,,,,Stolarik S.,,,,,https://www.tennisexplorer.com/results/,results
+1,122,2025-08-25 14:58:55,--:--,Khlyvniuk M.,2,5,6,16,,,,,,Khlyvniuk M.,,,,,https://www.tennisexplorer.com/results/,results
+1,123,2025-08-25 14:58:55,--:--,Muller M.,1,7,3,14,,,,,,Muller M.,,,,,https://www.tennisexplorer.com/results/,results
+1,124,2025-08-25 14:58:55,--:--,Banti C.,2,5,6,10,,,,,,Banti C.,,,,,https://www.tennisexplorer.com/results/,results
+1,125,2025-08-25 14:58:55,--:--,Mesaglio M.,1,7,4,7,,,,,,Mesaglio M.,,,,,https://www.tennisexplorer.com/results/,results
+1,126,2025-08-25 14:58:55,--:--,Antoni R.,2,5,7,10,,,,,,Antoni R.,,,,,https://www.tennisexplorer.com/results/,results
+1,127,2025-08-25 14:58:55,--:--,Piening C.,1,7,5,3,,,,,,Piening C.,,,,,https://www.tennisexplorer.com/results/,results
+1,128,2025-08-25 14:58:55,--:--,Hoskins S.,2,5,7,10,,,,,,Hoskins S.,,,,,https://www.tennisexplorer.com/results/,results
+1,129,2025-08-25 14:58:55,--:--,Pobes E.,1,7,5,7,,,,,,Pobes E.,,,,,https://www.tennisexplorer.com/results/,results
+1,130,2025-08-25 14:58:55,--:--,Uta D.,2,6,6,,,,,,,Uta D.,,,,,https://www.tennisexplorer.com/results/,results
+1,131,2025-08-25 14:58:55,--:--,Constantinciu L.,0,0,0,,,,,,,Constantinciu L.,,,,,https://www.tennisexplorer.com/results/,results
+1,132,2025-08-25 14:58:55,--:--,Stan M.,2,6,6,,,,,,,Stan M.,,,,,https://www.tennisexplorer.com/results/,results
+1,133,2025-08-25 14:58:55,--:--,Cojocaru R.,0,0,0,,,,,,,Cojocaru R.,,,,,https://www.tennisexplorer.com/results/,results
+1,134,2025-08-25 14:58:55,--:--,Choe J.,2,6,6,,,,,,,Choe J.,,,,,https://www.tennisexplorer.com/results/,results
+1,135,2025-08-25 14:58:55,--:--,Yaoyao D.,0,0,0,,,,,,,Yaoyao D.,,,,,https://www.tennisexplorer.com/results/,results
+1,136,2025-08-25 14:58:55,--:--,Trivunac N.,2,6,6,,,,,,,Trivunac N.,,,,,https://www.tennisexplorer.com/results/,results
+1,137,2025-08-25 14:58:55,--:--,Skof G.,0,0,0,,,,,,,Skof G.,,,,,https://www.tennisexplorer.com/results/,results
+1,138,2025-08-25 14:58:55,--:--,Gabet A.,2,6,6,,,,,,,Gabet A.,,,,,https://www.tennisexplorer.com/results/,results
+1,139,2025-08-25 14:58:55,--:--,Nicolle C.,0,0,0,,,,,,,Nicolle C.,,,,,https://www.tennisexplorer.com/results/,results
+1,140,2025-08-25 14:58:55,--:--,Manuel J.,2,6,6,,,,,,,Manuel J.,,,,,https://www.tennisexplorer.com/results/,results
+1,141,2025-08-25 14:58:55,--:--,Moulton W.,0,0,0,,,,,,,Moulton W.,,,,,https://www.tennisexplorer.com/results/,results
+1,142,2025-08-25 14:58:55,--:--,Malecki S.,2,6,6,,,,,,,Malecki S.,,,,,https://www.tennisexplorer.com/results/,results
+1,143,2025-08-25 14:58:55,--:--,Kuszli B.,0,0,0,,,,,,,Kuszli B.,,,,,https://www.tennisexplorer.com/results/,results
+1,144,2025-08-25 14:58:55,--:--,Kothari A.,2,6,6,,,,,,,Kothari A.,,,,,https://www.tennisexplorer.com/results/,results
+1,145,2025-08-25 14:58:55,--:--,Rathi S.,0,0,0,,,,,,,Rathi S.,,,,,https://www.tennisexplorer.com/results/,results
+1,146,2025-08-25 14:58:55,--:--,Wong A.,2,6,6,,,,,,,Wong A.,,,,,https://www.tennisexplorer.com/results/,results
+1,147,2025-08-25 14:58:55,--:--,Li J.,0,0,0,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,148,2025-08-25 14:58:55,--:--,Ou J.,2,6,6,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,149,2025-08-25 14:58:55,--:--,Lin K.,0,0,0,,,,,,,Lin K.,,,,,https://www.tennisexplorer.com/results/,results
+1,150,2025-08-25 14:58:55,--:--,Doskocil M.,2,6,6,,,,,,,Doskocil M.,,,,,https://www.tennisexplorer.com/results/,results
+1,151,2025-08-25 14:58:55,--:--,Karner F.,0,0,0,,,,,,,Karner F.,,,,,https://www.tennisexplorer.com/results/,results
+1,152,2025-08-25 14:58:55,--:--,Bentzel C.,2,6,6,,,,,,,Bentzel C.,,,,,https://www.tennisexplorer.com/results/,results
+1,153,2025-08-25 14:58:55,--:--,Malhi S.,0,0,1,,,,,,,Malhi S.,,,,,https://www.tennisexplorer.com/results/,results
+1,154,2025-08-25 14:58:55,--:--,Delicata L.,2,6,6,,,,,,,Delicata L.,,,,,https://www.tennisexplorer.com/results/,results
+1,155,2025-08-25 14:58:55,--:--,Balasa M.,0,0,1,,,,,,,Balasa M.,,,,,https://www.tennisexplorer.com/results/,results
+1,156,2025-08-25 14:58:55,--:--,Belkovics A.,2,6,6,,,,,,,Belkovics A.,,,,,https://www.tennisexplorer.com/results/,results
+1,157,2025-08-25 14:58:55,--:--,Peter S.,0,0,1,,,,,,,Peter S.,,,,,https://www.tennisexplorer.com/results/,results
+1,158,2025-08-25 14:58:55,--:--,Campbell N.,2,6,6,,,,,,,Campbell N.,,,,,https://www.tennisexplorer.com/results/,results
+1,159,2025-08-25 14:58:55,--:--,Immeli J.,0,0,1,,,,,,,Immeli J.,,,,,https://www.tennisexplorer.com/results/,results
+1,160,2025-08-25 14:58:55,--:--,Torres Ramis M.,2,6,6,,,,,,,Torres Ramis M.,,,,,https://www.tennisexplorer.com/results/,results
+1,161,2025-08-25 14:58:55,--:--,Jovic M.,0,0,1,,,,,,,Jovic M.,,,,,https://www.tennisexplorer.com/results/,results
+1,162,2025-08-25 14:58:55,--:--,Shi K.,2,6,6,,,,,,,Shi K.,,,,,https://www.tennisexplorer.com/results/,results
+1,163,2025-08-25 14:58:55,--:--,Wei J.,0,0,1,,,,,,,Wei J.,,,,,https://www.tennisexplorer.com/results/,results
+1,164,2025-08-25 14:58:55,--:--,Alhogbani A.,2,6,6,,,,,,,Alhogbani A.,,,,,https://www.tennisexplorer.com/results/,results
+1,165,2025-08-25 14:58:55,--:--,Sakulvongtana N.,0,0,1,,,,,,,Sakulvongtana N.,,,,,https://www.tennisexplorer.com/results/,results
+1,166,2025-08-25 14:58:55,--:--,Pel S.,2,6,6,,,,,,,Pel S.,,,,,https://www.tennisexplorer.com/results/,results
+1,167,2025-08-25 14:58:55,--:--,Bult J.,0,0,1,,,,,,,Bult J.,,,,,https://www.tennisexplorer.com/results/,results
+1,168,2025-08-25 14:58:55,--:--,Garcia Longo N.,2,6,6,,,,,,,Garcia Longo N.,,,,,https://www.tennisexplorer.com/results/,results
+1,169,2025-08-25 14:58:55,--:--,Vulcano J.,0,0,1,,,,,,,Vulcano J.,,,,,https://www.tennisexplorer.com/results/,results
+1,170,2025-08-25 14:58:55,--:--,Tikhomirov M.,2,6,6,,,,,,,Tikhomirov M.,,,,,https://www.tennisexplorer.com/results/,results
+1,171,2025-08-25 14:58:55,--:--,Nabokin A.,0,0,1,,,,,,,Nabokin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,172,2025-08-25 14:58:55,--:--,Breazu M.,2,6,6,,,,,,,Breazu M.,,,,,https://www.tennisexplorer.com/results/,results
+1,173,2025-08-25 14:58:55,--:--,Vargolici S.,0,0,2,,,,,,,Vargolici S.,,,,,https://www.tennisexplorer.com/results/,results
+1,174,2025-08-25 14:58:55,--:--,Siao L.,2,6,6,,,,,,,Siao L.,,,,,https://www.tennisexplorer.com/results/,results
+1,175,2025-08-25 14:58:55,--:--,Wang S.,0,0,2,,,,,,,Wang S.,,,,,https://www.tennisexplorer.com/results/,results
+1,176,2025-08-25 14:58:55,--:--,Koay H.,2,6,6,,,,,,,Koay H.,,,,,https://www.tennisexplorer.com/results/,results
+1,177,2025-08-25 14:58:55,--:--,Wang Y.,0,0,2,,,,,,,Wang Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,178,2025-08-25 14:58:55,--:--,Grunewald N.,2,6,6,,,,,,,Grunewald N.,,,,,https://www.tennisexplorer.com/results/,results
+1,179,2025-08-25 14:58:55,--:--,Williamson T.,0,0,2,,,,,,,Williamson T.,,,,,https://www.tennisexplorer.com/results/,results
+1,180,2025-08-25 14:58:55,--:--,Avcibasi T.,2,6,6,,,,,,,Avcibasi T.,,,,,https://www.tennisexplorer.com/results/,results
+1,181,2025-08-25 14:58:55,--:--,Sopolinski T.,0,0,2,,,,,,,Sopolinski T.,,,,,https://www.tennisexplorer.com/results/,results
+1,182,2025-08-25 14:58:55,--:--,Lazic M.,2,6,6,,,,,,,Lazic M.,,,,,https://www.tennisexplorer.com/results/,results
+1,183,2025-08-25 14:58:55,--:--,Leitgeb A.,0,0,2,,,,,,,Leitgeb A.,,,,,https://www.tennisexplorer.com/results/,results
+1,184,2025-08-25 14:58:55,--:--,Duan H.,2,6,6,,,,,,,Duan H.,,,,,https://www.tennisexplorer.com/results/,results
+1,185,2025-08-25 14:58:55,--:--,Manik S.,0,0,2,,,,,,,Manik S.,,,,,https://www.tennisexplorer.com/results/,results
+1,186,2025-08-25 14:58:55,--:--,Michalik R.,2,6,6,,,,,,,Michalik R.,,,,,https://www.tennisexplorer.com/results/,results
+1,187,2025-08-25 14:58:55,--:--,Varga-Toth O.,0,0,3,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,188,2025-08-25 14:58:55,--:--,Statzberger T.,2,6,6,,,,,,,Statzberger T.,,,,,https://www.tennisexplorer.com/results/,results
+1,189,2025-08-25 14:58:55,--:--,Jelinek J.,0,0,3,,,,,,,Jelinek J.,,,,,https://www.tennisexplorer.com/results/,results
+1,190,2025-08-25 14:58:55,--:--,Jiang G.,1,6,2,,,,,,,Jiang G.,,,,,https://www.tennisexplorer.com/results/,results
+1,191,2025-08-25 14:58:55,--:--,Ding N.,0,1,1,,,,,,,Ding N.,,,,,https://www.tennisexplorer.com/results/,results
+1,192,2025-08-25 14:58:55,--:--,Guinau S.,2,6,2,10,,,,,,Guinau S.,,,,,https://www.tennisexplorer.com/results/,results
+1,193,2025-08-25 14:58:55,--:--,Bol J.,1,1,6,5,,,,,,Bol J.,,,,,https://www.tennisexplorer.com/results/,results
+1,194,2025-08-25 14:58:55,--:--,Van Donk M.,2,6,3,10,,,,,,Van Donk M.,,,,,https://www.tennisexplorer.com/results/,results
+1,195,2025-08-25 14:58:55,--:--,Martens N.,1,1,6,7,,,,,,Martens N.,,,,,https://www.tennisexplorer.com/results/,results
+1,196,2025-08-25 14:58:55,--:--,Barraza J.,2,6,5,10,,,,,,Barraza J.,,,,,https://www.tennisexplorer.com/results/,results
+1,197,2025-08-25 14:58:55,--:--,Kushnir A.,1,1,7,6,,,,,,Kushnir A.,,,,,https://www.tennisexplorer.com/results/,results
+1,198,2025-08-25 14:58:55,--:--,Loureiro J.,2,6,6,,,,,,,Loureiro J.,,,,,https://www.tennisexplorer.com/results/,results
+1,199,2025-08-25 14:58:55,--:--,Gabor D.,0,1,0,,,,,,,Gabor D.,,,,,https://www.tennisexplorer.com/results/,results
+1,200,2025-08-25 14:58:55,--:--,Popirlan L.,2,6,6,,,,,,,Popirlan L.,,,,,https://www.tennisexplorer.com/results/,results
+1,201,2025-08-25 14:58:55,--:--,Belicciu M.,0,1,0,,,,,,,Belicciu M.,,,,,https://www.tennisexplorer.com/results/,results
+1,202,2025-08-25 14:58:55,--:--,Blanchar A.,2,6,6,,,,,,,Blanchar A.,,,,,https://www.tennisexplorer.com/results/,results
+1,203,2025-08-25 14:58:55,--:--,Kovacs V.,0,1,0,,,,,,,Kovacs V.,,,,,https://www.tennisexplorer.com/results/,results
+1,204,2025-08-25 14:58:55,--:--,Mazzola F.,2,6,6,,,,,,,Mazzola F.,,,,,https://www.tennisexplorer.com/results/,results
+1,205,2025-08-25 14:58:55,--:--,Ignoto R.,0,1,0,,,,,,,Ignoto R.,,,,,https://www.tennisexplorer.com/results/,results
+1,206,2025-08-25 14:58:55,--:--,Pade L.,2,6,6,,,,,,,Pade L.,,,,,https://www.tennisexplorer.com/results/,results
+1,207,2025-08-25 14:58:55,--:--,Semenov D.,0,1,0,,,,,,,Semenov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,208,2025-08-25 14:58:55,--:--,Milovanov T.,2,6,6,,,,,,,Milovanov T.,,,,,https://www.tennisexplorer.com/results/,results
+1,209,2025-08-25 14:58:55,--:--,Tsapenko M.,0,1,0,,,,,,,Tsapenko M.,,,,,https://www.tennisexplorer.com/results/,results
+1,210,2025-08-25 14:58:55,--:--,Urban J.,2,6,6,,,,,,,Urban J.,,,,,https://www.tennisexplorer.com/results/,results
+1,211,2025-08-25 14:58:55,--:--,Skupinski B.,0,1,0,,,,,,,Skupinski B.,,,,,https://www.tennisexplorer.com/results/,results
+1,212,2025-08-25 14:58:55,--:--,Hrynkiewicz J.,2,6,6,,,,,,,Hrynkiewicz J.,,,,,https://www.tennisexplorer.com/results/,results
+1,213,2025-08-25 14:58:55,--:--,Vasquez Gehrke P.,0,1,0,,,,,,,Vasquez Gehrke P.,,,,,https://www.tennisexplorer.com/results/,results
+1,214,2025-08-25 14:58:55,--:--,Khuda A.,2,6,6,,,,,,,Khuda A.,,,,,https://www.tennisexplorer.com/results/,results
+1,215,2025-08-25 14:58:55,--:--,Tugulescu V.,0,1,0,,,,,,,Tugulescu V.,,,,,https://www.tennisexplorer.com/results/,results
+1,216,2025-08-25 14:58:55,--:--,Chen S.,2,6,6,,,,,,,Chen S.,,,,,https://www.tennisexplorer.com/results/,results
+1,217,2025-08-25 14:58:55,--:--,Ghorbanzadeh A.,0,1,0,,,,,,,Ghorbanzadeh A.,,,,,https://www.tennisexplorer.com/results/,results
+1,218,2025-08-25 14:58:55,--:--,Morega D.,2,6,6,,,,,,,Morega D.,,,,,https://www.tennisexplorer.com/results/,results
+1,219,2025-08-25 14:58:55,--:--,Gonik R.,0,1,1,,,,,,,Gonik R.,,,,,https://www.tennisexplorer.com/results/,results
+1,220,2025-08-25 14:58:55,--:--,Ignatik U.,2,6,6,,,,,,,Ignatik U.,,,,,https://www.tennisexplorer.com/results/,results
+1,221,2025-08-25 14:58:55,--:--,Losaberidze V.,0,1,1,,,,,,,Losaberidze V.,,,,,https://www.tennisexplorer.com/results/,results
+1,222,2025-08-25 14:58:55,--:--,Mirarchi W.,2,6,6,,,,,,,Mirarchi W.,,,,,https://www.tennisexplorer.com/results/,results
+1,223,2025-08-25 14:58:55,--:--,Stamatopoulos I.,0,1,1,,,,,,,Stamatopoulos I.,,,,,https://www.tennisexplorer.com/results/,results
+1,224,2025-08-25 14:58:55,--:--,Fagotti E.,2,6,6,,,,,,,Fagotti E.,,,,,https://www.tennisexplorer.com/results/,results
+1,225,2025-08-25 14:58:55,--:--,Marinescu A.,0,1,1,,,,,,,Marinescu A.,,,,,https://www.tennisexplorer.com/results/,results
+1,226,2025-08-25 14:58:55,--:--,Coman M.,2,6,6,,,,,,,Coman M.,,,,,https://www.tennisexplorer.com/results/,results
+1,227,2025-08-25 14:58:55,--:--,Dumitrescu A.,0,1,1,,,,,,,Dumitrescu A.,,,,,https://www.tennisexplorer.com/results/,results
+1,228,2025-08-25 14:58:55,--:--,Tang J.,2,6,6,,,,,,,Tang J.,,,,,https://www.tennisexplorer.com/results/,results
+1,229,2025-08-25 14:58:55,--:--,Li W.,0,1,1,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,230,2025-08-25 14:58:55,--:--,Watts A.,2,6,6,,,,,,,Watts A.,,,,,https://www.tennisexplorer.com/results/,results
+1,231,2025-08-25 14:58:55,--:--,Jaffari S.,0,1,1,,,,,,,Jaffari S.,,,,,https://www.tennisexplorer.com/results/,results
+1,232,2025-08-25 14:58:55,--:--,Richards L.,2,6,6,,,,,,,Richards L.,,,,,https://www.tennisexplorer.com/results/,results
+1,233,2025-08-25 14:58:55,--:--,Neema A.,0,1,1,,,,,,,Neema A.,,,,,https://www.tennisexplorer.com/results/,results
+1,234,2025-08-25 14:58:55,--:--,Hooper L.,2,6,6,,,,,,,Hooper L.,,,,,https://www.tennisexplorer.com/results/,results
+1,235,2025-08-25 14:58:55,--:--,Betuker R.,0,1,1,,,,,,,Betuker R.,,,,,https://www.tennisexplorer.com/results/,results
+1,236,2025-08-25 14:58:55,--:--,Matta A.,2,6,6,,,,,,,Matta A.,,,,,https://www.tennisexplorer.com/results/,results
+1,237,2025-08-25 14:58:55,--:--,Feng L.,0,1,1,,,,,,,Feng L.,,,,,https://www.tennisexplorer.com/results/,results
+1,238,2025-08-25 14:58:55,--:--,Gicic R.,2,6,6,,,,,,,Gicic R.,,,,,https://www.tennisexplorer.com/results/,results
+1,239,2025-08-25 14:58:55,--:--,Rao A.,0,1,1,,,,,,,Rao A.,,,,,https://www.tennisexplorer.com/results/,results
+1,240,2025-08-25 14:58:55,--:--,Ye X.,2,6,6,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,241,2025-08-25 14:58:55,--:--,Li Y.,0,1,2,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,242,2025-08-25 14:58:55,--:--,Tarrio Ponte A.,2,6,6,,,,,,,Tarrio Ponte A.,,,,,https://www.tennisexplorer.com/results/,results
+1,243,2025-08-25 14:58:55,--:--,Moran S.,0,1,2,,,,,,,Moran S.,,,,,https://www.tennisexplorer.com/results/,results
+1,244,2025-08-25 14:58:55,--:--,Smejkal S.,2,6,6,,,,,,,Smejkal S.,,,,,https://www.tennisexplorer.com/results/,results
+1,245,2025-08-25 14:58:55,--:--,Afanasjevs A.,0,1,2,,,,,,,Afanasjevs A.,,,,,https://www.tennisexplorer.com/results/,results
+1,246,2025-08-25 14:58:55,--:--,Ovchinnikov V.,2,6,6,,,,,,,Ovchinnikov V.,,,,,https://www.tennisexplorer.com/results/,results
+1,247,2025-08-25 14:58:55,--:--,Roth J.,0,1,2,,,,,,,Roth J.,,,,,https://www.tennisexplorer.com/results/,results
+1,248,2025-08-25 14:58:55,--:--,Schenekenberg G.,2,6,6,,,,,,,Schenekenberg G.,,,,,https://www.tennisexplorer.com/results/,results
+1,249,2025-08-25 14:58:55,--:--,Bojicic Ono L.,0,1,2,,,,,,,Bojicic Ono L.,,,,,https://www.tennisexplorer.com/results/,results
+1,250,2025-08-25 14:58:55,--:--,Tang J.,2,6,6,,,,,,,Tang J.,,,,,https://www.tennisexplorer.com/results/,results
+1,251,2025-08-25 14:58:55,--:--,Chen Z.,0,1,2,,,,,,,Chen Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,252,2025-08-25 14:58:55,--:--,Lim A.,2,6,6,,,,,,,Lim A.,,,,,https://www.tennisexplorer.com/results/,results
+1,253,2025-08-25 14:58:55,--:--,Huang R.,0,1,2,,,,,,,Huang R.,,,,,https://www.tennisexplorer.com/results/,results
+1,254,2025-08-25 14:58:55,--:--,Butnaru A.,2,6,6,,,,,,,Butnaru A.,,,,,https://www.tennisexplorer.com/results/,results
+1,255,2025-08-25 14:58:55,--:--,Sinescu J.,0,1,3,,,,,,,Sinescu J.,,,,,https://www.tennisexplorer.com/results/,results
+1,256,2025-08-25 14:58:55,--:--,Drayton T.,2,6,6,,,,,,,Drayton T.,,,,,https://www.tennisexplorer.com/results/,results
+1,257,2025-08-25 14:58:55,--:--,Pihlaja E.,0,1,3,,,,,,,Pihlaja E.,,,,,https://www.tennisexplorer.com/results/,results
+1,258,2025-08-25 14:58:55,--:--,Tumbas Kajgo K.,2,6,6,,,,,,,Tumbas Kajgo K.,,,,,https://www.tennisexplorer.com/results/,results
+1,259,2025-08-25 14:58:55,--:--,Martinovic M.,0,1,3,,,,,,,Martinovic M.,,,,,https://www.tennisexplorer.com/results/,results
+1,260,2025-08-25 14:58:55,--:--,Martishev V.,2,6,6,,,,,,,Martishev V.,,,,,https://www.tennisexplorer.com/results/,results
+1,261,2025-08-25 14:58:55,--:--,Anicic I.,0,1,3,,,,,,,Anicic I.,,,,,https://www.tennisexplorer.com/results/,results
+1,262,2025-08-25 14:58:55,--:--,Donders D.,2,6,6,,,,,,,Donders D.,,,,,https://www.tennisexplorer.com/results/,results
+1,263,2025-08-25 14:58:55,--:--,El Natour M.,0,1,3,,,,,,,El Natour M.,,,,,https://www.tennisexplorer.com/results/,results
+1,264,2025-08-25 14:58:55,--:--,Cislo M.,2,6,6,,,,,,,Cislo M.,,,,,https://www.tennisexplorer.com/results/,results
+1,265,2025-08-25 14:58:55,--:--,Aufiero A.,0,1,3,,,,,,,Aufiero A.,,,,,https://www.tennisexplorer.com/results/,results
+1,266,2025-08-25 14:58:55,--:--,Zhou X.,2,6,6,,,,,,,Zhou X.,,,,,https://www.tennisexplorer.com/results/,results
+1,267,2025-08-25 14:58:55,--:--,Lin B.,0,1,3,,,,,,,Lin B.,,,,,https://www.tennisexplorer.com/results/,results
+1,268,2025-08-25 14:58:55,--:--,Hodkin S.,2,6,6,,,,,,,Hodkin S.,,,,,https://www.tennisexplorer.com/results/,results
+1,269,2025-08-25 14:58:55,--:--,Savay Z.,0,1,4,,,,,,,Savay Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,270,2025-08-25 14:58:55,--:--,Schoemacher B.,2,6,6,,,,,,,Schoemacher B.,,,,,https://www.tennisexplorer.com/results/,results
+1,271,2025-08-25 14:58:55,--:--,Hildebrandt J.,0,1,4,,,,,,,Hildebrandt J.,,,,,https://www.tennisexplorer.com/results/,results
+1,272,2025-08-25 14:58:55,--:--,Bienkiewicz J.,2,6,6,,,,,,,Bienkiewicz J.,,,,,https://www.tennisexplorer.com/results/,results
+1,273,2025-08-25 14:58:55,--:--,Czapracki O.,0,1,4,,,,,,,Czapracki O.,,,,,https://www.tennisexplorer.com/results/,results
+1,274,2025-08-25 14:58:55,--:--,Delicata L.,2,6,6,,,,,,,Delicata L.,,,,,https://www.tennisexplorer.com/results/,results
+1,275,2025-08-25 14:58:55,--:--,Butnaru A.,0,1,4,,,,,,,Butnaru A.,,,,,https://www.tennisexplorer.com/results/,results
+1,276,2025-08-25 14:58:55,--:--,Andres R.,2,6,7,,,,,,,Andres R.,,,,,https://www.tennisexplorer.com/results/,results
+1,277,2025-08-25 14:58:55,--:--,Baxter H.,0,1,5,,,,,,,Baxter H.,,,,,https://www.tennisexplorer.com/results/,results
+1,278,2025-08-25 14:58:55,--:--,Gutjahr L.,2,6,7,,,,,,,Gutjahr L.,,,,,https://www.tennisexplorer.com/results/,results
+1,279,2025-08-25 14:58:55,--:--,Aksonov K.,0,1,5,,,,,,,Aksonov K.,,,,,https://www.tennisexplorer.com/results/,results
+1,280,2025-08-25 14:58:55,--:--,Stojanovic B.,2,6,7,,,,,,,Stojanovic B.,,,,,https://www.tennisexplorer.com/results/,results
+1,281,2025-08-25 14:58:55,--:--,Budai Z.,0,1,6,,,,,,,Budai Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,282,2025-08-25 14:58:55,--:--,Gula P.,1,6,1,,,,,,,Gula P.,,,,,https://www.tennisexplorer.com/results/,results
+1,283,2025-08-25 14:58:55,--:--,Sasko W.,0,2,0,,,,,,,Sasko W.,,,,,https://www.tennisexplorer.com/results/,results
+1,284,2025-08-25 14:58:55,--:--,Koay H.,2,6,1,10,,,,,,Koay H.,,,,,https://www.tennisexplorer.com/results/,results
+1,285,2025-08-25 14:58:55,--:--,Xie X.,1,2,6,8,,,,,,Xie X.,,,,,https://www.tennisexplorer.com/results/,results
+1,286,2025-08-25 14:58:55,--:--,Perego G.,1,6,2,,,,,,,Perego G.,,,,,https://www.tennisexplorer.com/results/,results
+1,287,2025-08-25 14:58:55,--:--,Baragiola Mordini T.,0,2,4,,,,,,,Baragiola Mordini T.,,,,,https://www.tennisexplorer.com/results/,results
+1,288,2025-08-25 14:58:55,--:--,Vanta V.,2,6,6,,,,,,,Vanta V.,,,,,https://www.tennisexplorer.com/results/,results
+1,289,2025-08-25 14:58:55,--:--,Partal M.,0,2,0,,,,,,,Partal M.,,,,,https://www.tennisexplorer.com/results/,results
+1,290,2025-08-25 14:58:55,--:--,Hebhang Balan A.,2,6,6,,,,,,,Hebhang Balan A.,,,,,https://www.tennisexplorer.com/results/,results
+1,291,2025-08-25 14:58:55,--:--,Popa M.,0,2,0,,,,,,,Popa M.,,,,,https://www.tennisexplorer.com/results/,results
+1,292,2025-08-25 14:58:55,--:--,Zanada E.,2,6,6,,,,,,,Zanada E.,,,,,https://www.tennisexplorer.com/results/,results
+1,293,2025-08-25 14:58:55,--:--,Bonivento P.,0,2,0,,,,,,,Bonivento P.,,,,,https://www.tennisexplorer.com/results/,results
+1,294,2025-08-25 14:58:55,--:--,Chen S.,2,6,6,,,,,,,Chen S.,,,,,https://www.tennisexplorer.com/results/,results
+1,295,2025-08-25 14:58:55,--:--,Vidunov A.,0,2,0,,,,,,,Vidunov A.,,,,,https://www.tennisexplorer.com/results/,results
+1,296,2025-08-25 14:58:55,--:--,Urankar V.,2,6,6,,,,,,,Urankar V.,,,,,https://www.tennisexplorer.com/results/,results
+1,297,2025-08-25 14:58:55,--:--,Zvech Flaborea Mreule M.,0,2,0,,,,,,,Zvech Flaborea Mreule M.,,,,,https://www.tennisexplorer.com/results/,results
+1,298,2025-08-25 14:58:55,--:--,Bakker S.,2,6,6,,,,,,,Bakker S.,,,,,https://www.tennisexplorer.com/results/,results
+1,299,2025-08-25 14:58:55,--:--,Hoogeveen E.,0,2,0,,,,,,,Hoogeveen E.,,,,,https://www.tennisexplorer.com/results/,results
+1,300,2025-08-25 14:58:55,--:--,De Jager J.,2,6,6,,,,,,,De Jager J.,,,,,https://www.tennisexplorer.com/results/,results
+1,301,2025-08-25 14:58:55,--:--,Versloot Y.,0,2,0,,,,,,,Versloot Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,302,2025-08-25 14:58:55,--:--,Tan J.,2,6,6,,,,,,,Tan J.,,,,,https://www.tennisexplorer.com/results/,results
+1,303,2025-08-25 14:58:55,--:--,Hung J.,0,2,0,,,,,,,Hung J.,,,,,https://www.tennisexplorer.com/results/,results
+1,304,2025-08-25 14:58:55,--:--,Krolo F.,2,6,6,,,,,,,Krolo F.,,,,,https://www.tennisexplorer.com/results/,results
+1,305,2025-08-25 14:58:55,--:--,Poechl P.,0,2,0,,,,,,,Poechl P.,,,,,https://www.tennisexplorer.com/results/,results
+1,306,2025-08-25 14:58:55,--:--,Gundacker J.,2,6,6,,,,,,,Gundacker J.,,,,,https://www.tennisexplorer.com/results/,results
+1,307,2025-08-25 14:58:55,--:--,Dzyuba D.,0,2,0,,,,,,,Dzyuba D.,,,,,https://www.tennisexplorer.com/results/,results
+1,308,2025-08-25 14:58:55,--:--,Goldsteiner P.,2,6,6,,,,,,,Goldsteiner P.,,,,,https://www.tennisexplorer.com/results/,results
+1,309,2025-08-25 14:58:55,--:--,Petrikic L.,0,2,0,,,,,,,Petrikic L.,,,,,https://www.tennisexplorer.com/results/,results
+1,310,2025-08-25 14:58:55,--:--,Biletic I.,2,6,6,,,,,,,Biletic I.,,,,,https://www.tennisexplorer.com/results/,results
+1,311,2025-08-25 14:58:55,--:--,Trausmuth E.,0,2,0,,,,,,,Trausmuth E.,,,,,https://www.tennisexplorer.com/results/,results
+1,312,2025-08-25 14:58:55,--:--,Scramin do Lago J.,2,6,6,,,,,,,Scramin do Lago J.,,,,,https://www.tennisexplorer.com/results/,results
+1,313,2025-08-25 14:58:55,--:--,Galera T.,0,2,0,,,,,,,Galera T.,,,,,https://www.tennisexplorer.com/results/,results
+1,314,2025-08-25 14:58:55,--:--,Kim J.,2,6,6,,,,,,,Kim J.,,,,,https://www.tennisexplorer.com/results/,results
+1,315,2025-08-25 14:58:55,--:--,Lee B.,0,2,0,,,,,,,Lee B.,,,,,https://www.tennisexplorer.com/results/,results
+1,316,2025-08-25 14:58:55,--:--,Furlanetto M.,2,6,6,,,,,,,Furlanetto M.,,,,,https://www.tennisexplorer.com/results/,results
+1,317,2025-08-25 14:58:55,--:--,Magureanu C.,0,2,1,,,,,,,Magureanu C.,,,,,https://www.tennisexplorer.com/results/,results
+1,318,2025-08-25 14:58:55,--:--,Apostol C.,2,6,6,,,,,,,Apostol C.,,,,,https://www.tennisexplorer.com/results/,results
+1,319,2025-08-25 14:58:55,--:--,Coreisa E.,0,2,1,,,,,,,Coreisa E.,,,,,https://www.tennisexplorer.com/results/,results
+1,320,2025-08-25 14:58:55,--:--,McGary J.,2,6,6,,,,,,,McGary J.,,,,,https://www.tennisexplorer.com/results/,results
+1,321,2025-08-25 14:58:55,--:--,Koczan L.,0,2,1,,,,,,,Koczan L.,,,,,https://www.tennisexplorer.com/results/,results
+1,322,2025-08-25 14:58:55,--:--,Hu J.,2,6,6,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,323,2025-08-25 14:58:55,--:--,Wang H.,0,2,1,,,,,,,Wang H.,,,,,https://www.tennisexplorer.com/results/,results
+1,324,2025-08-25 14:58:55,--:--,Lim A.,2,6,6,,,,,,,Lim A.,,,,,https://www.tennisexplorer.com/results/,results
+1,325,2025-08-25 14:58:55,--:--,Yang R.,0,2,1,,,,,,,Yang R.,,,,,https://www.tennisexplorer.com/results/,results
+1,326,2025-08-25 14:58:55,--:--,Gomez Osorio A.,2,6,6,,,,,,,Gomez Osorio A.,,,,,https://www.tennisexplorer.com/results/,results
+1,327,2025-08-25 14:58:55,--:--,Van Ruiten B.,0,2,1,,,,,,,Van Ruiten B.,,,,,https://www.tennisexplorer.com/results/,results
+1,328,2025-08-25 14:58:55,--:--,Basile A.,2,6,6,,,,,,,Basile A.,,,,,https://www.tennisexplorer.com/results/,results
+1,329,2025-08-25 14:58:55,--:--,Kirsten N.,0,2,1,,,,,,,Kirsten N.,,,,,https://www.tennisexplorer.com/results/,results
+1,330,2025-08-25 14:58:55,--:--,Sroka M.,2,6,6,,,,,,,Sroka M.,,,,,https://www.tennisexplorer.com/results/,results
+1,331,2025-08-25 14:58:55,--:--,Makarenko V.,0,2,1,,,,,,,Makarenko V.,,,,,https://www.tennisexplorer.com/results/,results
+1,332,2025-08-25 14:58:55,--:--,Scharner B.,2,6,6,,,,,,,Scharner B.,,,,,https://www.tennisexplorer.com/results/,results
+1,333,2025-08-25 14:58:55,--:--,Faber M.,0,2,1,,,,,,,Faber M.,,,,,https://www.tennisexplorer.com/results/,results
+1,334,2025-08-25 14:58:55,--:--,Hornung G.,2,6,6,,,,,,,Hornung G.,,,,,https://www.tennisexplorer.com/results/,results
+1,335,2025-08-25 14:58:55,--:--,Stojanovic B.,0,2,1,,,,,,,Stojanovic B.,,,,,https://www.tennisexplorer.com/results/,results
+1,336,2025-08-25 14:58:55,--:--,Ou J.,2,6,6,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,337,2025-08-25 14:58:55,--:--,Pawar S.,0,2,1,,,,,,,Pawar S.,,,,,https://www.tennisexplorer.com/results/,results
+1,338,2025-08-25 14:58:55,--:--,Minakata R.,2,6,6,,,,,,,Minakata R.,,,,,https://www.tennisexplorer.com/results/,results
+1,339,2025-08-25 14:58:55,--:--,Han Y.,0,2,2,,,,,,,Han Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,340,2025-08-25 14:58:55,--:--,Kajic G.,2,6,6,,,,,,,Kajic G.,,,,,https://www.tennisexplorer.com/results/,results
+1,341,2025-08-25 14:58:55,--:--,Garifullin A.,0,2,2,,,,,,,Garifullin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,342,2025-08-25 14:58:55,--:--,Kadangah Kili J.,2,6,6,,,,,,,Kadangah Kili J.,,,,,https://www.tennisexplorer.com/results/,results
+1,343,2025-08-25 14:58:55,--:--,Sharma M.,0,2,2,,,,,,,Sharma M.,,,,,https://www.tennisexplorer.com/results/,results
+1,344,2025-08-25 14:58:55,--:--,Aunion P.,2,6,6,,,,,,,Aunion P.,,,,,https://www.tennisexplorer.com/results/,results
+1,345,2025-08-25 14:58:55,--:--,Inga Huauya M.,0,2,2,,,,,,,Inga Huauya M.,,,,,https://www.tennisexplorer.com/results/,results
+1,346,2025-08-25 14:58:55,--:--,Collins K.,2,6,6,,,,,,,Collins K.,,,,,https://www.tennisexplorer.com/results/,results
+1,347,2025-08-25 14:58:55,--:--,Laporta Osante D.,0,2,2,,,,,,,Laporta Osante D.,,,,,https://www.tennisexplorer.com/results/,results
+1,348,2025-08-25 14:58:55,--:--,Suresh D.,2,6,6,,,,,,,Suresh D.,,,,,https://www.tennisexplorer.com/results/,results
+1,349,2025-08-25 14:58:55,--:--,Leung E.,0,2,2,,,,,,,Leung E.,,,,,https://www.tennisexplorer.com/results/,results
+1,350,2025-08-25 14:58:55,--:--,Serazhetdinov R.,2,6,6,,,,,,,Serazhetdinov R.,,,,,https://www.tennisexplorer.com/results/,results
+1,351,2025-08-25 14:58:55,--:--,Siao L.,0,2,2,,,,,,,Siao L.,,,,,https://www.tennisexplorer.com/results/,results
+1,352,2025-08-25 14:58:55,--:--,Petrovic D.,2,6,6,,,,,,,Petrovic D.,,,,,https://www.tennisexplorer.com/results/,results
+1,353,2025-08-25 14:58:55,--:--,Kajic G.,0,2,2,,,,,,,Kajic G.,,,,,https://www.tennisexplorer.com/results/,results
+1,354,2025-08-25 14:58:55,--:--,Marchenko A.,2,6,6,,,,,,,Marchenko A.,,,,,https://www.tennisexplorer.com/results/,results
+1,355,2025-08-25 14:58:55,--:--,Mortasifu M.,0,2,3,,,,,,,Mortasifu M.,,,,,https://www.tennisexplorer.com/results/,results
+1,356,2025-08-25 14:58:55,--:--,Savin R.,2,6,6,,,,,,,Savin R.,,,,,https://www.tennisexplorer.com/results/,results
+1,357,2025-08-25 14:58:55,--:--,Negulescu M.,0,2,3,,,,,,,Negulescu M.,,,,,https://www.tennisexplorer.com/results/,results
+1,358,2025-08-25 14:58:55,--:--,Silvestri G.,2,6,6,,,,,,,Silvestri G.,,,,,https://www.tennisexplorer.com/results/,results
+1,359,2025-08-25 14:58:55,--:--,Fris Z.,0,2,3,,,,,,,Fris Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,360,2025-08-25 14:58:55,--:--,Leston T.,2,6,6,,,,,,,Leston T.,,,,,https://www.tennisexplorer.com/results/,results
+1,361,2025-08-25 14:58:55,--:--,Sherif Abdellatif Abdo K.,0,2,3,,,,,,,Sherif Abdellatif Abdo K.,,,,,https://www.tennisexplorer.com/results/,results
+1,362,2025-08-25 14:58:55,--:--,Merre N.,2,6,6,,,,,,,Merre N.,,,,,https://www.tennisexplorer.com/results/,results
+1,363,2025-08-25 14:58:55,--:--,Van Leeuwen P.,0,2,3,,,,,,,Van Leeuwen P.,,,,,https://www.tennisexplorer.com/results/,results
+1,364,2025-08-25 14:58:55,--:--,Penzlin J.,2,6,6,,,,,,,Penzlin J.,,,,,https://www.tennisexplorer.com/results/,results
+1,365,2025-08-25 14:58:55,--:--,Baumgartner M.,0,2,3,,,,,,,Baumgartner M.,,,,,https://www.tennisexplorer.com/results/,results
+1,366,2025-08-25 14:58:55,--:--,Goczi E.,2,6,6,,,,,,,Goczi E.,,,,,https://www.tennisexplorer.com/results/,results
+1,367,2025-08-25 14:58:55,--:--,Sharma T.,0,2,4,,,,,,,Sharma T.,,,,,https://www.tennisexplorer.com/results/,results
+1,368,2025-08-25 14:58:55,--:--,Parenti L.,2,6,6,,,,,,,Parenti L.,,,,,https://www.tennisexplorer.com/results/,results
+1,369,2025-08-25 14:58:55,--:--,Filippi T.,0,2,4,,,,,,,Filippi T.,,,,,https://www.tennisexplorer.com/results/,results
+1,370,2025-08-25 14:58:55,--:--,Kolbe M.,2,6,6,,,,,,,Kolbe M.,,,,,https://www.tennisexplorer.com/results/,results
+1,371,2025-08-25 14:58:55,--:--,Lester F.,0,2,4,,,,,,,Lester F.,,,,,https://www.tennisexplorer.com/results/,results
+1,372,2025-08-25 14:58:55,--:--,De Cuyper J.,2,6,6,,,,,,,De Cuyper J.,,,,,https://www.tennisexplorer.com/results/,results
+1,373,2025-08-25 14:58:55,--:--,Naydenov Y.,0,2,4,,,,,,,Naydenov Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,374,2025-08-25 14:58:55,--:--,Ambarzumjan E.,2,6,6,,,,,,,Ambarzumjan E.,,,,,https://www.tennisexplorer.com/results/,results
+1,375,2025-08-25 14:58:55,--:--,Liszka M.,0,2,4,,,,,,,Liszka M.,,,,,https://www.tennisexplorer.com/results/,results
+1,376,2025-08-25 14:58:55,--:--,Dziubailau D.,2,6,6,,,,,,,Dziubailau D.,,,,,https://www.tennisexplorer.com/results/,results
+1,377,2025-08-25 14:58:55,--:--,Mock L.,0,2,4,,,,,,,Mock L.,,,,,https://www.tennisexplorer.com/results/,results
+1,378,2025-08-25 14:58:55,--:--,Wang Q.,2,6,6,,,,,,,Wang Q.,,,,,https://www.tennisexplorer.com/results/,results
+1,379,2025-08-25 14:58:55,--:--,Hu J.,0,2,4,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,380,2025-08-25 14:58:55,--:--,Zick S.,2,6,6,,,,,,,Zick S.,,,,,https://www.tennisexplorer.com/results/,results
+1,381,2025-08-25 14:58:55,--:--,Ostheimer B.,0,2,4,,,,,,,Ostheimer B.,,,,,https://www.tennisexplorer.com/results/,results
+1,382,2025-08-25 14:58:55,--:--,Ibarrondo Suarez I.,2,6,7,,,,,,,Ibarrondo Suarez I.,,,,,https://www.tennisexplorer.com/results/,results
+1,383,2025-08-25 14:58:55,--:--,Tobias B.,0,2,6,,,,,,,Tobias B.,,,,,https://www.tennisexplorer.com/results/,results
+1,384,2025-08-25 14:58:55,--:--,Huang Y.,2,6,0,10,,,,,,Huang Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,385,2025-08-25 14:58:55,--:--,Hsu C.,1,3,6,8,,,,,,Hsu C.,,,,,https://www.tennisexplorer.com/results/,results
+1,386,2025-08-25 14:58:55,--:--,Serazhetdinov R.,2,6,1,15,,,,,,Serazhetdinov R.,,,,,https://www.tennisexplorer.com/results/,results
+1,387,2025-08-25 14:58:55,--:--,Han S.,1,3,6,13,,,,,,Han S.,,,,,https://www.tennisexplorer.com/results/,results
+1,388,2025-08-25 14:58:55,--:--,Wortelmann P.,2,6,2,10,,,,,,Wortelmann P.,,,,,https://www.tennisexplorer.com/results/,results
+1,389,2025-08-25 14:58:55,--:--,Tjong J.,1,3,6,7,,,,,,Tjong J.,,,,,https://www.tennisexplorer.com/results/,results
+1,390,2025-08-25 14:58:55,--:--,Collignon K.,2,6,4,10,,,,,,Collignon K.,,,,,https://www.tennisexplorer.com/results/,results
+1,391,2025-08-25 14:58:55,--:--,Skripaev A.,1,3,6,4,,,,,,Skripaev A.,,,,,https://www.tennisexplorer.com/results/,results
+1,392,2025-08-25 14:58:55,--:--,Kluczynski J.,2,6,6,,,,,,,Kluczynski J.,,,,,https://www.tennisexplorer.com/results/,results
+1,393,2025-08-25 14:58:55,--:--,Kuczynski D.,0,3,0,,,,,,,Kuczynski D.,,,,,https://www.tennisexplorer.com/results/,results
+1,394,2025-08-25 14:58:55,--:--,Poritskyy A.,2,6,6,,,,,,,Poritskyy A.,,,,,https://www.tennisexplorer.com/results/,results
+1,395,2025-08-25 14:58:55,--:--,Malik P.,0,3,0,,,,,,,Malik P.,,,,,https://www.tennisexplorer.com/results/,results
+1,396,2025-08-25 14:58:55,--:--,Vaitiekunas P.,2,6,6,,,,,,,Vaitiekunas P.,,,,,https://www.tennisexplorer.com/results/,results
+1,397,2025-08-25 14:58:55,--:--,Badini S.,0,3,1,,,,,,,Badini S.,,,,,https://www.tennisexplorer.com/results/,results
+1,398,2025-08-25 14:58:55,--:--,Vishenchuk Vishenko D.,2,6,6,,,,,,,Vishenchuk Vishenko D.,,,,,https://www.tennisexplorer.com/results/,results
+1,399,2025-08-25 14:58:55,--:--,Liang L.,0,3,1,,,,,,,Liang L.,,,,,https://www.tennisexplorer.com/results/,results
+1,400,2025-08-25 14:58:55,--:--,Wagenaar L.,2,6,6,,,,,,,Wagenaar L.,,,,,https://www.tennisexplorer.com/results/,results
+1,401,2025-08-25 14:58:55,--:--,Wehner M.,0,3,1,,,,,,,Wehner M.,,,,,https://www.tennisexplorer.com/results/,results
+1,402,2025-08-25 14:58:55,--:--,Matuszewski M.,2,6,6,,,,,,,Matuszewski M.,,,,,https://www.tennisexplorer.com/results/,results
+1,403,2025-08-25 14:58:55,--:--,Bojko F.,0,3,1,,,,,,,Bojko F.,,,,,https://www.tennisexplorer.com/results/,results
+1,404,2025-08-25 14:58:55,--:--,Lin W.,2,6,6,,,,,,,Lin W.,,,,,https://www.tennisexplorer.com/results/,results
+1,405,2025-08-25 14:58:55,--:--,Voisin A.,0,3,1,,,,,,,Voisin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,406,2025-08-25 14:58:55,--:--,Bien D.,2,6,6,,,,,,,Bien D.,,,,,https://www.tennisexplorer.com/results/,results
+1,407,2025-08-25 14:58:55,--:--,Mukhtarulin A.,0,3,1,,,,,,,Mukhtarulin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,408,2025-08-25 14:58:55,--:--,Bruna N.,2,6,6,,,,,,,Bruna N.,,,,,https://www.tennisexplorer.com/results/,results
+1,409,2025-08-25 14:58:55,--:--,Atucha T.,0,3,1,,,,,,,Atucha T.,,,,,https://www.tennisexplorer.com/results/,results
+1,410,2025-08-25 14:58:55,--:--,Jimenez M.,2,6,6,,,,,,,Jimenez M.,,,,,https://www.tennisexplorer.com/results/,results
+1,411,2025-08-25 14:58:55,--:--,Wang S.,0,3,1,,,,,,,Wang S.,,,,,https://www.tennisexplorer.com/results/,results
+1,412,2025-08-25 14:58:55,--:--,Nishiwaki K.,2,6,6,,,,,,,Nishiwaki K.,,,,,https://www.tennisexplorer.com/results/,results
+1,413,2025-08-25 14:58:55,--:--,Bursau Y.,0,3,1,,,,,,,Bursau Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,414,2025-08-25 14:58:55,--:--,Minakata R.,2,6,6,,,,,,,Minakata R.,,,,,https://www.tennisexplorer.com/results/,results
+1,415,2025-08-25 14:58:55,--:--,Zou M.,0,3,1,,,,,,,Zou M.,,,,,https://www.tennisexplorer.com/results/,results
+1,416,2025-08-25 14:58:55,--:--,Zou M.,2,6,6,,,,,,,Zou M.,,,,,https://www.tennisexplorer.com/results/,results
+1,417,2025-08-25 14:58:55,--:--,Bao B.,0,3,2,,,,,,,Bao B.,,,,,https://www.tennisexplorer.com/results/,results
+1,418,2025-08-25 14:58:55,--:--,Hao-Yu L.,2,6,6,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,419,2025-08-25 14:58:55,--:--,Mercier T.,0,3,2,,,,,,,Mercier T.,,,,,https://www.tennisexplorer.com/results/,results
+1,420,2025-08-25 14:58:55,--:--,Lai C.,2,6,6,,,,,,,Lai C.,,,,,https://www.tennisexplorer.com/results/,results
+1,421,2025-08-25 14:58:55,--:--,Douglas C.,0,3,2,,,,,,,Douglas C.,,,,,https://www.tennisexplorer.com/results/,results
+1,422,2025-08-25 14:58:55,--:--,Castro L.,2,6,6,,,,,,,Castro L.,,,,,https://www.tennisexplorer.com/results/,results
+1,423,2025-08-25 14:58:55,--:--,De Dios F.,0,3,2,,,,,,,De Dios F.,,,,,https://www.tennisexplorer.com/results/,results
+1,424,2025-08-25 14:58:55,--:--,Chelia B.,2,6,6,,,,,,,Chelia B.,,,,,https://www.tennisexplorer.com/results/,results
+1,425,2025-08-25 14:58:55,--:--,Mouilleron Salvo M.,0,3,2,,,,,,,Mouilleron Salvo M.,,,,,https://www.tennisexplorer.com/results/,results
+1,426,2025-08-25 14:58:55,--:--,Ushakov A.,2,6,6,,,,,,,Ushakov A.,,,,,https://www.tennisexplorer.com/results/,results
+1,427,2025-08-25 14:58:55,--:--,Kato R.,0,3,2,,,,,,,Kato R.,,,,,https://www.tennisexplorer.com/results/,results
+1,428,2025-08-25 14:58:55,--:--,Yang Y.,2,6,6,,,,,,,Yang Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,429,2025-08-25 14:58:55,--:--,Dai S.,0,3,2,,,,,,,Dai S.,,,,,https://www.tennisexplorer.com/results/,results
+1,430,2025-08-25 14:58:55,--:--,Villoslada E.,2,6,6,,,,,,,Villoslada E.,,,,,https://www.tennisexplorer.com/results/,results
+1,431,2025-08-25 14:58:55,--:--,Jinga A.,0,3,3,,,,,,,Jinga A.,,,,,https://www.tennisexplorer.com/results/,results
+1,432,2025-08-25 14:58:55,--:--,Betuker R.,2,6,6,,,,,,,Betuker R.,,,,,https://www.tennisexplorer.com/results/,results
+1,433,2025-08-25 14:58:55,--:--,Mihaly M.,0,3,3,,,,,,,Mihaly M.,,,,,https://www.tennisexplorer.com/results/,results
+1,434,2025-08-25 14:58:55,--:--,Holder C.,2,6,6,,,,,,,Holder C.,,,,,https://www.tennisexplorer.com/results/,results
+1,435,2025-08-25 14:58:55,--:--,Balazs P.,0,3,3,,,,,,,Balazs P.,,,,,https://www.tennisexplorer.com/results/,results
+1,436,2025-08-25 14:58:55,--:--,Froemel K.,2,6,6,,,,,,,Froemel K.,,,,,https://www.tennisexplorer.com/results/,results
+1,437,2025-08-25 14:58:55,--:--,Strauch V.,0,3,3,,,,,,,Strauch V.,,,,,https://www.tennisexplorer.com/results/,results
+1,438,2025-08-25 14:58:55,--:--,Szerencsits B.,2,6,6,,,,,,,Szerencsits B.,,,,,https://www.tennisexplorer.com/results/,results
+1,439,2025-08-25 14:58:55,--:--,Fischer F.,0,3,3,,,,,,,Fischer F.,,,,,https://www.tennisexplorer.com/results/,results
+1,440,2025-08-25 14:58:55,--:--,Uta D.,2,6,6,,,,,,,Uta D.,,,,,https://www.tennisexplorer.com/results/,results
+1,441,2025-08-25 14:58:55,--:--,Morega D.,0,3,3,,,,,,,Morega D.,,,,,https://www.tennisexplorer.com/results/,results
+1,442,2025-08-25 14:58:55,--:--,Meng F.,2,6,6,,,,,,,Meng F.,,,,,https://www.tennisexplorer.com/results/,results
+1,443,2025-08-25 14:58:55,--:--,Cheng S.,0,3,3,,,,,,,Cheng S.,,,,,https://www.tennisexplorer.com/results/,results
+1,444,2025-08-25 14:58:55,--:--,Bogatov D.,2,6,6,,,,,,,Bogatov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,445,2025-08-25 14:58:55,--:--,Majoli Maggioli T.,0,3,3,,,,,,,Majoli Maggioli T.,,,,,https://www.tennisexplorer.com/results/,results
+1,446,2025-08-25 14:58:55,--:--,Dong J.,2,6,6,,,,,,,Dong J.,,,,,https://www.tennisexplorer.com/results/,results
+1,447,2025-08-25 14:58:55,--:--,Shi K.,0,3,3,,,,,,,Shi K.,,,,,https://www.tennisexplorer.com/results/,results
+1,448,2025-08-25 14:58:55,--:--,Park M.,2,6,6,,,,,,,Park M.,,,,,https://www.tennisexplorer.com/results/,results
+1,449,2025-08-25 14:58:55,--:--,Ren H.,0,3,3,,,,,,,Ren H.,,,,,https://www.tennisexplorer.com/results/,results
+1,450,2025-08-25 14:58:55,--:--,Choe J.,2,6,6,,,,,,,Choe J.,,,,,https://www.tennisexplorer.com/results/,results
+1,451,2025-08-25 14:58:55,--:--,Asylkozhaev A.,0,3,3,,,,,,,Asylkozhaev A.,,,,,https://www.tennisexplorer.com/results/,results
+1,452,2025-08-25 14:58:55,--:--,Szoke A.,2,6,6,,,,,,,Szoke A.,,,,,https://www.tennisexplorer.com/results/,results
+1,453,2025-08-25 14:58:55,--:--,Videnovic L.,0,3,3,,,,,,,Videnovic L.,,,,,https://www.tennisexplorer.com/results/,results
+1,454,2025-08-25 14:58:55,--:--,Dancu V.,2,6,6,,,,,,,Dancu V.,,,,,https://www.tennisexplorer.com/results/,results
+1,455,2025-08-25 14:58:55,--:--,Zuniga Garcia B.,0,3,4,,,,,,,Zuniga Garcia B.,,,,,https://www.tennisexplorer.com/results/,results
+1,456,2025-08-25 14:58:55,--:--,Spiridon D.,2,6,6,,,,,,,Spiridon D.,,,,,https://www.tennisexplorer.com/results/,results
+1,457,2025-08-25 14:58:55,--:--,Sabaliauskas A.,0,3,4,,,,,,,Sabaliauskas A.,,,,,https://www.tennisexplorer.com/results/,results
+1,458,2025-08-25 14:58:55,--:--,Van Sambeek F.,2,6,6,,,,,,,Van Sambeek F.,,,,,https://www.tennisexplorer.com/results/,results
+1,459,2025-08-25 14:58:55,--:--,De Ruiter C.,0,3,4,,,,,,,De Ruiter C.,,,,,https://www.tennisexplorer.com/results/,results
+1,460,2025-08-25 14:58:55,--:--,Fernandez B.,2,6,6,,,,,,,Fernandez B.,,,,,https://www.tennisexplorer.com/results/,results
+1,461,2025-08-25 14:58:55,--:--,Crosio F.,0,3,4,,,,,,,Crosio F.,,,,,https://www.tennisexplorer.com/results/,results
+1,462,2025-08-25 14:58:55,--:--,Escurra Isnardi H.,2,6,6,,,,,,,Escurra Isnardi H.,,,,,https://www.tennisexplorer.com/results/,results
+1,463,2025-08-25 14:58:55,--:--,Conte V.,0,3,4,,,,,,,Conte V.,,,,,https://www.tennisexplorer.com/results/,results
+1,464,2025-08-25 14:58:55,--:--,Steudter B.,2,6,7,,,,,,,Steudter B.,,,,,https://www.tennisexplorer.com/results/,results
+1,465,2025-08-25 14:58:55,--:--,Portier D.,0,3,6,,,,,,,Portier D.,,,,,https://www.tennisexplorer.com/results/,results
+1,466,2025-08-25 14:58:55,--:--,Sterniczuk O.,2,6,7,,,,,,,Sterniczuk O.,,,,,https://www.tennisexplorer.com/results/,results
+1,467,2025-08-25 14:58:55,--:--,Vrtilka J.,0,3,6,,,,,,,Vrtilka J.,,,,,https://www.tennisexplorer.com/results/,results
+1,468,2025-08-25 14:58:55,--:--,Chen Z.,2,6,1,10,,,,,,Chen Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,469,2025-08-25 14:58:55,--:--,Yu C.,1,4,6,7,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,470,2025-08-25 14:58:55,--:--,Makarski D.,2,6,2,10,,,,,,Makarski D.,,,,,https://www.tennisexplorer.com/results/,results
+1,471,2025-08-25 14:58:55,--:--,Jordan H.,1,4,6,7,,,,,,Jordan H.,,,,,https://www.tennisexplorer.com/results/,results
+1,472,2025-08-25 14:58:55,--:--,Lootsma N.,2,6,5,10,,,,,,Lootsma N.,,,,,https://www.tennisexplorer.com/results/,results
+1,473,2025-08-25 14:58:55,--:--,Brindöpke F.,1,4,7,7,,,,,,Brindöpke F.,,,,,https://www.tennisexplorer.com/results/,results
+1,474,2025-08-25 14:58:55,--:--,Bosio G.,2,6,6,,,,,,,Bosio G.,,,,,https://www.tennisexplorer.com/results/,results
+1,475,2025-08-25 14:58:55,--:--,Coccioli A.,0,4,0,,,,,,,Coccioli A.,,,,,https://www.tennisexplorer.com/results/,results
+1,476,2025-08-25 14:58:55,--:--,Stephens Z.,2,6,6,,,,,,,Stephens Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,477,2025-08-25 14:58:55,--:--,Doherty D.,0,4,0,,,,,,,Doherty D.,,,,,https://www.tennisexplorer.com/results/,results
+1,478,2025-08-25 14:58:55,--:--,Hung K.,2,6,6,,,,,,,Hung K.,,,,,https://www.tennisexplorer.com/results/,results
+1,479,2025-08-25 14:58:55,--:--,Chen Y.,0,4,0,,,,,,,Chen Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,480,2025-08-25 14:58:55,--:--,Dolzhenkov D.,2,6,6,,,,,,,Dolzhenkov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,481,2025-08-25 14:58:55,--:--,Wong S.,0,4,0,,,,,,,Wong S.,,,,,https://www.tennisexplorer.com/results/,results
+1,482,2025-08-25 14:58:55,--:--,Suzuki K.,2,6,6,,,,,,,Suzuki K.,,,,,https://www.tennisexplorer.com/results/,results
+1,483,2025-08-25 14:58:55,--:--,Cheung E.,0,4,0,,,,,,,Cheung E.,,,,,https://www.tennisexplorer.com/results/,results
+1,484,2025-08-25 14:58:55,--:--,Hughes D.,2,6,6,,,,,,,Hughes D.,,,,,https://www.tennisexplorer.com/results/,results
+1,485,2025-08-25 14:58:55,--:--,Paragi Z.,0,4,1,,,,,,,Paragi Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,486,2025-08-25 14:58:55,--:--,Colombo A.,2,6,6,,,,,,,Colombo A.,,,,,https://www.tennisexplorer.com/results/,results
+1,487,2025-08-25 14:58:55,--:--,Caporali M.,0,4,1,,,,,,,Caporali M.,,,,,https://www.tennisexplorer.com/results/,results
+1,488,2025-08-25 14:58:55,--:--,Bagnolini D.,2,6,6,,,,,,,Bagnolini D.,,,,,https://www.tennisexplorer.com/results/,results
+1,489,2025-08-25 14:58:55,--:--,Osti F.,0,4,1,,,,,,,Osti F.,,,,,https://www.tennisexplorer.com/results/,results
+1,490,2025-08-25 14:58:55,--:--,Grippo V.,2,6,6,,,,,,,Grippo V.,,,,,https://www.tennisexplorer.com/results/,results
+1,491,2025-08-25 14:58:55,--:--,Bancalari A.,0,4,1,,,,,,,Bancalari A.,,,,,https://www.tennisexplorer.com/results/,results
+1,492,2025-08-25 14:58:55,--:--,Valle F.,2,6,6,,,,,,,Valle F.,,,,,https://www.tennisexplorer.com/results/,results
+1,493,2025-08-25 14:58:55,--:--,Calin A.,0,4,2,,,,,,,Calin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,494,2025-08-25 14:58:55,--:--,Giotis R.,2,6,6,,,,,,,Giotis R.,,,,,https://www.tennisexplorer.com/results/,results
+1,495,2025-08-25 14:58:55,--:--,Corretja I.,0,4,2,,,,,,,Corretja I.,,,,,https://www.tennisexplorer.com/results/,results
+1,496,2025-08-25 14:58:55,--:--,Primucci L.,2,6,6,,,,,,,Primucci L.,,,,,https://www.tennisexplorer.com/results/,results
+1,497,2025-08-25 14:58:55,--:--,Sardo G.,0,4,2,,,,,,,Sardo G.,,,,,https://www.tennisexplorer.com/results/,results
+1,498,2025-08-25 14:58:55,--:--,Antonelli J.,2,6,6,,,,,,,Antonelli J.,,,,,https://www.tennisexplorer.com/results/,results
+1,499,2025-08-25 14:58:55,--:--,Morolli A.,0,4,2,,,,,,,Morolli A.,,,,,https://www.tennisexplorer.com/results/,results
+1,500,2025-08-25 14:58:55,--:--,Soukal M.,2,6,6,,,,,,,Soukal M.,,,,,https://www.tennisexplorer.com/results/,results
+1,501,2025-08-25 14:58:55,--:--,Jelinek M.,0,4,2,,,,,,,Jelinek M.,,,,,https://www.tennisexplorer.com/results/,results
+1,502,2025-08-25 14:58:55,--:--,Del Pino M.,2,6,6,,,,,,,Del Pino M.,,,,,https://www.tennisexplorer.com/results/,results
+1,503,2025-08-25 14:58:55,--:--,Vazquez F.,0,4,2,,,,,,,Vazquez F.,,,,,https://www.tennisexplorer.com/results/,results
+1,504,2025-08-25 14:58:55,--:--,Zamora J.,2,6,6,,,,,,,Zamora J.,,,,,https://www.tennisexplorer.com/results/,results
+1,505,2025-08-25 14:58:55,--:--,Libre A.,0,4,2,,,,,,,Libre A.,,,,,https://www.tennisexplorer.com/results/,results
+1,506,2025-08-25 14:58:55,--:--,Boros B.,2,6,6,,,,,,,Boros B.,,,,,https://www.tennisexplorer.com/results/,results
+1,507,2025-08-25 14:58:55,--:--,Boschmans T.,0,4,3,,,,,,,Boschmans T.,,,,,https://www.tennisexplorer.com/results/,results
+1,508,2025-08-25 14:58:55,--:--,Mares V.,2,6,6,,,,,,,Mares V.,,,,,https://www.tennisexplorer.com/results/,results
+1,509,2025-08-25 14:58:55,--:--,Lockl J.,0,4,3,,,,,,,Lockl J.,,,,,https://www.tennisexplorer.com/results/,results
+1,510,2025-08-25 14:58:55,--:--,Vishenchuk Vishenko D.,2,6,6,,,,,,,Vishenchuk Vishenko D.,,,,,https://www.tennisexplorer.com/results/,results
+1,511,2025-08-25 14:58:55,--:--,Ziheng H.,0,4,3,,,,,,,Ziheng H.,,,,,https://www.tennisexplorer.com/results/,results
+1,512,2025-08-25 14:58:55,--:--,Georgescu M.,2,6,6,,,,,,,Georgescu M.,,,,,https://www.tennisexplorer.com/results/,results
+1,513,2025-08-25 14:58:55,--:--,Gadoiu A.,0,4,4,,,,,,,Gadoiu A.,,,,,https://www.tennisexplorer.com/results/,results
+1,514,2025-08-25 14:58:55,--:--,Taddia L.,2,6,6,,,,,,,Taddia L.,,,,,https://www.tennisexplorer.com/results/,results
+1,515,2025-08-25 14:58:55,--:--,Massucco S.,0,4,4,,,,,,,Massucco S.,,,,,https://www.tennisexplorer.com/results/,results
+1,516,2025-08-25 14:58:55,--:--,Xie X.,2,6,6,,,,,,,Xie X.,,,,,https://www.tennisexplorer.com/results/,results
+1,517,2025-08-25 14:58:55,--:--,Gao Z.,0,4,4,,,,,,,Gao Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,518,2025-08-25 14:58:55,--:--,Sharma A.,2,6,6,,,,,,,Sharma A.,,,,,https://www.tennisexplorer.com/results/,results
+1,519,2025-08-25 14:58:55,--:--,Pokinsagethasiri S.,0,4,4,,,,,,,Pokinsagethasiri S.,,,,,https://www.tennisexplorer.com/results/,results
+1,520,2025-08-25 14:58:55,--:--,Paardekooper S.,2,6,6,,,,,,,Paardekooper S.,,,,,https://www.tennisexplorer.com/results/,results
+1,521,2025-08-25 14:58:55,--:--,Bredschneijder O.,0,4,4,,,,,,,Bredschneijder O.,,,,,https://www.tennisexplorer.com/results/,results
+1,522,2025-08-25 14:58:55,--:--,Roeder P.,2,6,6,,,,,,,Roeder P.,,,,,https://www.tennisexplorer.com/results/,results
+1,523,2025-08-25 14:58:55,--:--,Ebeling R.,0,4,4,,,,,,,Ebeling R.,,,,,https://www.tennisexplorer.com/results/,results
+1,524,2025-08-25 14:58:55,--:--,Grandinetti T.,2,6,6,,,,,,,Grandinetti T.,,,,,https://www.tennisexplorer.com/results/,results
+1,525,2025-08-25 14:58:55,--:--,Lucero J.,0,4,4,,,,,,,Lucero J.,,,,,https://www.tennisexplorer.com/results/,results
+1,526,2025-08-25 14:58:55,--:--,Idrees B.,2,6,6,,,,,,,Idrees B.,,,,,https://www.tennisexplorer.com/results/,results
+1,527,2025-08-25 14:58:55,--:--,Jiang G.,0,4,4,,,,,,,Jiang G.,,,,,https://www.tennisexplorer.com/results/,results
+1,528,2025-08-25 14:58:55,--:--,Dong J.,2,6,7,,,,,,,Dong J.,,,,,https://www.tennisexplorer.com/results/,results
+1,529,2025-08-25 14:58:55,--:--,Yang Z.,0,4,5,,,,,,,Yang Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,530,2025-08-25 14:58:55,--:--,Pedretti T.,2,6,7,,,,,,,Pedretti T.,,,,,https://www.tennisexplorer.com/results/,results
+1,531,2025-08-25 14:58:55,--:--,Lapšanský A.,0,4,5,,,,,,,Lapšanský A.,,,,,https://www.tennisexplorer.com/results/,results
+1,532,2025-08-25 14:58:55,--:--,Knippling P.,2,6,7,,,,,,,Knippling P.,,,,,https://www.tennisexplorer.com/results/,results
+1,533,2025-08-25 14:58:55,--:--,Niggemann N.,0,4,5,,,,,,,Niggemann N.,,,,,https://www.tennisexplorer.com/results/,results
+1,534,2025-08-25 14:58:55,--:--,Mayer M.,2,6,7,,,,,,,Mayer M.,,,,,https://www.tennisexplorer.com/results/,results
+1,535,2025-08-25 14:58:55,--:--,Mueller C.,0,4,6,,,,,,,Mueller C.,,,,,https://www.tennisexplorer.com/results/,results
+1,536,2025-08-25 14:58:55,--:--,Berenz B.,2,6,7,,,,,,,Berenz B.,,,,,https://www.tennisexplorer.com/results/,results
+1,537,2025-08-25 14:58:55,--:--,Talajka T.,0,4,6,,,,,,,Talajka T.,,,,,https://www.tennisexplorer.com/results/,results
+1,538,2025-08-25 14:58:55,--:--,Mirarchi W.,2,6,7,,,,,,,Mirarchi W.,,,,,https://www.tennisexplorer.com/results/,results
+1,539,2025-08-25 14:58:55,--:--,Ignat D.,0,4,6,,,,,,,Ignat D.,,,,,https://www.tennisexplorer.com/results/,results
+1,540,2025-08-25 14:58:55,--:--,Rosenkranz Koenig T.,2,7,3,10,,,,,,Rosenkranz Koenig T.,,,,,https://www.tennisexplorer.com/results/,results
+1,541,2025-08-25 14:58:55,--:--,Dean T.,1,5,6,4,,,,,,Dean T.,,,,,https://www.tennisexplorer.com/results/,results
+1,542,2025-08-25 14:58:55,--:--,Marini F.,2,7,5,10,,,,,,Marini F.,,,,,https://www.tennisexplorer.com/results/,results
+1,543,2025-08-25 14:58:55,--:--,Hollender N.,1,5,7,6,,,,,,Hollender N.,,,,,https://www.tennisexplorer.com/results/,results
+1,544,2025-08-25 14:58:55,--:--,Cocola S.,2,7,6,,,,,,,Cocola S.,,,,,https://www.tennisexplorer.com/results/,results
+1,545,2025-08-25 14:58:55,--:--,Leonardi F.,0,5,2,,,,,,,Leonardi F.,,,,,https://www.tennisexplorer.com/results/,results
+1,546,2025-08-25 14:58:55,--:--,Ghorbanzadeh A.,2,7,6,,,,,,,Ghorbanzadeh A.,,,,,https://www.tennisexplorer.com/results/,results
+1,547,2025-08-25 14:58:55,--:--,Hu S.,0,5,2,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,548,2025-08-25 14:58:55,--:--,Huang R.,2,7,6,,,,,,,Huang R.,,,,,https://www.tennisexplorer.com/results/,results
+1,549,2025-08-25 14:58:55,--:--,He J.,0,5,2,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,550,2025-08-25 14:58:55,--:--,Oliynykov N.,2,7,6,,,,,,,Oliynykov N.,,,,,https://www.tennisexplorer.com/results/,results
+1,551,2025-08-25 14:58:55,--:--,Emersic Potocnik G.,0,5,2,,,,,,,Emersic Potocnik G.,,,,,https://www.tennisexplorer.com/results/,results
+1,552,2025-08-25 14:58:55,--:--,Bergen H.,2,7,6,,,,,,,Bergen H.,,,,,https://www.tennisexplorer.com/results/,results
+1,553,2025-08-25 14:58:55,--:--,Gannouni M.,0,5,3,,,,,,,Gannouni M.,,,,,https://www.tennisexplorer.com/results/,results
+1,554,2025-08-25 14:58:55,--:--,Van Nunen M.,2,7,6,,,,,,,Van Nunen M.,,,,,https://www.tennisexplorer.com/results/,results
+1,555,2025-08-25 14:58:55,--:--,Christiansen R.,0,5,4,,,,,,,Christiansen R.,,,,,https://www.tennisexplorer.com/results/,results
+1,556,2025-08-25 14:58:55,--:--,Andrzejczak M.,2,7,6,,,,,,,Andrzejczak M.,,,,,https://www.tennisexplorer.com/results/,results
+1,557,2025-08-25 14:58:55,--:--,Bajurko A.,0,5,4,,,,,,,Bajurko A.,,,,,https://www.tennisexplorer.com/results/,results
+1,558,2025-08-25 14:58:55,--:--,Schroeter M.,2,7,6,12,,,,,,Schroeter M.,,,,,https://www.tennisexplorer.com/results/,results
+1,559,2025-08-25 14:58:55,--:--,Oezcelik M.,1,5,7,10,,,,,,Oezcelik M.,,,,,https://www.tennisexplorer.com/results/,results
+1,560,2025-08-25 14:58:55,--:--,Liszka M.,2,7,7,,,,,,,Liszka M.,,,,,https://www.tennisexplorer.com/results/,results
+1,561,2025-08-25 14:58:55,--:--,Shumsky A.,0,5,6,,,,,,,Shumsky A.,,,,,https://www.tennisexplorer.com/results/,results
+1,562,2025-08-25 14:58:55,--:--,Hoogland J.,1,7,,,,,,,,Hoogland J.,,,,,https://www.tennisexplorer.com/results/,results
+1,563,2025-08-25 14:58:55,--:--,Lin Y.,0,6,,,,,,,,Lin Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,564,2025-08-25 14:58:55,--:--,Jans J.,2,7,4,11,,,,,,Jans J.,,,,,https://www.tennisexplorer.com/results/,results
+1,565,2025-08-25 14:58:55,--:--,Admiraal A.,1,6,6,9,,,,,,Admiraal A.,,,,,https://www.tennisexplorer.com/results/,results
+1,566,2025-08-25 14:58:55,--:--,Allen A.,2,7,6,,,,,,,Allen A.,,,,,https://www.tennisexplorer.com/results/,results
+1,567,2025-08-25 14:58:55,--:--,Santoro-Fergusson L.,0,6,1,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,568,2025-08-25 14:58:55,--:--,Gubi T.,2,7,6,,,,,,,Gubi T.,,,,,https://www.tennisexplorer.com/results/,results
+1,569,2025-08-25 14:58:55,--:--,Hughes D.,0,6,1,,,,,,,Hughes D.,,,,,https://www.tennisexplorer.com/results/,results
+1,570,2025-08-25 14:58:55,--:--,Bajzelj M.,2,7,6,,,,,,,Bajzelj M.,,,,,https://www.tennisexplorer.com/results/,results
+1,571,2025-08-25 14:58:55,--:--,Protic Zakelj J.,0,6,2,,,,,,,Protic Zakelj J.,,,,,https://www.tennisexplorer.com/results/,results
+1,572,2025-08-25 14:58:55,--:--,Casso A.,2,7,6,,,,,,,Casso A.,,,,,https://www.tennisexplorer.com/results/,results
+1,573,2025-08-25 14:58:55,--:--,Kalteis J.,0,6,3,,,,,,,Kalteis J.,,,,,https://www.tennisexplorer.com/results/,results
+1,574,2025-08-25 14:58:55,--:--,Ignat D.,2,7,6,,,,,,,Ignat D.,,,,,https://www.tennisexplorer.com/results/,results
+1,575,2025-08-25 14:58:55,--:--,Stoica I.,0,6,4,,,,,,,Stoica I.,,,,,https://www.tennisexplorer.com/results/,results
+1,576,2025-08-25 14:58:55,--:--,Orzabal Gabrielli J.,2,7,6,,,,,,,Orzabal Gabrielli J.,,,,,https://www.tennisexplorer.com/results/,results
+1,577,2025-08-25 14:58:55,--:--,De Carvalho V.,0,6,4,,,,,,,De Carvalho V.,,,,,https://www.tennisexplorer.com/results/,results
+1,578,2025-08-25 14:58:55,--:--,Postolka R.,2,7,6,,,,,,,Postolka R.,,,,,https://www.tennisexplorer.com/results/,results
+1,579,2025-08-25 14:58:55,--:--,Tripathi A.,0,6,4,,,,,,,Tripathi A.,,,,,https://www.tennisexplorer.com/results/,results
+1,580,2025-08-25 14:58:55,--:--,Zhang H.,2,7,6,,,,,,,Zhang H.,,,,,https://www.tennisexplorer.com/results/,results
+1,581,2025-08-25 14:58:55,--:--,Ye X.,0,6,4,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+1,582,2025-08-25 14:58:55,--:--,Watzka R.,2,7,6,10,,,,,,Watzka R.,,,,,https://www.tennisexplorer.com/results/,results
+1,583,2025-08-25 14:58:55,--:--,Constantinou S.,1,6,7,6,,,,,,Constantinou S.,,,,,https://www.tennisexplorer.com/results/,results
+1,584,2025-08-25 14:58:55,--:--,Bukhari A.,2,7,7,,,,,,,Bukhari A.,,,,,https://www.tennisexplorer.com/results/,results
+1,585,2025-08-25 14:58:55,--:--,Lettieri L.,0,6,5,,,,,,,Lettieri L.,,,,,https://www.tennisexplorer.com/results/,results
+1,586,2025-08-25 14:58:55,--:--,Song Y.,2,7,7,,,,,,,Song Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,587,2025-08-25 14:58:55,--:--,Cogan R.,0,6,6,,,,,,,Cogan R.,,,,,https://www.tennisexplorer.com/results/,results
+1,588,2025-08-25 14:58:55,--:--,Etty E.,2,7,7,,,,,,,Etty E.,,,,,https://www.tennisexplorer.com/results/,results
+1,589,2025-08-25 14:58:55,--:--,Ungerman O.,0,6,6,,,,,,,Ungerman O.,,,,,https://www.tennisexplorer.com/results/,results
+1,590,2025-08-25 14:58:55,--:--,Kamendje S.,2,7,7,,,,,,,Kamendje S.,,,,,https://www.tennisexplorer.com/results/,results
+1,591,2025-08-25 14:58:55,--:--,Manuel J.,0,6,6,,,,,,,Manuel J.,,,,,https://www.tennisexplorer.com/results/,results
+1,592,2025-08-25 14:58:55,04:00,Koaykul K.,2,3,6,10,,,,,04:00,Koaykul K.,,,,,https://www.tennisexplorer.com/results/,results
+1,593,2025-08-25 14:58:55,04:00,Suttisomboon P.,1,6,3,2,,,,,04:00,Suttisomboon P.,,,,,https://www.tennisexplorer.com/results/,results
+1,594,2025-08-25 14:58:55,04:00,Sweeny D.,1,6,3,,,,4.20,1.19,04:00,Sweeny D.,,,,,https://www.tennisexplorer.com/results/,results
+1,595,2025-08-25 14:58:55,04:00,Kwon S.,0,2,0,,,,,,04:00,Kwon S.,,,,,https://www.tennisexplorer.com/results/,results
+1,596,2025-08-25 14:58:55,04:00,Tomida Y.,2,6,7,,,,4.20,1.19,04:00,Tomida Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,597,2025-08-25 14:58:55,04:00,Sriwong P.,0,2,6,,,,,,04:00,Sriwong P.,,,,,https://www.tennisexplorer.com/results/,results
+1,598,2025-08-25 14:58:55,04:00,Zhukov M.,2,6,6,,,,1.73,1.98,04:00,Zhukov M.,,,,,https://www.tennisexplorer.com/results/,results
+1,599,2025-08-25 14:58:55,04:00,Wang X.,0,3,4,,,,,,04:00,Wang X.,,,,,https://www.tennisexplorer.com/results/,results
+1,600,2025-08-25 14:58:55,04:00,Karra T.,2,6,2,10,,,1.73,1.98,04:00,Karra T.,,,,,https://www.tennisexplorer.com/results/,results
+1,601,2025-08-25 14:58:55,04:00,Vu H.,1,4,6,8,,,,,04:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,602,2025-08-25 14:58:55,04:00,Rawat S.,2,6,6,,,,1.51,2.39,04:00,Rawat S.,,,,,https://www.tennisexplorer.com/results/,results
+1,603,2025-08-25 14:58:55,04:00,Malaszszak M.,0,4,2,,,,,,04:00,Malaszszak M.,,,,,https://www.tennisexplorer.com/results/,results
+1,604,2025-08-25 14:58:55,05:00,Congcar C.,2,7,6,,,,1.51,2.39,05:00,Congcar C.,,,,,https://www.tennisexplorer.com/results/,results
+1,605,2025-08-25 14:58:55,05:00,Ingale P.,0,62,0,,,,,,05:00,Ingale P.,,,,,https://www.tennisexplorer.com/results/,results
+1,606,2025-08-25 14:58:55,05:30,Thadpong K.,2,7,6,,,,,,05:30,Thadpong K.,,,,,https://www.tennisexplorer.com/results/,results
+1,607,2025-08-25 14:58:55,05:30,Kim G.,0,6,1,,,,,,05:30,Kim G.,,,,,https://www.tennisexplorer.com/results/,results
+1,608,2025-08-25 14:58:55,06:09,Kim D.,2,6,6,,,,,,06:09,Kim D.,,,,,https://www.tennisexplorer.com/results/,results
+1,609,2025-08-25 14:58:55,06:09,Van Aken N.,0,0,0,,,,,,06:09,Van Aken N.,,,,,https://www.tennisexplorer.com/results/,results
+1,610,2025-08-25 14:58:55,07:00,Mehrotra A.,2,6,6,,,,1.15,4.65,07:00,Mehrotra A.,,,,,https://www.tennisexplorer.com/results/,results
+1,611,2025-08-25 14:58:55,07:00,Sukkho P.,0,1,1,,,,,,07:00,Sukkho P.,,,,,https://www.tennisexplorer.com/results/,results
+1,612,2025-08-25 14:58:55,07:00,Noikor N.,2,6,6,,,,1.15,4.65,07:00,Noikor N.,,,,,https://www.tennisexplorer.com/results/,results
+1,613,2025-08-25 14:58:55,07:00,Duddupudi A.,0,2,2,,,,,,07:00,Duddupudi A.,,,,,https://www.tennisexplorer.com/results/,results
+1,614,2025-08-25 14:58:55,07:20,Navasirisomboon J.,2,6,6,,,,1.05,7.88,07:20,Navasirisomboon J.,,,,,https://www.tennisexplorer.com/results/,results
+1,615,2025-08-25 14:58:55,07:20,Munim D.,0,0,0,,,,,,07:20,Munim D.,,,,,https://www.tennisexplorer.com/results/,results
+1,616,2025-08-25 14:58:55,07:27,Kodancha Srinivasan D.,2,6,6,,,,1.05,7.88,07:27,Kodancha Srinivasan D.,,,,,https://www.tennisexplorer.com/results/,results
+1,617,2025-08-25 14:58:55,07:27,Srisen T.,0,2,2,,,,,,07:27,Srisen T.,,,,,https://www.tennisexplorer.com/results/,results
+1,618,2025-08-25 14:58:55,08:00,Ann S.,2,6,6,,,,1.36,2.78,08:00,Ann S.,,,,,https://www.tennisexplorer.com/results/,results
+1,619,2025-08-25 14:58:55,08:00,Ganta S.,0,3,1,,,,,,08:00,Ganta S.,,,,,https://www.tennisexplorer.com/results/,results
+1,620,2025-08-25 14:58:55,08:00,Pantaratorn K.,2,6,7,,,,1.36,2.78,08:00,Pantaratorn K.,,,,,https://www.tennisexplorer.com/results/,results
+1,621,2025-08-25 14:58:55,08:00,Khantiweerawat T.,0,4,61,,,,,,08:00,Khantiweerawat T.,,,,,https://www.tennisexplorer.com/results/,results
+1,622,2025-08-25 14:58:55,08:25,Longwe-Smit T.,2,6,6,,,,1.04,8.63,08:25,,,,,,https://www.tennisexplorer.com/results/,results
+1,623,2025-08-25 14:58:55,08:25,Srirat T.,0,4,1,,,,,,08:25,Srirat T.,,,,,https://www.tennisexplorer.com/results/,results
+1,624,2025-08-25 14:58:55,08:30,Chu S.,2,6,6,,,,1.04,8.63,08:30,Chu S.,,,,,https://www.tennisexplorer.com/results/,results
+1,625,2025-08-25 14:58:55,08:30,Bangargi A.,0,0,1,,,,,,08:30,Bangargi A.,,,,,https://www.tennisexplorer.com/results/,results
+1,626,2025-08-25 14:58:55,10:00,Chepelev A.,2,1,6,6,,,1.40,2.75,10:00,Chepelev A.,,,,,https://www.tennisexplorer.com/results/,results
+1,627,2025-08-25 14:58:55,10:00,La Vela G.,1,6,3,4,,,,,10:00,La Vela G.,,,,,https://www.tennisexplorer.com/results/,results
+1,628,2025-08-25 14:58:55,10:00,Siddiqui A.,2,3,7,10,,,1.40,2.75,10:00,Siddiqui A.,,,,,https://www.tennisexplorer.com/results/,results
+1,629,2025-08-25 14:58:55,10:00,Bravo A.,1,6,5,6,,,,,10:00,Bravo A.,,,,,https://www.tennisexplorer.com/results/,results
+1,630,2025-08-25 14:58:55,10:00,Cretu C.,2,6,6,,,,1.35,2.89,10:00,Cretu C.,,,,,https://www.tennisexplorer.com/results/,results
+1,631,2025-08-25 14:58:55,10:00,Andreescu S.,0,0,1,,,,,,10:00,Andreescu S.,,,,,https://www.tennisexplorer.com/results/,results
+1,632,2025-08-25 14:58:55,10:00,Aerne L.,2,6,5,11,,,1.35,2.89,10:00,Aerne L.,,,,,https://www.tennisexplorer.com/results/,results
+1,633,2025-08-25 14:58:55,10:00,Braun M.,1,1,7,9,,,,,10:00,Braun M.,,,,,https://www.tennisexplorer.com/results/,results
+1,634,2025-08-25 14:58:55,10:00,Stanisavljevic M.,2,6,6,,,,1.43,2.57,10:00,Stanisavljevic M.,,,,,https://www.tennisexplorer.com/results/,results
+1,635,2025-08-25 14:58:55,10:00,Roe Flannelly J.,0,1,3,,,,,,10:00,Roe Flannelly J.,,,,,https://www.tennisexplorer.com/results/,results
+1,636,2025-08-25 14:58:55,10:00,Zaytsev I.,2,6,6,,,,1.43,2.57,10:00,Zaytsev I.,,,,,https://www.tennisexplorer.com/results/,results
+1,637,2025-08-25 14:58:55,10:00,Bisang H.,0,1,4,,,,,,10:00,Bisang H.,,,,,https://www.tennisexplorer.com/results/,results
+1,638,2025-08-25 14:58:55,10:00,Schaer J.,2,6,6,,,,,,10:00,Schaer J.,,,,,https://www.tennisexplorer.com/results/,results
+1,639,2025-08-25 14:58:55,10:00,Sumar O.,0,2,1,,,,,,10:00,Sumar O.,,,,,https://www.tennisexplorer.com/results/,results
+1,640,2025-08-25 14:58:55,10:00,Jimenez A.,2,6,6,,,,,,10:00,Jimenez A.,,,,,https://www.tennisexplorer.com/results/,results
+1,641,2025-08-25 14:58:55,10:00,Dominguez Alvarez I.,0,2,1,,,,,,10:00,Dominguez Alvarez I.,,,,,https://www.tennisexplorer.com/results/,results
+1,642,2025-08-25 14:58:55,10:00,Ruiz Rodriguez H.,2,6,6,,,,1.49,2.38,10:00,Ruiz Rodriguez H.,,,,,https://www.tennisexplorer.com/results/,results
+1,643,2025-08-25 14:58:55,10:00,Laukys T.,0,2,2,,,,,,10:00,Laukys T.,,,,,https://www.tennisexplorer.com/results/,results
+1,644,2025-08-25 14:58:55,10:00,Kopp S.,2,6,6,,,,1.49,2.38,10:00,Kopp S.,,,,,https://www.tennisexplorer.com/results/,results
+1,645,2025-08-25 14:58:55,10:00,Zielinski M.,0,2,3,,,,,,10:00,Zielinski M.,,,,,https://www.tennisexplorer.com/results/,results
+1,646,2025-08-25 14:58:55,10:00,Werner E.,2,6,6,,,,1.30,3.15,10:00,Werner E.,,,,,https://www.tennisexplorer.com/results/,results
+1,647,2025-08-25 14:58:55,10:00,Jakupi J.,0,3,2,,,,,,10:00,Jakupi J.,,,,,https://www.tennisexplorer.com/results/,results
+1,648,2025-08-25 14:58:55,10:00,Auffray J.,2,6,6,,,,1.30,3.15,10:00,Auffray J.,,,,,https://www.tennisexplorer.com/results/,results
+1,649,2025-08-25 14:58:55,10:00,Campese C.,0,4,2,,,,,,10:00,Campese C.,,,,,https://www.tennisexplorer.com/results/,results
+1,650,2025-08-25 14:58:55,10:00,Garcia Mestre J.,2,6,7,,,,1.22,3.60,10:00,Garcia Mestre J.,,,,,https://www.tennisexplorer.com/results/,results
+1,651,2025-08-25 14:58:55,10:00,Ros Mesas M.,0,4,5,,,,,,10:00,Ros Mesas M.,,,,,https://www.tennisexplorer.com/results/,results
+1,652,2025-08-25 14:58:55,10:10,Cuenin S.,2,1,6,6,,,1.22,3.60,10:10,Cuenin S.,,,,,https://www.tennisexplorer.com/results/,results
+1,653,2025-08-25 14:58:55,10:10,Bielinskyi V.,1,6,2,0,,,,,10:10,Bielinskyi V.,,,,,https://www.tennisexplorer.com/results/,results
+1,654,2025-08-25 14:58:55,11:00,Regas Luis N.,2,3,6,10,,,2.40,1.47,11:00,Regas Luis N.,,,,,https://www.tennisexplorer.com/results/,results
+1,655,2025-08-25 14:58:55,11:00,Pop D.,1,6,1,8,,,,,11:00,Pop D.,,,,,https://www.tennisexplorer.com/results/,results
+1,656,2025-08-25 14:58:55,11:00,Guadagno V.,2,6,6,,,,2.40,1.47,11:00,Guadagno V.,,,,,https://www.tennisexplorer.com/results/,results
+1,657,2025-08-25 14:58:55,11:00,Klipfel L.,0,1,1,,,,,,11:00,Klipfel L.,,,,,https://www.tennisexplorer.com/results/,results
+1,658,2025-08-25 14:58:55,11:00,Mellerio G.,2,6,6,,,,1.43,2.55,11:00,Mellerio G.,,,,,https://www.tennisexplorer.com/results/,results
+1,659,2025-08-25 14:58:55,11:00,Avanoglu O.,0,1,2,,,,,,11:00,Avanoglu O.,,,,,https://www.tennisexplorer.com/results/,results
+1,660,2025-08-25 14:58:55,11:00,Tazabekov D.,2,6,6,,,,1.43,2.55,11:00,Tazabekov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,661,2025-08-25 14:58:55,11:00,Krizan R.,0,1,4,,,,,,11:00,Krizan R.,,,,,https://www.tennisexplorer.com/results/,results
+1,662,2025-08-25 14:58:55,11:00,Caillat O.,2,6,2,10,,,1.84,1.84,11:00,Caillat O.,,,,,https://www.tennisexplorer.com/results/,results
+1,663,2025-08-25 14:58:55,11:00,Boutleux N.,1,2,6,6,,,,,11:00,Boutleux N.,,,,,https://www.tennisexplorer.com/results/,results
+1,664,2025-08-25 14:58:55,11:00,Baldovinetti G.,2,6,6,,,,1.84,1.84,11:00,Baldovinetti G.,,,,,https://www.tennisexplorer.com/results/,results
+1,665,2025-08-25 14:58:55,11:00,Mirzakhani A.,0,2,2,,,,,,11:00,Mirzakhani A.,,,,,https://www.tennisexplorer.com/results/,results
+1,666,2025-08-25 14:58:55,11:00,Orlov A.,2,6,6,,,,,,11:00,Orlov A.,,,,,https://www.tennisexplorer.com/results/,results
+1,667,2025-08-25 14:58:55,11:00,Blardone O.,0,2,4,,,,,,11:00,Blardone O.,,,,,https://www.tennisexplorer.com/results/,results
+1,668,2025-08-25 14:58:55,11:00,Overmyer K.,2,6,6,,,,,,11:00,Overmyer K.,,,,,https://www.tennisexplorer.com/results/,results
+1,669,2025-08-25 14:58:55,11:00,Kos D.,0,2,4,,,,,,11:00,Kos D.,,,,,https://www.tennisexplorer.com/results/,results
+1,670,2025-08-25 14:58:55,11:00,Maxted L.,2,6,7,,,,1.87,1.83,11:00,Maxted L.,,,,,https://www.tennisexplorer.com/results/,results
+1,671,2025-08-25 14:58:55,11:00,Dlimi Y.,0,2,66,,,,,,11:00,Dlimi Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,672,2025-08-25 14:58:55,11:00,Dominguez Alonso J.,2,6,6,,,,1.87,1.83,11:00,Dominguez Alonso J.,,,,,https://www.tennisexplorer.com/results/,results
+1,673,2025-08-25 14:58:55,11:00,Silva L.,0,3,3,,,,,,11:00,Silva L.,,,,,https://www.tennisexplorer.com/results/,results
+1,674,2025-08-25 14:58:55,11:00,Goldberg Alviani N.,2,6,6,,,,1.43,2.50,11:00,Goldberg Alviani N.,,,,,https://www.tennisexplorer.com/results/,results
+1,675,2025-08-25 14:58:55,11:00,Lopez Dominguez J.,0,4,4,,,,,,11:00,Lopez Dominguez J.,,,,,https://www.tennisexplorer.com/results/,results
+1,676,2025-08-25 14:58:55,11:10,Paris T.,2,6,6,,,,1.43,2.50,11:10,Paris T.,,,,,https://www.tennisexplorer.com/results/,results
+1,677,2025-08-25 14:58:55,11:10,Fenty A.,0,3,4,,,,,,11:10,Fenty A.,,,,,https://www.tennisexplorer.com/results/,results
+1,678,2025-08-25 14:58:55,11:15,Balshaw F.,2,4,6,6,,,1.59,2.21,11:15,Balshaw F.,,,,,https://www.tennisexplorer.com/results/,results
+1,679,2025-08-25 14:58:55,11:15,Slavic N.,1,6,1,1,,,,,11:15,Slavic N.,,,,,https://www.tennisexplorer.com/results/,results
+1,680,2025-08-25 14:58:55,11:15,Bernet H.,2,7,6,,,,1.59,2.21,11:15,Bernet H.,,,,,https://www.tennisexplorer.com/results/,results
+1,681,2025-08-25 14:58:55,11:15,Von Der Schulenburg J.,0,5,4,,,,,,11:15,Von Der Schulenburg J.,,,,,https://www.tennisexplorer.com/results/,results
+1,682,2025-08-25 14:58:55,11:40,Barranco Cosano J.,1,6,4,,,,1.65,2.13,11:40,Barranco Cosano J.,,,,,https://www.tennisexplorer.com/results/,results
+1,683,2025-08-25 14:58:55,11:40,Giustino L.,0,3,0,,,,,,11:40,Giustino L.,,,,,https://www.tennisexplorer.com/results/,results
+1,684,2025-08-25 14:58:55,12:00,Filar K.,2,7,6,,,,1.65,2.13,12:00,Filar K.,,,,,https://www.tennisexplorer.com/results/,results
+1,685,2025-08-25 14:58:55,12:00,Orlov V.,0,69,4,,,,,,12:00,Orlov V.,,,,,https://www.tennisexplorer.com/results/,results
+1,686,2025-08-25 14:58:55,12:30,Toffanin N.,2,3,6,10,,,1.09,6.00,12:30,Toffanin N.,,,,,https://www.tennisexplorer.com/results/,results
+1,687,2025-08-25 14:58:55,12:30,Galliano L.,1,6,4,5,,,,,12:30,Galliano L.,,,,,https://www.tennisexplorer.com/results/,results
+1,688,2025-08-25 14:58:55,12:30,Peiro Serrano A.,2,6,6,,,,1.09,6.00,12:30,Peiro Serrano A.,,,,,https://www.tennisexplorer.com/results/,results
+1,689,2025-08-25 14:58:55,12:30,Quevedo Mederos V.,0,1,2,,,,,,12:30,Quevedo Mederos V.,,,,,https://www.tennisexplorer.com/results/,results
+1,690,2025-08-25 14:58:55,12:30,Lara Salmeron D.,2,6,6,,,,1.05,7.00,12:30,Lara Salmeron D.,,,,,https://www.tennisexplorer.com/results/,results
+1,691,2025-08-25 14:58:55,12:30,Gonzalez Noriega J.,0,1,3,,,,,,12:30,Gonzalez Noriega J.,,,,,https://www.tennisexplorer.com/results/,results
+1,692,2025-08-25 14:58:55,12:30,Bueno Gil A.,2,6,6,,,,1.05,7.00,12:30,Bueno Gil A.,,,,,https://www.tennisexplorer.com/results/,results
+1,693,2025-08-25 14:58:55,12:30,Gonzalez J.,0,2,0,,,,,,12:30,Gonzalez J.,,,,,https://www.tennisexplorer.com/results/,results
+1,694,2025-08-25 14:58:55,12:30,Aubert E.,2,6,6,,,,1.07,6.50,12:30,Aubert E.,,,,,https://www.tennisexplorer.com/results/,results
+1,695,2025-08-25 14:58:55,12:30,Brun T.,0,2,1,,,,,,12:30,Brun T.,,,,,https://www.tennisexplorer.com/results/,results
+1,696,2025-08-25 14:58:55,12:30,Van Donselaar F.,2,6,6,,,,1.07,6.50,12:30,Van Donselaar F.,,,,,https://www.tennisexplorer.com/results/,results
+1,697,2025-08-25 14:58:55,12:30,Krynen L.,0,2,2,,,,,,12:30,Krynen L.,,,,,https://www.tennisexplorer.com/results/,results
+1,698,2025-08-25 14:58:55,12:30,Dubinin A.,2,6,6,,,,1.79,1.89,12:30,Dubinin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,699,2025-08-25 14:58:55,12:30,Munoz Fuster J.,0,2,4,,,,,,12:30,Munoz Fuster J.,,,,,https://www.tennisexplorer.com/results/,results
+1,700,2025-08-25 14:58:55,12:30,Baldisserri E.,2,6,6,,,,1.79,1.89,12:30,Baldisserri E.,,,,,https://www.tennisexplorer.com/results/,results
+1,701,2025-08-25 14:58:55,12:30,Affolter N.,0,3,1,,,,,,12:30,Affolter N.,,,,,https://www.tennisexplorer.com/results/,results
+1,702,2025-08-25 14:58:55,12:30,Aregger L.,2,6,6,,,,2.28,1.53,12:30,Aregger L.,,,,,https://www.tennisexplorer.com/results/,results
+1,703,2025-08-25 14:58:55,12:30,Glarner R.,0,3,4,,,,,,12:30,Glarner R.,,,,,https://www.tennisexplorer.com/results/,results
+1,704,2025-08-25 14:58:55,12:30,Verthaimer I.,2,7,4,10,,,2.28,1.53,12:30,Verthaimer I.,,,,,https://www.tennisexplorer.com/results/,results
+1,705,2025-08-25 14:58:55,12:30,Nagele M.,1,5,6,6,,,,,12:30,Nagele M.,,,,,https://www.tennisexplorer.com/results/,results
+1,706,2025-08-25 14:58:55,13:30,Jauch J.,2,4,6,10,,,3.10,1.30,13:30,Jauch J.,,,,,https://www.tennisexplorer.com/results/,results
+1,707,2025-08-25 14:58:55,13:30,Castelnuovo Y.,1,6,3,7,,,,,13:30,Castelnuovo Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,708,2025-08-25 14:58:55,13:30,Ouzilou H.,2,6,6,,,,3.10,1.30,13:30,Ouzilou H.,,,,,https://www.tennisexplorer.com/results/,results
+1,709,2025-08-25 14:58:55,13:30,Truszczynski S.,0,0,0,,,,,,13:30,Truszczynski S.,,,,,https://www.tennisexplorer.com/results/,results
+1,710,2025-08-25 14:58:55,13:30,Gil Garcia A.,2,6,6,,,,,,13:30,Gil Garcia A.,,,,,https://www.tennisexplorer.com/results/,results
+1,711,2025-08-25 14:58:55,13:30,Moreno Sandoval E.,0,1,2,,,,,,13:30,Moreno Sandoval E.,,,,,https://www.tennisexplorer.com/results/,results
+1,712,2025-08-25 14:58:55,13:30,Pietri B.,2,6,7,,,,,,13:30,Pietri B.,,,,,https://www.tennisexplorer.com/results/,results
+1,713,2025-08-25 14:58:55,13:30,Mondant T.,0,2,5,,,,,,13:30,Mondant T.,,,,,https://www.tennisexplorer.com/results/,results
+1,714,2025-08-25 14:58:55,13:30,Senn N.,2,6,7,,,,,,13:30,Senn N.,,,,,https://www.tennisexplorer.com/results/,results
+1,715,2025-08-25 14:58:55,13:30,Dina E.,0,4,5,,,,,,13:30,Dina E.,,,,,https://www.tennisexplorer.com/results/,results
+1,716,2025-08-25 14:58:55,14:00,Martinez M.,2,6,6,,,,,,14:00,Martinez M.,,,,,https://www.tennisexplorer.com/results/,results
+1,717,2025-08-25 14:58:55,14:00,Lasheras V.,0,0,0,,,,,,14:00,Lasheras V.,,,,,https://www.tennisexplorer.com/results/,results
+1,718,2025-08-25 14:58:55,14:00,Burdet A.,2,6,6,,,,,,14:00,Burdet A.,,,,,https://www.tennisexplorer.com/results/,results
+1,719,2025-08-25 14:58:55,14:00,Panzo K.,0,3,2,,,,,,14:00,Panzo K.,,,,,https://www.tennisexplorer.com/results/,results
+1,720,2025-08-25 14:58:55,14:00,Lopez Cherubino N.,2,6,6,,,,,,14:00,Lopez Cherubino N.,,,,,https://www.tennisexplorer.com/results/,results
+1,721,2025-08-25 14:58:55,14:00,Meneses Perny A.,0,3,4,,,,,,14:00,Meneses Perny A.,,,,,https://www.tennisexplorer.com/results/,results
+1,722,2025-08-25 14:58:55,14:10,Gentzsch T.,2,7,6,,,,1.61,2.14,14:10,Gentzsch T.,,,,,https://www.tennisexplorer.com/results/,results
+1,723,2025-08-25 14:58:55,14:10,Houkes M.,0,5,4,,,,,,14:10,Houkes M.,,,,,https://www.tennisexplorer.com/results/,results
+1,724,2025-08-25 14:58:55,15:00,Faure V.,2,4,6,10,,,1.61,2.14,15:00,Faure V.,,,,,https://www.tennisexplorer.com/results/,results
+1,725,2025-08-25 14:58:55,15:00,Bationo A.,1,6,4,5,,,,,15:00,Bationo A.,,,,,https://www.tennisexplorer.com/results/,results
+1,726,2025-08-25 14:58:55,15:00,Tremblay D.,2,6,7,,,,1.05,7.88,15:00,Tremblay D.,,,,,https://www.tennisexplorer.com/results/,results
+1,727,2025-08-25 14:58:55,15:00,Van Donselaar B.,0,0,6,,,,,,15:00,Van Donselaar B.,,,,,https://www.tennisexplorer.com/results/,results
+1,728,2025-08-25 14:58:55,15:00,Lhomond I.,2,6,6,,,,1.05,7.88,15:00,Lhomond I.,,,,,https://www.tennisexplorer.com/results/,results
+1,729,2025-08-25 14:58:55,15:00,Kaliterna A.,0,2,1,,,,,,15:00,Kaliterna A.,,,,,https://www.tennisexplorer.com/results/,results
+1,730,2025-08-25 14:58:55,15:00,Loge J.,2,6,7,,,,1.91,1.78,15:00,Loge J.,,,,,https://www.tennisexplorer.com/results/,results
+1,731,2025-08-25 14:58:55,15:00,Slump S.,0,3,65,,,,,,15:00,Slump S.,,,,,https://www.tennisexplorer.com/results/,results
+1,732,2025-08-25 14:58:55,15:30,Rojas C.,2,6,6,,,,1.91,1.78,15:30,Rojas C.,,,,,https://www.tennisexplorer.com/results/,results
+1,733,2025-08-25 14:58:55,15:30,Kuklin G.,0,4,2,,,,,,15:30,Kuklin G.,,,,,https://www.tennisexplorer.com/results/,results
+1,734,2025-08-25 14:58:55,16:00,Rengel Sierra T.,2,6,6,,,,,,16:00,Rengel Sierra T.,,,,,https://www.tennisexplorer.com/results/,results
+1,735,2025-08-25 14:58:55,16:00,Gilmanov T.,0,0,4,,,,,,16:00,Gilmanov T.,,,,,https://www.tennisexplorer.com/results/,results
+1,736,2025-08-25 14:58:55,16:06,Faivre P.,1,6,3,,,,,,16:06,Faivre P.,,,,,https://www.tennisexplorer.com/results/,results
+1,737,2025-08-25 14:58:55,16:06,Beaumelle Munoz E.,0,1,0,,,,,,16:06,Beaumelle Munoz E.,,,,,https://www.tennisexplorer.com/results/,results
+1,738,2025-08-25 14:58:55,17:00,Carboni L.,2,6,62,6,,,1.84,1.87,17:00,Carboni L.,,,,,https://www.tennisexplorer.com/results/,results
+1,739,2025-08-25 14:58:55,17:00,Bertola R.,1,3,7,2,,,,,17:00,Bertola R.,,,,,https://www.tennisexplorer.com/results/,results
+1,740,2025-08-25 14:58:55,Porto 2 challenger,S,1,2,3,4,5,H,1.84,1.87,,,,,,,https://www.tennisexplorer.com/results/,results
+1,741,2025-08-25 14:58:55,11:10,Alcala Gurri M.(2),2,6,6,,,,1.10,6.32,11:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,742,2025-08-25 14:58:55,11:10,Serrano Luis T.,0,1,3,,,,,,11:10,Serrano Luis T.,,,,,https://www.tennisexplorer.com/results/,results
+1,743,2025-08-25 14:58:55,11:10,Gima S.(8),2,7,6,,,,1.10,6.32,11:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,744,2025-08-25 14:58:55,11:10,Bocchi L.,0,5,1,,,,,,11:10,Bocchi L.,,,,,https://www.tennisexplorer.com/results/,results
+1,745,2025-08-25 14:58:55,11:10,Martinez A.(9),2,7,6,,,,1.41,2.73,11:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,746,2025-08-25 14:58:55,11:10,Heinonen A.,0,63,2,,,,,,11:10,Heinonen A.,,,,,https://www.tennisexplorer.com/results/,results
+1,747,2025-08-25 14:58:55,12:40,Martin D.(3),2,6,6,,,,1.41,2.73,12:40,,,,,,https://www.tennisexplorer.com/results/,results
+1,748,2025-08-25 14:58:55,12:40,Maia H.,0,1,4,,,,,,12:40,Maia H.,,,,,https://www.tennisexplorer.com/results/,results
+1,749,2025-08-25 14:58:55,12:50,Mckennon M.(4),2,6,7,,,,1.37,2.89,12:50,,,,,,https://www.tennisexplorer.com/results/,results
+1,750,2025-08-25 14:58:55,12:50,Jermar J.,0,4,5,,,,,,12:50,Jermar J.,,,,,https://www.tennisexplorer.com/results/,results
+1,751,2025-08-25 14:58:55,13:10,Kielan S.,2,6,6,,,,1.37,2.89,13:10,Kielan S.,,,,,https://www.tennisexplorer.com/results/,results
+1,752,2025-08-25 14:58:55,13:10,Vilicich B.(12),0,4,4,,,,,,13:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,753,2025-08-25 14:58:55,14:05,Torres T.,2,65,6,6,,,2.63,1.43,14:05,Torres T.,,,,,https://www.tennisexplorer.com/results/,results
+1,754,2025-08-25 14:58:55,14:05,McCormick T.(7),1,7,3,1,,,,,14:05,,,,,,https://www.tennisexplorer.com/results/,results
+1,755,2025-08-25 14:58:55,14:35,Jorda Sanchis D.(5),2,6,6,,,,2.63,1.43,14:35,,,,,,https://www.tennisexplorer.com/results/,results
+1,756,2025-08-25 14:58:55,14:35,Valdoleiros G.,0,3,0,,,,,,14:35,Valdoleiros G.,,,,,https://www.tennisexplorer.com/results/,results
+1,757,2025-08-25 14:58:55,14:50,de Schepper K.(10),2,6,6,,,,1.63,2.16,14:50,,,,,,https://www.tennisexplorer.com/results/,results
+1,758,2025-08-25 14:58:55,14:50,Bangoura S.,0,3,4,,,,,,14:50,Bangoura S.,,,,,https://www.tennisexplorer.com/results/,results
+1,759,2025-08-25 14:58:55,16:05,Pieczonka F.,2,6,6,,,,1.63,2.16,16:05,Pieczonka F.,,,,,https://www.tennisexplorer.com/results/,results
+1,760,2025-08-25 14:58:55,16:05,Massard L.(6),0,4,1,,,,,,16:05,,,,,,https://www.tennisexplorer.com/results/,results
+1,761,2025-08-25 14:58:55,17:00,Cacao T.,2,6,6,,,,1.05,7.52,17:00,Cacao T.,,,,,https://www.tennisexplorer.com/results/,results
+1,762,2025-08-25 14:58:55,17:00,Freitas J.,0,0,1,,,,,,17:00,Freitas J.,,,,,https://www.tennisexplorer.com/results/,results
+1,763,2025-08-25 14:58:55,US Open,S,1,2,3,4,5,H,1.05,7.52,,US Open,,,,,https://www.tennisexplorer.com/results/,results
+1,764,2025-08-25 14:58:55,17:10,Davidovich Fokina A.(18),3,6,6,6,,,1.16,5.30,17:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,765,2025-08-25 14:58:55,17:10,Shevchenko A.,0,1,1,2,,,,,17:10,Shevchenko A.,,,,,https://www.tennisexplorer.com/results/,results
+1,766,2025-08-25 14:58:55,17:10,Rinderknech A.,3,7,7,4,6,,1.16,5.30,17:10,Rinderknech A.,,,,,https://www.tennisexplorer.com/results/,results
+1,767,2025-08-25 14:58:55,17:10,Carballes Baena R.,1,62,5,6,2,,,,17:10,Carballes Baena R.,,,,,https://www.tennisexplorer.com/results/,results
+1,768,2025-08-25 14:58:55,17:10,Mensik J.(16),3,7,6,6,,,1.38,3.03,17:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,769,2025-08-25 14:58:55,17:10,Jarry N.,0,65,3,4,,,,,17:10,Jarry N.,,,,,https://www.tennisexplorer.com/results/,results
+1,770,2025-08-25 14:58:55,18:15,Shelton B.(6),3,6,6,6,,,1.38,3.03,18:15,,,,,,https://www.tennisexplorer.com/results/,results
+1,771,2025-08-25 14:58:55,18:15,Buse I.,0,3,2,4,,,,,18:15,Buse I.,,,,,https://www.tennisexplorer.com/results/,results
+1,772,2025-08-25 14:58:55,19:10,Blanchet U.,3,6,3,7,6,,3.82,1.27,19:10,Blanchet U.,,,,,https://www.tennisexplorer.com/results/,results
+1,773,2025-08-25 14:58:55,19:10,Marozsan F.,1,4,6,67,2,,,,19:10,Marozsan F.,,,,,https://www.tennisexplorer.com/results/,results
+1,774,2025-08-25 14:58:55,19:10,Fritz T.(4),3,7,6,6,,,3.82,1.27,19:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,775,2025-08-25 14:58:55,19:10,Nava E.,0,5,2,3,,,,,19:10,Nava E.,,,,,https://www.tennisexplorer.com/results/,results
+1,776,2025-08-25 14:58:55,19:25,Spizzirri E.,3,7,6,7,,,1.46,2.69,19:25,Spizzirri E.,,,,,https://www.tennisexplorer.com/results/,results
+1,777,2025-08-25 14:58:55,19:25,Dostanic S.,0,5,4,64,,,,,19:25,Dostanic S.,,,,,https://www.tennisexplorer.com/results/,results
+1,778,2025-08-25 14:58:55,19:30,Darderi L.(32),3,6,6,6,,,1.46,2.69,19:30,,,,,,https://www.tennisexplorer.com/results/,results
+1,779,2025-08-25 14:58:55,19:30,Hijikata R.,0,2,1,2,,,,,19:30,Hijikata R.,,,,,https://www.tennisexplorer.com/results/,results
+1,780,2025-08-25 14:58:55,20:25,Lehecka J.(20),3,3,6,7,6,,1.14,5.86,20:25,,,,,,https://www.tennisexplorer.com/results/,results
+1,781,2025-08-25 14:58:55,20:25,Coric B.,1,6,4,65,1,,,,20:25,Coric B.,,,,,https://www.tennisexplorer.com/results/,results
+1,782,2025-08-25 14:58:55,20:30,Mannarino A.,3,7,6,6,,,1.14,5.86,20:30,Mannarino A.,,,,,https://www.tennisexplorer.com/results/,results
+1,783,2025-08-25 14:58:55,20:30,Griekspoor T.(29),0,5,4,0,,,,,20:30,,,,,,https://www.tennisexplorer.com/results/,results
+1,784,2025-08-25 14:58:55,21:10,Machac T.(21),3,6,6,6,,,1.40,2.95,21:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,785,2025-08-25 14:58:55,21:10,Nardi L.,0,3,1,1,,,,,21:10,Nardi L.,,,,,https://www.tennisexplorer.com/results/,results
+1,786,2025-08-25 14:58:55,21:30,Svajda Z.,3,6,6,7,,,1.40,2.95,21:30,Svajda Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,787,2025-08-25 14:58:55,21:30,Piros Z.,0,4,2,5,,,,,21:30,Piros Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,788,2025-08-25 14:58:55,22:15,Kym J.,3,6,6,3,7,,2.08,1.75,22:15,Kym J.,,,,,https://www.tennisexplorer.com/results/,results
+1,789,2025-08-25 14:58:55,22:15,Quinn E.,1,3,2,6,65,,,,22:15,Quinn E.,,,,,https://www.tennisexplorer.com/results/,results
+1,790,2025-08-25 14:58:55,22:15,Carreno-Busta P.,3,7,6,6,,,2.08,1.75,22:15,,,,,,https://www.tennisexplorer.com/results/,results
+1,791,2025-08-25 14:58:55,22:15,Llamas Ruiz P.,0,67,4,2,,,,,22:15,Llamas Ruiz P.,,,,,https://www.tennisexplorer.com/results/,results
+1,792,2025-08-25 14:58:55,22:35,Etcheverry T.,3,6,6,6,,,1.32,3.32,22:35,Etcheverry T.,,,,,https://www.tennisexplorer.com/results/,results
+1,793,2025-08-25 14:58:55,22:35,Ugo Carabelli C.,0,3,2,0,,,,,22:35,Ugo Carabelli C.,,,,,https://www.tennisexplorer.com/results/,results
+1,794,2025-08-25 14:58:55,23:20,Thompson J.,3,6,6,1,6,,1.32,3.32,23:20,Thompson J.,,,,,https://www.tennisexplorer.com/results/,results
+1,795,2025-08-25 14:58:55,23:20,Moutet C.,1,2,4,6,3,,,,23:20,Moutet C.,,,,,https://www.tennisexplorer.com/results/,results
+1,796,2025-08-25 14:58:55,UTR Pro Tennis Series,S,1,2,3,4,5,H,A,,,UTR Pro Tennis Series,,,,,https://www.tennisexplorer.com/results/,results
+1,797,2025-08-25 14:58:55,01:00,Shtengelov A.,2,4,6,7,,,2.50,1.40,01:00,Shtengelov A.,,,,,https://www.tennisexplorer.com/results/,results
+1,798,2025-08-25 14:58:55,01:00,Ito K.,1,6,4,5,,,,,01:00,Ito K.,,,,,https://www.tennisexplorer.com/results/,results
+1,799,2025-08-25 14:58:55,01:00,McFadzean L.,2,6,6,,,,2.50,1.40,01:00,McFadzean L.,,,,,https://www.tennisexplorer.com/results/,results
+1,800,2025-08-25 14:58:55,01:00,Papac T.,0,3,4,,,,,,01:00,Papac T.,,,,,https://www.tennisexplorer.com/results/,results
+1,801,2025-08-25 14:58:55,01:00,Burton M.,2,7,6,,,,1.22,3.50,01:00,Burton M.,,,,,https://www.tennisexplorer.com/results/,results
+1,802,2025-08-25 14:58:55,01:00,Ishikawa H.,0,60,4,,,,,,01:00,Ishikawa H.,,,,,https://www.tennisexplorer.com/results/,results
+1,803,2025-08-25 14:58:55,03:20,Brownrigg N.,2,6,7,,,,1.22,3.50,03:20,Brownrigg N.,,,,,https://www.tennisexplorer.com/results/,results
+1,804,2025-08-25 14:58:55,03:20,Hazratwala R.,0,0,65,,,,,,03:20,Hazratwala R.,,,,,https://www.tennisexplorer.com/results/,results
+1,805,2025-08-25 14:58:55,03:40,Stevens Z.,2,7,4,6,,,1.12,4.55,03:40,Stevens Z.,,,,,https://www.tennisexplorer.com/results/,results
+1,806,2025-08-25 14:58:55,03:40,Qariaqus D.,1,5,6,3,,,,,03:40,Qariaqus D.,,,,,https://www.tennisexplorer.com/results/,results
+1,807,2025-08-25 14:58:55,04:10,Birrell C.,2,3,7,6,,,1.12,4.55,04:10,Birrell C.,,,,,https://www.tennisexplorer.com/results/,results
+1,808,2025-08-25 14:58:55,04:10,McCall D.,1,6,63,3,,,,,04:10,McCall D.,,,,,https://www.tennisexplorer.com/results/,results
+1,809,2025-08-25 14:58:55,06:00,Mcleod A.,2,6,6,,,,1.25,3.20,06:00,Mcleod A.,,,,,https://www.tennisexplorer.com/results/,results
+1,810,2025-08-25 14:58:55,06:00,Oster S.,0,3,4,,,,,,06:00,Oster S.,,,,,https://www.tennisexplorer.com/results/,results
+1,811,2025-08-25 14:58:55,UTR Pro Tennis Series 3,S,1,2,3,4,5,H,1.25,3.20,,,,,,,https://www.tennisexplorer.com/results/,results
+1,812,2025-08-25 14:58:55,00:25,Hoffmann N.,2,6,6,,,,,,00:25,Hoffmann N.,,,,,https://www.tennisexplorer.com/results/,results
+1,813,2025-08-25 14:58:55,00:25,Berger B.,0,4,2,,,,,,00:25,Berger B.,,,,,https://www.tennisexplorer.com/results/,results
+1,814,2025-08-25 14:58:55,01:45,Djakouris A.,2,6,6,,,,,,01:45,Djakouris A.,,,,,https://www.tennisexplorer.com/results/,results
+1,815,2025-08-25 14:58:55,01:45,Lee C.,0,2,2,,,,,,01:45,Lee C.,,,,,https://www.tennisexplorer.com/results/,results
+1,816,2025-08-25 14:58:55,02:00,Cruz C.,2,4,6,7,,,1.80,1.83,02:00,Cruz C.,,,,,https://www.tennisexplorer.com/results/,results
+1,817,2025-08-25 14:58:55,02:00,Martirosian D.,1,6,3,611,,,,,02:00,Martirosian D.,,,,,https://www.tennisexplorer.com/results/,results
+1,818,2025-08-25 14:58:55,15:00,Chen D.,2,6,6,,,,1.80,1.83,15:00,Chen D.,,,,,https://www.tennisexplorer.com/results/,results
+1,819,2025-08-25 14:58:55,15:00,Giamichelle S.,0,1,2,,,,,,15:00,Giamichelle S.,,,,,https://www.tennisexplorer.com/results/,results
+1,820,2025-08-25 14:58:55,15:00,Sachdev R.,2,6,6,,,,2.34,1.50,15:00,Sachdev R.,,,,,https://www.tennisexplorer.com/results/,results
+1,821,2025-08-25 14:58:55,15:00,Fernandez M.,0,3,2,,,,,,15:00,Fernandez M.,,,,,https://www.tennisexplorer.com/results/,results
+1,822,2025-08-25 14:58:55,16:25,Vulpitta G.,2,6,6,,,,2.34,1.50,16:25,Vulpitta G.,,,,,https://www.tennisexplorer.com/results/,results
+1,823,2025-08-25 14:58:55,16:25,Kalinin A.,0,2,4,,,,,,16:25,Kalinin A.,,,,,https://www.tennisexplorer.com/results/,results
+1,824,2025-08-25 14:58:55,16:25,Kakhniuk D.,2,6,6,,,,1.50,2.34,16:25,Kakhniuk D.,,,,,https://www.tennisexplorer.com/results/,results
+1,825,2025-08-25 14:58:55,16:25,Johnson C.,0,4,3,,,,,,16:25,Johnson C.,,,,,https://www.tennisexplorer.com/results/,results
+1,826,2025-08-25 14:58:55,16:30,Koenig L.,2,3,6,6,,,1.50,2.34,16:30,Koenig L.,,,,,https://www.tennisexplorer.com/results/,results
+1,827,2025-08-25 14:58:55,16:30,Bowden L.,1,6,3,1,,,,,16:30,Bowden L.,,,,,https://www.tennisexplorer.com/results/,results
+1,828,2025-08-25 14:58:55,16:30,Anderson B.,2,6,6,,,,2.55,1.40,16:30,Anderson B.,,,,,https://www.tennisexplorer.com/results/,results
+1,829,2025-08-25 14:58:55,16:30,Cardona Herrera T.,0,1,2,,,,,,16:30,Cardona Herrera T.,,,,,https://www.tennisexplorer.com/results/,results
+1,830,2025-08-25 14:58:55,18:00,Nakamine L.,2,7,6,,,,2.55,1.40,18:00,Nakamine L.,,,,,https://www.tennisexplorer.com/results/,results
+1,831,2025-08-25 14:58:55,18:00,Stewart T.,0,65,4,,,,,,18:00,Stewart T.,,,,,https://www.tennisexplorer.com/results/,results
+1,832,2025-08-25 14:58:55,18:05,Beckles D.,2,6,6,,,,1.01,9.00,18:05,Beckles D.,,,,,https://www.tennisexplorer.com/results/,results
+1,833,2025-08-25 14:58:55,18:05,Gasca-Silav A.,0,2,2,,,,,,18:05,,,,,,https://www.tennisexplorer.com/results/,results
+1,834,2025-08-25 14:58:55,19:00,Ventre A.,2,3,6,7,,,1.01,9.00,19:00,Ventre A.,,,,,https://www.tennisexplorer.com/results/,results
+1,835,2025-08-25 14:58:55,19:00,Jones A.,1,6,3,65,,,,,19:00,Jones A.,,,,,https://www.tennisexplorer.com/results/,results
+1,836,2025-08-25 14:58:55,19:00,Rajski M.,2,6,6,,,,1.50,2.30,19:00,Rajski M.,,,,,https://www.tennisexplorer.com/results/,results
+1,837,2025-08-25 14:58:55,19:00,Danilov S.,0,2,2,,,,,,19:00,Danilov S.,,,,,https://www.tennisexplorer.com/results/,results
+1,838,2025-08-25 14:58:55,19:05,Van Wijk Q.,2,6,6,,,,1.50,2.30,19:05,Van Wijk Q.,,,,,https://www.tennisexplorer.com/results/,results
+1,839,2025-08-25 14:58:55,19:05,Silva E.,0,3,3,,,,,,19:05,Silva E.,,,,,https://www.tennisexplorer.com/results/,results
+1,840,2025-08-25 14:58:55,20:45,Wuelfing M.,2,6,6,,,,2.90,1.32,20:45,Wuelfing M.,,,,,https://www.tennisexplorer.com/results/,results
+1,841,2025-08-25 14:58:55,20:45,Hoffmann N.,0,2,3,,,,,,20:45,Hoffmann N.,,,,,https://www.tennisexplorer.com/results/,results
+1,842,2025-08-25 14:58:55,22:10,Chinlund C.,2,6,2,6,,,2.90,1.32,22:10,Chinlund C.,,,,,https://www.tennisexplorer.com/results/,results
+1,843,2025-08-25 14:58:55,22:10,Martin D.,1,0,6,3,,,,,22:10,Martin D.,,,,,https://www.tennisexplorer.com/results/,results
+1,844,2025-08-25 14:58:55,22:30,Djakouris A.,2,6,6,,,,1.45,2.45,22:30,Djakouris A.,,,,,https://www.tennisexplorer.com/results/,results
+1,845,2025-08-25 14:58:55,22:30,Cruz C.,0,3,3,,,,,,22:30,Cruz C.,,,,,https://www.tennisexplorer.com/results/,results
+1,846,2025-08-25 14:58:55,UTR Pro Tennis Series 8,S,1,2,3,4,5,H,1.45,2.45,,,,,,,https://www.tennisexplorer.com/results/,results
+1,847,2025-08-25 14:58:55,02:00,Matsuda K.,2,6,6,,,,1.78,1.85,02:00,Matsuda K.,,,,,https://www.tennisexplorer.com/results/,results
+1,848,2025-08-25 14:58:55,02:00,Matsumura R.,0,1,4,,,,,,02:00,Matsumura R.,,,,,https://www.tennisexplorer.com/results/,results
+1,849,2025-08-25 14:58:55,02:00,Dolzhenkov D.,2,6,6,,,,1.78,1.85,02:00,Dolzhenkov D.,,,,,https://www.tennisexplorer.com/results/,results
+1,850,2025-08-25 14:58:55,02:00,Kawanaka H.,0,2,1,,,,,,02:00,Kawanaka H.,,,,,https://www.tennisexplorer.com/results/,results
+1,851,2025-08-25 14:58:55,02:00,Itsusaki S.,2,6,6,,,,1.82,1.82,02:00,Itsusaki S.,,,,,https://www.tennisexplorer.com/results/,results
+1,852,2025-08-25 14:58:55,02:00,Tashiro Y.,0,3,1,,,,,,02:00,Tashiro Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,853,2025-08-25 14:58:55,03:45,Batin S.,2,7,6,,,,1.82,1.82,03:45,Batin S.,,,,,https://www.tennisexplorer.com/results/,results
+1,854,2025-08-25 14:58:55,03:45,Kaufman M.,0,5,2,,,,,,03:45,Kaufman M.,,,,,https://www.tennisexplorer.com/results/,results
+1,855,2025-08-25 14:58:55,Zhangjiagang challenger,S,1,2,3,4,5,H,A,,,Zhangjiagang challenger,,,,,https://www.tennisexplorer.com/results/,results
+1,856,2025-08-25 14:58:55,04:00,Uesugi K.,1,,,,,,3.46,1.28,04:00,Uesugi K.,,,,,https://www.tennisexplorer.com/results/,results
+1,857,2025-08-25 14:58:55,04:00,Delaney J.(2),0,,,,,,,,04:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,858,2025-08-25 14:58:55,04:10,Uchida K.(6),2,6,6,,,,3.46,1.28,04:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,859,2025-08-25 14:58:55,04:10,Sun Q.,0,1,3,,,,,,04:10,Sun Q.,,,,,https://www.tennisexplorer.com/results/,results
+1,860,2025-08-25 14:58:55,04:10,Yuzuki T.,2,6,3,6,,,4.67,1.16,04:10,Yuzuki T.,,,,,https://www.tennisexplorer.com/results/,results
+1,861,2025-08-25 14:58:55,04:10,Leong M.(10),1,3,6,2,,,,,04:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,862,2025-08-25 14:58:55,04:10,Watt J.,2,6,6,,,,4.67,1.16,04:10,Watt J.,,,,,https://www.tennisexplorer.com/results/,results
+1,863,2025-08-25 14:58:55,04:10,Watanabe S.,0,3,4,,,,,,04:10,Watanabe S.,,,,,https://www.tennisexplorer.com/results/,results
+1,864,2025-08-25 14:58:55,04:40,Liu H.,2,6,6,,,,3.64,1.25,04:40,Liu H.,,,,,https://www.tennisexplorer.com/results/,results
+1,865,2025-08-25 14:58:55,04:40,Kusuhara Y.(12),0,3,2,,,,,,04:40,,,,,,https://www.tennisexplorer.com/results/,results
+1,866,2025-08-25 14:58:55,05:55,Nam J.(11),1,6,0,,,,3.64,1.25,05:55,,,,,,https://www.tennisexplorer.com/results/,results
+1,867,2025-08-25 14:58:55,05:55,Kaliyanda Poonacha N.,0,4,0,,,,,,05:55,Kaliyanda Poonacha N.,,,,,https://www.tennisexplorer.com/results/,results
+1,868,2025-08-25 14:58:55,06:00,Huang T.(5),2,6,6,,,,1.35,3.04,06:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,869,2025-08-25 14:58:55,06:00,Nakagawa S.,0,3,4,,,,,,06:00,Nakagawa S.,,,,,https://www.tennisexplorer.com/results/,results
+1,870,2025-08-25 14:58:55,06:00,Charlton J.,1,6,1,,,,1.35,3.04,06:00,Charlton J.,,,,,https://www.tennisexplorer.com/results/,results
+1,871,2025-08-25 14:58:55,06:00,Rai A.(3),0,4,0,,,,,,06:00,,,,,,https://www.tennisexplorer.com/results/,results
+1,872,2025-08-25 14:58:55,06:20,Peliwo F.(4),2,6,6,,,,1.30,3.37,06:20,,,,,,https://www.tennisexplorer.com/results/,results
+1,873,2025-08-25 14:58:55,06:20,Wang A.(7),0,2,1,,,,,,06:20,,,,,,https://www.tennisexplorer.com/results/,results
+1,874,2025-08-25 14:58:55,07:10,Santillan A.(8),2,6,6,,,,1.30,3.37,07:10,,,,,,https://www.tennisexplorer.com/results/,results
+1,875,2025-08-25 14:58:55,07:10,Zeng Y.,0,3,1,,,,,,07:10,Zeng Y.,,,,,https://www.tennisexplorer.com/results/,results
+1,876,2025-08-25 14:58:55,07:30,Kikuchi Y.(9),2,6,7,,,,1.22,3.93,07:30,,,,,,https://www.tennisexplorer.com/results/,results
+1,877,2025-08-25 14:58:55,07:30,Tajima N.,0,3,5,,,,,,07:30,Tajima N.,,,,,https://www.tennisexplorer.com/results/,results
+1,878,2025-08-25 14:58:55,07:40,Chen C.,1,1,6,4,,,1.22,3.93,07:40,Chen C.,,,,,https://www.tennisexplorer.com/results/,results
+1,879,2025-08-25 14:58:55,07:40,Samrej K.(1),0,6,4,0,,,,,07:40,,,,,,https://www.tennisexplorer.com/results/,results
+3,1,2025-08-25 14:58:55,US Open,,,,48,,,,,,,US Open,,,,,https://www.tennisexplorer.com/results/,results
+3,2,2025-08-25 14:58:55,US Open,,,,45,,,,,,,US Open,,,,,https://www.tennisexplorer.com/results/,results
+3,4,2025-08-25 14:58:55,Zhangjiagang challenger,,,,23,,,,,,,Zhangjiagang challenger,,,,,https://www.tennisexplorer.com/results/,results
+3,5,2025-08-25 14:58:55,Como challenger,,,,19,,,,,,,Como challenger,,,,,https://www.tennisexplorer.com/results/,results
+3,6,2025-08-25 14:58:55,Mallorca challenger,,,,24,,,,,,,Mallorca challenger,,,,,https://www.tennisexplorer.com/results/,results
+3,7,2025-08-25 14:58:55,Porto 2 challenger,,,,20,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,8,2025-08-25 14:58:55,UTR Pro Tennis Series,,,,34,,,,,,,UTR Pro Tennis Series,,,,,https://www.tennisexplorer.com/results/,results
+3,9,2025-08-25 14:58:55,UTR Pro Tennis Series 3,,,,79,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,10,2025-08-25 14:58:55,UTR Pro Tennis Series 5,,,,17,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,11,2025-08-25 14:58:55,UTR Pro Tennis Series 8,,,,7,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,12,2025-08-25 14:58:55,UTR Pro Tennis Series 9,,,,52,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,13,2025-08-25 14:58:55,Bytom ITF,,,,24,,,,,,,Bytom ITF,,,,,https://www.tennisexplorer.com/results/,results
+3,14,2025-08-25 14:58:55,Oldenzaal ITF,,,,25,,,,,,,Oldenzaal ITF,,,,,https://www.tennisexplorer.com/results/,results
+3,15,2025-08-25 14:58:55,Brasov 2 ITF,,,,24,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,16,2025-08-25 14:58:55,Heraklion 4 ITF,,,,17,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,17,2025-08-25 14:58:55,Nakhon Pathom 5 ITF,,,,24,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,18,2025-08-25 14:58:55,Trieste ITF,,,,16,,,,,,,Trieste ITF,,,,,https://www.tennisexplorer.com/results/,results
+3,19,2025-08-25 14:58:55,Verbier 2 ITF,,,,21,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,20,2025-08-25 14:58:55,UTR Pro Tennis Series 5,,,,36,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,21,2025-08-25 14:58:55,UTR Pro Tennis Series 9,,,,13,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,22,2025-08-25 14:58:55,Ankara 3 ITF,,,,22,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,23,2025-08-25 14:58:55,Kaltenkirchen ITF,,,,20,,,,,,,Kaltenkirchen ITF,,,,,https://www.tennisexplorer.com/results/,results
+3,24,2025-08-25 14:58:55,Luan 8 ITF,,,,25,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,25,2025-08-25 14:58:55,Monastir 50 ITF,,,,25,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,26,2025-08-25 14:58:55,Telavi 7 ITF,,,,24,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
+3,27,2025-08-25 14:58:55,UTR Pro Match Series,,,,79,,,,,,,UTR Pro Match Series,,,,,https://www.tennisexplorer.com/results/,results
+3,28,2025-08-25 14:58:55,UTR Pro Tennis Series,,,,76,,,,,,,UTR Pro Tennis Series,,,,,https://www.tennisexplorer.com/results/,results
+3,29,2025-08-25 14:58:55,UTR Pro Tennis Series 8,,,,15,,,,,,,,,,,,https://www.tennisexplorer.com/results/,results
