@@ -44,6 +44,13 @@ class TradingDetector:
         if self.data.empty:
             raise ValueError("No se pudieron descargar datos. Verifica el ticker y el intervalo.")
         
+        # Aplanar columnas multi-nivel si es necesario
+        if isinstance(self.data.columns, pd.MultiIndex):
+            self.data.columns = self.data.columns.get_level_values(0)
+        
+        # Eliminar filas con valores NaN
+        self.data = self.data.dropna()
+        
         print(f"✓ Datos descargados: {len(self.data)} registros")
         print(f"  Rango: {self.data.index[0]} a {self.data.index[-1]}")
         return self.data
