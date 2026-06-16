@@ -1,7 +1,11 @@
 import re
 from datetime import datetime
 
+# ---  CONFIGURACION --- #
 ETIQUETAS = "[TDC][SCB]"
+ARCHIVO_INPUT = "estado_de_cuenta.txt"
+
+# --- FUNCIONES PARSER --- #
 
 
 def extraer_fechas(linea):
@@ -48,19 +52,44 @@ def fromatear_fecha(fecha_str):
 
 def convertir_a_fila(linea):
     datos = parsear_linea(linea)
-
     date = fromatear_fecha(datos["fecha_op"])
     type_ = ""
     category = ""
     amount = datos["monto_mxn"]
     amount_gbp = datos["monto_gbp"]
     details = f"{ETIQUETAS} {datos['descripcion']}"
-
     return [date, type_, category, amount, amount_gbp, details]
 
+# --- LEER Y PROCESAR ---#
+
+
+filas = []
+errores = []
+
+with open(ARCHIVO_INPUT, "r", encoding="utf-8") as f:
+    for numero, linea in enumerate(f, start=1):
+        linea = linea.strip()
+        if not linea:
+            continue
+        try:
+            fila = convertir_a_fila(linea)
+            filas.append(fila)
+
+        except Exception as e:
+            errores.append(f" Linea {numero}: {linea[:50]}... -> {e}")
 
 # Prueba
-linea = "08-may-2026 11-may-2026 SumUp *MukjaLtdOxford 6.50GBP + $153.58"
+""" linea = "08-may-2026 11-may-2026 SumUp *MukjaLtdOxford 6.50GBP + $153.58"
 fila = convertir_a_fila(linea)
-print(fila)
-print("--- hello ---")
+print(fila) """
+
+# --- MOSTRAR RESULTADO --- #
+print("Date\t\tType\tCategory\tAmount\t\tAmount(GBP)\tDetails")
+print("-" * 90)
+for fila in filas:
+    print("\t".join(str(c) if c is not None else "" for c in fila))
+
+if errores:
+    print(f"\n⚠️ {len(errores)} linea(s) con error:")
+    for e in errores:
+        print(e)
