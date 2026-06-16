@@ -15,13 +15,21 @@ def extraer_fechas(linea):
 
 
 def extraer_monto_gbp(linea):
-    match = re.search(r'(\d+\.?\d*)GBP', linea)
-    return float(match.group(1)) if match else None
+    match = re.search(r'([\d,]+\.?\d*)GBP', linea)
+    if not match:
+        return None
+    # Quitar las comas antes de convertir a float
+    monto_str = match.group(1).replace(",", "")
+    return float(monto_str)
 
 
 def extraer_monto_mxn(linea):
-    match = re.search(r'\$(\d+\.?\d*)', linea)
-    return float(match.group(1)) if match else None
+    match = re.search(r'\$([\d,]+\.?\d*)', linea)
+    if not match:
+        return None
+    # Quitar las comas antes de convertir a float
+    monto_str = match.group(1).replace(",", "")
+    return float(monto_str)
 
 
 def extraer_descripcion(linea, fecha_cargo):
