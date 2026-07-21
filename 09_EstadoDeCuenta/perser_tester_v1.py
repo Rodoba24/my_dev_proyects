@@ -2,17 +2,40 @@ import re
 import os
 from datetime import datetime
 
+
 # --- CONFIGURACIÓN ---
-ETIQUETAS = "[TDC][SCB]"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ARCHIVO_INPUT = "estado_de_cuenta_BBVA.txt"
+PATRON_MONEDA = re.compile(r'^(GBP|EUR|MXP)\s*\$')
+ARCHIVO_INPUT = [
+    "estado_de_cuenta_07.txt",
+    "estado_de_cuenta_BBVA.txt"
+]
+ETIQUETAS = {
+    "1": "[TDC][SCB]",
+    "2": "[TDC][BBV]"
+    }
+
+MESES_ES = {
+    "ene": "jan", "feb": "feb", "mar": "mar", "abr": "apr",
+    "may": "may", "jun": "jun", "jul": "jul", "ago": "aug",
+    "sep": "sep", "oct": "oct", "nov": "nov", "dic": "dec"
+}
+
 
 # =============================================================
 # FUNCIONES COMPARTIDAS
 # =============================================================
 
 
+def traducir_fecha(fecha_str):
+    # 02-abr-2026 -> "02-apr-2026"
+    for es, en in MESES_ES.items():
+        fecha_str = fecha_str.replace(es, en)
+    return fecha_str
+
+
 def formatear_fecha(fecha_str):
+    fecha_str = traducir_fecha(fecha_str.lower())
     fecha = datetime.strptime(fecha_str, "%d-%b-%Y")
     return fecha.strftime("%d-%b-%y")
 
@@ -33,6 +56,7 @@ def extraer_monto_mxn(texto):
 def extraer_monto_gbp(texto):
     match = re.search(r'(\d+\.?\d*)GBP', texto)
     return float(match.group(1)) if match else None
+
 
 # =============================================================
 # BANCO 1 — una línea por entrada
@@ -78,7 +102,7 @@ def agrupar_lineas_banco2(lineas):
     i = 0
     while i < len(lineas):
         linea_actual = lineas[i]
-        if i + 1 < len(lineas) and lineas[i + 1].strip().startswith("GBP"):
+        if i + 1 < len(lineas) and PATRON_MONEDA.match(lineas[i + 1].strip()):
             grupos.append((linea_actual, lineas[i + 1]))
             i += 2
         else:
@@ -113,11 +137,11 @@ def parsear_banco2(linea_principal, linea_secundaria=None):
 # =============================================================
 
 
-def convertir_a_fila(datos):
+def convertir_a_fila(datos, banco):
     date = formatear_fecha(datos["fecha_op"])
     amount = datos["monto_mxn"]
     amount_gbp = datos["monto_gbp"]
-    details = f"{ETIQUETAS} {datos['descripcion']}"
+    details = f"{ETIQUETAS[banco]} {datos['descripcion']}"
     return [date, "", "", amount, amount_gbp, details]
 
 # =============================================================
@@ -126,7 +150,7 @@ def convertir_a_fila(datos):
 
 
 def procesar_banco1():
-    archivo = os.path.join(BASE_DIR, ARCHIVO_INPUT)
+    archivo = os.path.join(BASE_DIR, ARCHIVO_INPUT[0])
     filas, errores = [], []
 
     with open(archivo, "r", encoding="utf-8") as f:
@@ -135,7 +159,7 @@ def procesar_banco1():
             if not linea:
                 continue
             try:
-                filas.append(convertir_a_fila(parsear_banco1(linea)))
+                filas.append(convertir_a_fila(parsear_banco1(linea), "1"))
             except Exception as e:
                 errores.append(f"  Línea {numero}: {linea[:50]} → {e}")
 
@@ -143,17 +167,18 @@ def procesar_banco1():
 
 
 def procesar_banco2():
-    archivo = os.path.join(BASE_DIR, ARCHIVO_INPUT)
+    archivo = os.path.join(BASE_DIR, ARCHIVO_INPUT[1])
     filas, errores = [], []
 
     with open(archivo, "r", encoding="utf-8") as f:
-        lineas = [l.strip() for l in f if l.strip()]
+        lineas = [ln.strip() for ln in f if ln.strip()]
 
     grupos = agrupar_lineas_banco2(lineas)
 
     for i, (principal, secundaria) in enumerate(grupos, start=1):
         try:
-            filas.append(convertir_a_fila(parsear_banco2(principal, secundaria)))
+            filas.append(convertir_a_fila(parsear_banco2(principal,
+                                                         secundaria), "2"))
         except Exception as e:
             errores.append(f"  Entrada {i}: {principal[:50]} → {e}")
 
