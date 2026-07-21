@@ -78,7 +78,7 @@ def convertir_a_fila(linea):
     details = f"{ETIQUETAS} {datos['descripcion']}"
     return [date, type_, category, amount, amount_gbp, details]
 
-# --- LEER Y PROCESAR --- #
+# --- LEER Y PROCESAR ---#
 
 
 filas = []
