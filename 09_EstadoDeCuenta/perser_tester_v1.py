@@ -5,10 +5,10 @@ from datetime import datetime
 
 # --- CONFIGURACIÓN ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PATRON_MONEDA = re.compile(r'^(GBP|EUR|MXP)\s*\$')
+PATRON_MONEDA = re.compile(r'^(GBP|EUR|MXP|USD)\s*\$')
 ARCHIVO_INPUT = [
     "estado_de_cuenta_07.txt",
-    "estado_de_cuenta_BBVA.txt"
+    "estado_de_cuenta_BBVA_2.txt"
 ]
 ETIQUETAS = {
     "1": "[TDC][SCB]",
