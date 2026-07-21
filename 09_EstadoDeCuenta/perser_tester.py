@@ -1,9 +1,19 @@
 import re
 from datetime import datetime
 
+# --- INSTRUCCIONES --- #
+# 1. Copiar y pegar estado de cuenta en un archivo txt
+# 2. Limpiar archivo txt eliminando lineas no deseadas.
+# Solo deven de estar la tabla
+# 3. Modificar la variable ARCHIVO_INPUT para leer el archivo txt correcto
+# 4. Ejecutar perser_tester.py
+# 5. Copiar y pegar output en excel.
+# 6. En excel, ajustar el formato en Data> text to column.
+
+
 # ---  CONFIGURACION --- #
 ETIQUETAS = "[TDC][SCB]"
-ARCHIVO_INPUT = "estado_de_cuenta.txt"
+ARCHIVO_INPUT = "estado_de_cuenta_07.txt"
 
 # --- FUNCIONES PARSER --- #
 
